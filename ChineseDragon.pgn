@@ -57,8 +57,14 @@ Idea: Support d6 and Ra6->Qa5
 )
 
 14.Nde2 b5 15.g4 
-( 15.Rxd6 b4 16.Nb1 Nxb3+ 17.axb3 Ne8 18.Rd3 Qc7 )
+( 15.Rxd6 b4 16.Nd5
+( 16.Nb1 Nxb3+ 17.axb3 Ne8 18.Rd3 Qc7 {Idea: Bd7 -> b5 and Ne8 -> g7 -> e6 -> d4} 19.Rhd1 Bb5 )
+( 16.Na4 Qe7 
+( 16...Nb7 17.Rd2 Qe8 18.Ng3 Bxa4 19.Nf5 )
+17.Rhd1 Bb5 18.Ng3 Nxb3+ 19.axb3 Ne8 20.R6d2 Ng7 )
+16...Nxb3+ 17.axb3 Nxd5 18.Rxd5 Qc7 19.Kb1 Be6 20.Rd3 Rfc8 21.Rc1 a5 )
 15...b4 16.Nd5 Nxb3+ 17.axb3 Nxd5 18.Rxd5 Be6 )
+
 
 10...h5
 
