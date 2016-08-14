@@ -1,0 +1,105 @@
+[Event "Edited game"]
+[Site "rslptp776"]
+[Date "2016.08.14"]
+[Round "-"]
+[White "-"]
+[Black "-"]
+[Result "*"]
+
+
+	   1.	e4    	c5    
+	   2.	Nf3   	d6    
+	   3.	d4    	cxd4  
+	   4.	Nxd4  	Nf6   
+	   5.	Nc3   	g6    
+	   6.	Be3   	Bg7   
+	   7.	f3    	O-O   
+	   8.	Qd2   	Nc6   
+	   9.	Bc4   	Bd7   
+	  10.	O-O-O 	Rc8   
+	  11.	Bb3   	Ne5   
+	  12.	h4    	h5    
+	  13.	Bg5   	
+ 
+( 13.Kb1 Nc4 14.Bxc4 Rxc4 15.Nde2 
+( 15.Bh6 Bxh6 16.Qxh6 Rxc3 17.bxc3 Qc7 )
+15...b5 16.Bh6 Qa5 17.Bxg7 Kxg7 18.Nf4 Rfc8 19.g4 
+( 19.Ncd5 Qxd2 20.Rxd2 Nxd5 21.Nxd5 Kf8 )
+19...b4 20.Ncd5 Rxc2 21.Qxc2 Rxc2 22.Kxc2 Qxa2 )
+
+	  13.	...        	Rc5   
+	  14.	g4    	
+ 
+( 14.f4 Nc4 15.Qd3 
+( 15.Bxc4 Rxc4 16.e5 Bg4 17.exf6 
+( 17.Nf3 Nh7 )
+17...exf6 18.Nf3 )
+15...Ng4 16.Qe2 
+( 16.Nd5 Re8 17.Bxc4 Nf2 18.Qd2 Nxd1 )
+( 16.Bxc4 Nf2 17.Qe2 Nxh1 18.Bb3 Bg4 19.Nf3 Rxc3 20.bxc3 Qa5 21.Rxh1 Qxc3 22.Rd1 
+( 22.Qd1 e6 23.Be7 Re8 24.Bxd6 Rd8 25.e5 Bxf3 26.gxf3 Rxd6 27.exd6 Qe3+ 28.Kb1 
+( 28.Qd2 Bb2+ 29.Kd1 Qxf3+ )
+28...Qc3 )
+22...Qb2+ 23.Kd2 Qc3+ 24.Kc1 )
+16...Nxb2 17.Kxb2 Qb6 )
+( 14.Kb1 Re8 15.Bh6 
+( 15.g4 hxg4 16.h5 Nxh5 17.Rxh5 gxh5 18.Qh2 
+( 18.Bh6 e6 )
+18...Ng6 19.Qxh5 Qa5 20.Qxg6 
+( 20.f4 Rxg5 21.fxg5 e6 )
+20...e6 )
+( 15.Rhe1 Qa5 16.a3 
+( 16.f4 Nc4 17.Bxc4 Rxc4 18.Nb3 Qa6 19.e5 Ng4 20.exd6 Bxc3 21.bxc3 e6 )
+16...Qa6 17.f4 Nc4 18.Bxc4 Rxc4 19.e5 Ng4 20.Nd5 dxe5 21.fxe5 Nxe5 22.Nxe7+ Kh7 )
+( 15.f4 Nc4 16.Qd3 Qc8 17.f5 gxf5 18.exf5 Ne5 19.Qe2 Neg4 )
+15...Qa5 16.g4 Rxc3 17.Bxg7 Kxg7 18.bxc3 Rc8 19.g5 Ne8 20.f4 Nc4 21.Bxc4 Rxc4 )
+
+	  14.	...        	hxg4  
+	  15.	h5    	
+ 
+( 15.Bxf6 Bxf6 16.h5 g5 17.f4 gxf4 18.Qxf4 Nd3+ 19.Rxd3 Bg5 )
+( 15.f4 Nc4 16.Qe2 
+( 16.Bxc4 Rxc4 17.e5 Nh5 18.exd6 Rxd4 19.dxe7 Rxd2 20.exd8=Q Rxd1+ 21.Rxd1 Rxd8 22.Bxd8 Bc6 )
+( 16.Qd3 b5 17.h5 
+( 17.f5 Ne5 18.Qe2 b4 )
+( 17.e5 dxe5 18.Ndxb5 Nxb2 19.Kxb2 e4 20.Qd2 Qb6 )
+17...Nxh5 18.f5 Bxd4 19.Qxd4 e5 )
+16...Qc8 17.f5 
+( 17.h5 Nxh5 18.Nd5 
+( 18.Bxc4 Rxc4 19.Nd5 Re8 20.Nf5 Bxf5 21.exf5 )
+18...Re8 19.Nxe7+ Rxe7 20.Bxe7 Ng3 21.Qh2 Nxh1 22.Rxh1 Rh5 )
+( 17.Bxf6 Bxf6 18.h5 g3 19.hxg6 Bg4 20.Qd3 Bxd1 21.Nxd1 )
+17...Na5 18.fxg6 Nxb3+ 19.Nxb3 Rxc3 20.bxc3 fxg6 )
+
+	  15.	...        	Nxh5  
+	  16.	Nd5   	Rxd5  
+	  17.	Bxd5  	Qb6   
+	  18.	Bb3   	
+ 
+( 18.Bxe7 Nxf3 19.Nxf3 Qxb2# )
+( 18.c3 e6 19.Bb3 gxf3 )
+
+	  18.	...        	Rc8   
+ 
+( 18...a5 19.Rxh5 gxh5 20.Qh2 a4 
+( 20...gxf3 21.Qxh5 Bg4 22.Qh4 f2 23.Be3 Nd3+ 24.Kb1 Bxd1 25.Nf5 Bxc2+ 26.Kxc2 Qc7+ )
+21.Qxh5 axb3 22.Rh1 f6 )
+
+	  19.	Nf5   	
+ 
+( 19.Bxe7 Nc4 20.Bxc4 Rxc4 21.Nb3 gxf3 22.Bxd6 Bc6 23.Qd3 )
+
+	  19.	...        	gxf5  
+	  20.	Rxh5  	Nc4   
+	  21.	Qh2   	Bxb2+ 
+	  22.	Kb1   	Be5   
+	  23.	f4    	Na3+  
+	  24.	Kc1   	g3    
+	  25.	Qxg3  	Rxc2+ 
+	  26.	Bxc2  	Qb2+  
+	  27.	Kd2   	Qxc2+ 
+	  28.	Ke1   	Bc3+  
+	  29.	Kf1   	Bb5+  
+	  30.	Kg1   	Qxd1+ 
+	  31.	Kg2   	Qxh5  
+ * 
