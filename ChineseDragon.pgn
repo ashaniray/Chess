@@ -43,8 +43,19 @@ White has played Bh6. Otherwise, generally Nxb3 is better.
 )
 
 Bxh6 
-13. Qxh6 b5
+13. Qxh6 e5
+(13...b5
 14. h4 e5
+15.Nde2 b4 16.Nd5 Nxb3+ 17.cxb3 Nxd5 18.Rxd5 Be6 19.Rdd1 Rb6 
+{
+Idea: Support d6 and Ra6->Qa5
+}
+20.h5 
+( 20.g4 Ra6 21.Kb1 Qa5 22.Nc1 Bxb3 )
+20...g5
+)
+
+
 )
 h5
 
