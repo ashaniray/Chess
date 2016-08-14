@@ -46,7 +46,8 @@ Bxh6
 13. Qxh6 e5
 (13...b5
 14. h4 e5
-15.Nde2 b4 16.Nd5 Nxb3+ 17.cxb3 Nxd5 18.Rxd5 Be6 19.Rdd1 Rb6 
+15.Nde2 ( 15.Nf5 {This is messy. Practice this. The 13. e5 avoids this.})
+15...b4 16.Nd5 Nxb3+ 17.cxb3 Nxd5 18.Rxd5 Be6 19.Rdd1 Rb6 
 {
 Idea: Support d6 and Ra6->Qa5
 }
@@ -55,9 +56,11 @@ Idea: Support d6 and Ra6->Qa5
 20...g5
 )
 
+14.Nde2 b5 15.g4 
+( 15.Rxd6 b4 16.Nb1 Nxb3+ 17.axb3 Ne8 18.Rd3 Qc7 )
+15...b4 16.Nd5 Nxb3+ 17.axb3 Nxd5 18.Rxd5 Be6 )
 
-)
-h5
+10...h5
 
 
 *
