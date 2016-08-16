@@ -1,0 +1,69 @@
+[Event "Edited game"]
+[Site "rslptp776"]
+[Date "2016.08.14"]
+[Round "-"]
+[White "-"]
+[Black "-"]
+[Result "*"]
+
+
+
+	   1.	e4    	c5    
+	   2.	Nf3   	d6    
+	   3.	d4    	cxd4  
+	   4.	Nxd4  	Nf6   
+	   5.	Nc3   	g6    
+	   6.	Be3   	Bg7   
+	   7.	f3    	O-O   
+	   8.	Qd2   	Nc6   
+	   9.	g4    	Be6   
+ 
+( 9...Bxg4 10.fxg4 Nxg4 11.Nb3 
+( 11.Bg1 e6 12.O-O-O 
+( 12.h4 h5 13.Be2 Bh6 14.Qd3 Nce5 15.Qg3 Rc8 16.Rd1 a6 17.Nf3 Nc4 18.Bxc4 Rxc4 19.Qxd6 Qf6 )
+12...Bh6 )
+( 11.Nxc6 bxc6 12.Be2 Nxe3 13.Qxe3 Rb8 14.O-O-O e6 )
+11...a5 
+( 11...d5 12.Nxd5 
+( 12.exd5 Nxe3 13.Qxe3 Bxc3+ 14.bxc3 Qxd5 15.Rg1 Rac8 16.Rg3 f5 17.Qe2 e5 18.Rd3 Qe6 )
+12...e6 13.Nf4 Bxb2 14.Qxd8 Raxd8 15.Rb1 Nxe3 16.Rxb2 Nd1 17.Rb1 Nc3 18.Ra1 Nb4 19.Bd3 e5 )
+12.a4 
+( 12.O-O-O a4 13.Nd4 
+( 13.Na1 a3 14.b3 Nxe3 15.Qxe3 Qa5 )
+13...Nxe3 )
+12...Nxe3 13.Qxe3 Rc8 14.O-O-O Bxc3 15.bxc3 
+( 15.Qxc3 Nb4 )
+15...Ne5 )
+
+	  10.	Nxe6  	
+ 
+( 10.h4 d5 )
+( 10.O-O-O Nxd4 11.Bxd4 Qa5 12.Kb1 
+( 12.a3 Rab8 13.Kb1 Rfc8 14.h4 b5 15.Nd5 Qxd2 16.Rxd2 Bxd5 17.exd5 a5 )
+12...Rfc8 13.a3 Bc4 )
+
+	  10.	...        	fxe6  
+	  11.	O-O-O 	
+ 
+( 11.Bc4 Qc8 12.Bb3 Na5 13.O-O-O Nxb3+ 14.cxb3 Nd7 )
+
+	  11.	...        	Rc8   
+ 
+( 11...Ne5 12.Be2 Qc8 13.h4 Nfd7 14.f4 Nc4 15.Bxc4 Qxc4 16.e5 Rad8 17.h5 dxe5 18.hxg6 exf4 19.gxh7+ Kh8 20.Bxa7 )
+
+	  12.	Bc4   	Qd7   
+	  13.	Bb3   	Na5   
+	  14.	h4    	Nc4   
+	  15.	Qd3   	Qc6   
+	  16.	Ne2   	Nd7   
+	  17.	Nd4   	Qa6   
+	  18.	f4    	e5    
+	  19.	fxe5  	Nxe5  
+	  20.	Qe2   	Kh8   
+	  21.	h5    	gxh5  
+	  22.	Rxh5  	
+ 
+( 22.gxh5 )
+
+	  22.	...        	Nxe3  
+	  23.	Qh2    * 
