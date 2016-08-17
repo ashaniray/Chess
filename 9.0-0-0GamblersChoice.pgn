@@ -1,0 +1,51 @@
+[Event "Edited game"]
+[Site "rslptp776"]
+[Date "2016.08.14"]
+[Round "-"]
+[White "-"]
+[Black "-"]
+[Result "*"]
+
+
+	   1.	e4    	c5    
+	   2.	Nf3   	d6    
+	   3.	d4    	cxd4  
+	   4.	Nxd4  	Nf6   
+	   5.	Nc3   	g6    
+	   6.	Be3   	Bg7   
+	   7.	f3    	O-O   
+	   8.	Qd2   	Nc6   
+	   9.	O-O-O 	Bd7   
+	  10.	g4    	
+ 
+( 10.h4 h5 )
+
+	  10.	...        	Rc8   
+	  11.	h4    	Ne5   
+	  12.	Kb1   	
+ 
+( 12.h5 Qa5 13.Kb1 
+( 13.Be2 b5 14.Nb3 Qc7 15.hxg6 fxg6 16.g5 b4 17.Nd5 Nxd5 18.Qxd5+ e6 19.Qd2 Nxf3 )
+13...Rxc3 14.Qxc3 Qxc3 15.bxc3 Nxf3 16.Nxf3 Bxg4 17.Be2 Nxe4 )
+( 12.Be2 h5 13.gxh5 Nxh5 )
+
+	  12.	...        	h5    
+ 
+( 12...Qa5 
+( 12...b5 13.h5 Nxf3 14.Nxf3 Bxg4 15.Be2 
+( 15.Qg2 Rxc3 16.bxc3 Qa5 17.Bd4 e5 18.Be3 Nxe4 19.Qxg4 Nxc3+ 20.Kc1 Nxa2+ 21.Kb2 b4 22.c4 Qa3+ 23.Kc2 Qc3+ 24.Kb1 Qb3+ 25.Ka1 Nc3 )
+)
+13.h5 
+( 13.Be2 )
+13...Rxc3 )
+( 12...b5 13.h5 Nxf3 14.Nxf3 Bxg4 15.Bg2 Bxh5 )
+
+	  13.	gxh5  	Nxh5  
+	  14.	Rg1   	Rxc3  
+	  15.	bxc3  	
+ 
+( 15.Qxc3 Nxf3 )
+
+	  15.	...        	Qb6+  
+	  16.	Nb3   	Qc7   
+ * 
