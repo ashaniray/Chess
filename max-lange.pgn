@@ -1,0 +1,280 @@
+[Event "Baden-Baden it"]
+[Site "Baden-Baden, GER"]
+[Date "1914.??.??"]
+[Round "11"]
+[White "Fahrni,  Hans"]
+[Black "Tartakower,  Saviely"]
+[Result "0-1"]
+[ECO "C55"]
+[Annotator "Goeller,Michael"]
+[PlyCount "82"]
+[EventDate "1914.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O Bc5 6. e5 d5 ({a)} 6... Ng4 $5
+7. Bf4 $1 (7. h3 $2 Ngxe5 8. Nxe5 Nxe5 9. Re1 d6 10. f4 d3+ 11. Kh2 Qh4 $40 {
+Steinitz}) (7. c3 $5 {Horowitz} d5 (7... dxc3 $6 8. Bxf7+ Kxf7 9. Qd5+ Kf8 10.
+Qxc5+ Qe7 (10... d6 11. exd6 Qxd6 12. Qxc3 $14) 11. Qxe7+ $1 (11. Qxc3 $5 $44)
+11... Kxe7 12. Nxc3 $16) (7... Ngxe5 $5 8. Nxe5 Nxe5 9. Re1 {Horowitz suggests
+that this simply wins a piece -- but Fritz shows it's not that simple, though
+it is still advantageous for White.} Qe7 10. b4 $1 (10. cxd4 $6 Bxd4 $1) (10.
+f4 dxc3+ 11. Kh1 cxb2 12. Bxb2 Nxc4 13. Rxe7+ Bxe7 $13) 10... Bb6 $13 (10...
+Bd6 11. f4) 11. Bf4 d6 12. cxd4 Bxd4 13. Qxd4 Nf3+ 14. gxf3 Qxe1+ 15. Kg2 O-O
+16. Nd2 $40) 8. Bb5 dxc3 9. h3 $1 {Horowitz} (9. Nxc3 $5) 9... cxb2 (9... Nh6
+10. Nxc3 Nf5 11. Qxd5 Qxd5 12. Nxd5 $16) 10. Bxb2 $36 Nh6 (10... Nxf2 $5 11.
+Rxf2 Bxf2+ 12. Kxf2 O-O 13. Bxc6 bxc6 14. Qc2 $44) 11. Qc2 Be7 (11... Bb6 12.
+Ba3 $5 Nf5 (12... Rb8) 13. Bxc6+ bxc6 14. Qxc6+ Bd7 15. Qxd5 Ne7 $6 (15... Rb8
+$5) 16. Bxe7 Kxe7 17. Qe4 Be6 18. Nc3 $16 {Horowitz}) 12. Nd4 O-O 13. Bxc6 bxc6
+14. Nxc6 Qe8 15. Nxe7+ Qxe7 16. Ba3 c5 17. Bxc5 Qc7 18. Qc3 $14) 7... d6 (7...
+O-O 8. h3 Nh6 9. Bg5 $1 Be7 10. Bxh6 gxh6 11. Bd5 {
+Bernstein-Fine, Paris-NY Match 1949}) 8. exd6 Bxd6 (8... cxd6 9. Re1+ Kf8 (9...
+Nge5 10. Bxe5 dxe5 11. Nxe5 $16) 10. h3 $1 Nge5 (10... Nf6 11. Nbd2 $14) 11.
+Bxe5 Nxe5 12. Nxe5 dxe5 13. Rxe5 Qc7 14. Qe2 g6 15. Nd2) 9. Re1+ Kf8 (9... Ne7
+10. Bxd6 Qxd6 11. Qe2 $36) (9... Be7 10. Bb5 O-O 11. Bxc6 bxc6 12. h3 $1 (12.
+Nxd4 Bh4 13. g3 Bf6 14. c3 Qd5) 12... Nf6 13. Nxd4 $14) 10. Bxd6+ Qxd6 11. c3
+$1 dxc3 (11... Bf5 12. cxd4 Rd8 13. Bb5 g6 14. Bxc6 Qxc6 15. Nc3 $14 {
+Rossolimo-O'Kelley, Trencianske-Teplice 1949}) (11... Qc5 12. Nxd4 $1 Nxd4 (
+12... Qxc4 $2 13. Nxc6 $40) 13. Qxd4 Qxd4 14. cxd4 Bd7 15. Nc3 $14) 12. Nxc3
+$44) ({b)} 6... Ne4 $2 7. Re1 (7. Bd5 f5 8. exf6 Nxf6 9. Bg5 Be7 10. Bxf6 $1
+Bxf6 (10... gxf6 11. Ng5 $1 h5 12. Nf7) 11. Re1+ Ne7 (11... Kf8 $142) 12. Ne5
+Bxe5 13. Qh5+ g6 14. Qxe5 Rf8 15. Nd2 c6 16. Ne4 $5 (16. Nc4 $1 {forces mate})
+16... d6 $6 (16... Qa5 $8) 17. Nxd6+ Kd7 18. Be6+ Kc7 19. Nxc8+ {
+Morphy-Dominguez, Havana 1864}) 7... d5 (7... f5 $2 8. exf6 d5 9. fxg7 Rg8 10.
+Rxe4+) 8. exd6 f5 9. Nbd2 $40) 7. exf6 (7. Bb5 Ne4 8. Nxd4 O-O $1 $13) 7...
+dxc4 8. fxg7 $1 (8. Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nce4 O-O-O {is the clas
+sical main line of the Max Lange, which has been analyzed as giving Black the
+better chances in a likely draw. John Emms, in Play the Open Games as Black,
+does a good job of summing up Black's best lines here.}) 8... Rg8 $8 9. Bg5 $1
+{Fahrni may have originated this approach, which only appears in previous
+recorded games that transpose to standard lines. Horowitz's analysis, though,
+makes it a fully viable weapon.} Be7 ({Horowitz analyzed} 9... f6 $5 10. Bh6 {
+Horowitz writes: "A resume of the position here discloses various pluses and
+minuses for White and Black: White's king is secure, an important point; 2)
+the White Pawn at g7 is a belligerent threat: it must hurdle only one rank to
+reach the eighth; 3) Black's "King is insecrure; 4) Black dominates the
+greater portion of the center. Because Black commands the center and, too,
+because White's pawn at g7 is tenuous, White must exploit and capitlize his
+advantages before Black achieves security. Given sufficient time Black will
+drive the White Bishop from h6, pick off the g-pawn, and rake white on the
+open g-file. Black must therefore strive to develop his light-squared Bishop
+and Queen, clear his first rank for Queenside castling, check advances toward
+his king, and, finally, institute a counter-attack."} (10. Re1+ Kf7 11. Bh6 (
+11. Ne5+ Nxe5 12. Rxe5 Bd6 (12... fxg5 $6 13. Rxc5 $1 (13. Qh5+ $5 Kxg7 14.
+Rxg5+ Kh8 15. Rxg8+ {Schlechter} Qxg8 $1 16. Qxc5 Qg7 17. c3 $1 {Goeller} (17.
+Qxc4 Bh3 $44 {Tamburro}) 17... d3 (17... Bh3 18. Qxd4 $14 {is the point}) (
+17... dxc3 18. Nxc3 Bh3 19. g3 $14) 18. Nd2 (18. Qxc4 Bh3) 18... Be6 19. Re1)
+13... Qe7 14. Qh5+ Kxg7 15. Rxg5+ Kh8 16. Rxg8+ Kxg8 $11) (12... Be7 13. Qh5+
+Kxg7 14. Qh6+ Kf7 15. Qxh7+ Rg7 16. Qh5+ $11 {MCO}) 13. Qh5+ Kxg7 14. Qh6+ Kf7
+15. Qxh7+ Rg7 16. Qh5+ Rg6 $11) 11... Kg6 $1 (11... Qd5 $6 12. Nc3 Qf5 13. Ne4
+Bb6 14. Qe2 Qd5 $2 15. Nfg5+ $1 $18 {Tamburro}) 12. Qc1 $13) 10... Bg4 (10...
+Qd5 {threatening Qh5 and preparing O-O-O} 11. Re1+ (11. Nc3 $5) 11... Ne7 (
+11... Kf7 12. Nc3 $1 Qf5 (12... Qh5 $4 13. Ne5+) 13. Ne4 $1 Bb6 (13... Bb4 14.
+c3 $1) 14. Qe2 d3 $1 (14... Qd5 $2 15. Nfg5+ $1 Kg6 16. Nxf6 Kxf6 17. Qh5 $18)
+15. cxd3 Qg6 16. Nfg5+ $1 fxg5 17. Qf3+ Qf5 18. Qh5+ Qg6 19. Nxg5+ $40) (11...
+Be7 12. Nxd4 $1 Nxd4 (12... Bh3 $5 13. Qf3 $1 $16) (12... Qxd4 $2 13. Qh5+ Kd8
+14. Rd1 $18) 13. Nc3 $40 {Horowitz}) (11... Be6 12. Nc3 Qd7 (12... Qf5 13. Nh4
+$18) 13. Ne4 $1 (13. Qe2 $5 dxc3 14. Qxc4 O-O-O 15. Qxc5 cxb2 16. Rab1 $13)
+13... Be7 $8 14. Nxd4 $3 Nxd4 15. c3 $5 (15. Qh5+ $5 Kd8 16. Nc5 $1 Bxc5 17.
+Qxc5 $14) 15... O-O-O $1 16. cxd4 (16. Qxd4) 16... Qxd4 17. Qxd4 Rxd4 18. Ng3
+$1 Kd7 (18... Rd6 19. Nf5 Bxf5 20. Rxe7 Bg6 21. Rae1 $14) 19. Re2 $1 $14 ({
+Not Horowitz's original idea of} 19. Rxe6 $2 Kxe6 20. Re1+ Kf7 21. Rxe7+ Kxe7
+22. Nf5+ {when Horowitz mistakenly thought White was better here -- but he
+needed to look two moves further to see that the Knight is lost due to the
+back rank threat:} Kf7 23. Nxd4 Rd8 $19) 19... Rd6 20. Rae1 Ra6 21. h4 (21. h3
+Bb4 22. Bd2)) 12. Nxd4 $3 Bxd4 (12... Qxd4 $4 13. Qh5+ Kd8 14. Rd1 $18) 13. Nc3
+Qc5 14. Ne4 Qe5 15. c3 Bb6 16. Ng3 $1 $16 (16. Qf3 $5 {Horowitz} Qf5 $1 $13 (
+16... f5 17. Qh5+ $18 Kd7 18. Ng3 Qc5 19. Be3 Qb5) (16... Bf5 17. Ng3) 17.
+Nxf6+ Kf7 18. Nxg8 Nxg8 $13) (16. Nd6+ $5 cxd6 17. Rxe5 dxe5 $13) 16... Qc5 (
+16... Qb5 17. a4 Qc5 18. b4 cxb3 19. Qxb3 Kd8) 17. b4 $3 Qxf2+ (17... cxb3 18.
+Qxb3 $18) 18. Kh1 Bf5 19. Re2 Bg4 20. Rxe7+ Kxe7 21. Qxg4 $18) 11. h3 Bh5 (
+11... Be6 $5 12. Re1 Qe7 (12... Qd7 $2 13. Qe2 Kf7 14. Ng5+ $1 fxg5 15. Qh5+
+Ke7 16. Bxg5+ Kd6 $8 17. Bf4+ Ke7 18. Qxc5+ Kf7 19. Qh5+ Ke7 20. Qxh7 $18) 13.
+Qe2 $1 Kd7 (13... Bf7 $5 14. Nbd2 O-O-O 15. Qxe7 Bxe7 16. c3 $5 d3 17. Nh4 $14)
+14. Nbd2 $1 (14. c3 d3) (14. Qe4 f5 15. Qf4) 14... Rae8 (14... Bd5 15. Ne4 $5
+Bd6 16. Rad1 Rae8 17. Nfd2 f5 18. Nxd6 Qxd6 19. Qh5) 15. Nxc4 Kc8 16. Ncd2 Qf7
+17. Qd3 Qh5 18. Qxh7 $16) 12. Qe2+ (12. Re1+ Be7 13. g4 Bf7 14. c3) 12... Qe7
+$1 (12... Ne5 13. g4 $1 d3 14. Qe1 $1 (14. cxd3 cxd3 15. Qe1 Bg6 16. Nxe5 fxe5
+17. Qxe5+ $16)) 13. Qxc4 O-O-O 14. Nbd2 (14. Re1 Ne5 15. Nxe5 fxe5 16. Nd2 Bb4)
+14... Bf7 15. Qd3 Bg6 $11) (9... Qd5 $6 10. Nc3 Qf5 11. Ne4 $1 Be7 (11... Rxg7
+$2 12. Nh4 $1 Qxe4 (12... Qe5 $2 13. Re1 Kf8 14. f4 $18 (14. Bh6 $18)) 13. Re1
+Qxe1+ 14. Qxe1+ Be6 15. Bf6 $16) 12. Bxe7 (12. Re1 $5) 12... Kxe7 13. Nxd4 Nxd4
+14. Qxd4 Be6 15. Rfe1 $18) (9... Ne7 10. Nbd2 Bf5 11. Re1 Qd7 12. Nxc4 Rxg7 (
+12... O-O-O 13. Qd2 Rxg7 14. b4 Bh3 $5 15. Nce5 Qf5 16. bxc5 f6 17. c6 fxe5 (
+17... Nxc6 18. Nxc6 Qg4 19. Nxa7+ Kb8 20. Nc6+ $1 bxc6 (20... Kc8 21. Nh4)) 18.
+cxb7+ Kb8 19. Rxe5 $16)) 10. Bxe7 Kxe7 {I.A. Horowitz writes: "A quick
+appraisal indicates various pluses and minuses for both sides. White's pawn at
+[g7], for example, is doomed. On the other hand, Black's King and his Kingside
+Pawn structure are targets. The problem here is to determine how each side can
+best pursue its advantage while in turn restraining the other side" (CR 1958,
+p. 194).} (10... Qxe7 $6 11. Nxd4 $14 {
+when Black's pawns give White targets for attack.} Nxd4 12. Qxd4 Be6 13. Nc3 (
+13. f4 $5 c5) 13... c5 14. Qe5 O-O-O $6 (14... f6 15. Qh5+ Qf7 16. Qxc5 Qxg7
+17. g3 $16) 15. Nb5 $1 a6 (15... b6 16. Rfd1 f6 17. Qe4 Kb8) 16. Na7+ Kd7 17.
+Rad1+ Ke8 18. Rxd8+ Qxd8 19. c3 $1 (19. f4 $5 Qd4+ 20. Qxd4 cxd4 21. f5 Bd5 22.
+f6 $1 Kd7 23. Re1 Kc7 24. Kf2 Kb6 25. Re5 Be6 (25... Kc5 26. Rh5) 26. Rxe6+)
+19... Ke7 20. Re1 $1 Qb6 21. Nc8+ (21. f4) 21... Rxc8 22. Qg5+ Kd7 23. g8=Q $18
+) 11. Re1+ $1 {Horowitz continues: "Because Black's Bishop is often well
+posted at [g4] it seems best to tie it down to [e6] immediately."} ({a)} 11.
+Qe2+ Be6 12. Nbd2 Qd5 13. b3 $5 $13) ({b)} 11. Nbd2 $6 Rxg7 12. Nxc4 Be6 13.
+Re1 Kf8 $11 {Fotys-Stulik 1940}) 11... Be6 12. Re4 $1 ({
+The first game with this line went instead} 12. Nbd2 $5 Qd5 (12... Rxg7 $1 13.
+Nxc4 Kf8 $15 {Zagorovsky}) 13. b3 cxb3 14. Nxb3 Rad8 15. Qe2 d3 16. cxd3 (16.
+Qe3 $5 Rxg7 (16... dxc2 $6 17. Qc3 $1) 17. Rad1 Nb4 18. Na1 {is unclear}) 16...
+Rxg7 17. d4 $6 Kf8 18. Rac1 Rg6 19. Rc3 a5 20. Qd2 a4 21. Nc5 Nxd4 22. Nxe6+
+Rxe6 23. Nxd4 Qxd4 24. Qc1 Rxe1+ 25. Qxe1 Qxc3 {
+0-1, Mieses-Tiechmann, St. Petersburg 1909}) 12... f5 ({
+The most important alternative is} 12... d3 $5 {when Horowitz recommended} 13.
+Ng5 $5 {noting: "Out of a welter of possibilities, this move appears to lead
+to a positional edge. The plan is to eliminate Black's Bishop and saddle Black
+with a couple of isolated Pawns" (CR 1958, p. 194). Two alternatives are worth
+examining:} (13. Nc3 $5 Rxg7 14. Re3 $1 ({better than} 14. cxd3 $6 Qxd3 $1 (
+14... cxd3 $6 15. Qb3 b6 16. Nd5+ Kf8 17. Rxe6 fxe6 18. Nf4 $40) 15. Nd5+ Kf8
+$1 16. Qxd3 cxd3 17. Nxc7 Bh3 $1 $15 {as given by Horowitz, following an
+article in Debut magazine as quoted by MCO -- and given by other sources also
+(such as Zagorovsky)}) 14... Nb4 $1 (14... dxc2 15. Qxc2 Qg8 16. g3 $44) 15.
+cxd3 (15. Ne1 $6 dxc2 $1) 15... Nxd3 16. Ne1 Nxe1 17. Qxe1 Kf8 18. Ne4 $44 {
+(Goeller) gives White compensation but no clear path to advantage.}) ({
+Horowitz wrote: "Another way with apparently promising prospects is"} 13. Nbd2
+$1 {which I think is relatively best:} Qd5 (13... Rxg7 14. Nxc4 Kf8 15. Ne3 $1
+$14) 14. Rf4 $1 {(Goeller)} ({better than Horowitz's line} 14. Rxc4 $6 Rxg7 15.
+Rc3 $6 {of which he wrote: "[White thus] appears to contain Black's assault,
+leaving him with chronic defects in his Pawn structure." But Fritz points out}
+Rxg2+ $3 16. Kxg2 Rg8+ 17. Kh1 Bh3 18. Rxd3 Bg2+ 19. Kg1 Bxf3+ 20. Kf1 Qxd3+ (
+20... Rg1+ 21. Kxg1 Qg5+ 22. Kf1 Qg2+ 23. Ke1 Bxd1 24. Rxd1 Nb4 25. Rc3 Qxh2
+$15 {may be even better}) 21. cxd3 Bxd1 22. Rxd1 Rd8 $15 {
+when it is White whose pawns are weaker.}) 14... Rxg7 (14... Rad8 $5 15. Nxc4
+Rxg7 16. cxd3 (16. Ne3 Qd6) 16... Qxd3 (16... Kf8 $6 17. Qe1 $1 Kg8 (17... Qxd3
+$4 18. Qxe6) 18. Rd1 $5 $14) 17. Qe1 Qg6 (17... Nd4 18. Nxd4 Rxd4 19. Rxd4 Qxd4
+20. b3 $14) 18. Nh4 Qg5 19. Nf5+ {
+and Black's exposed king continues to be a problem for him.}) 15. Nxc4 Rag8 16.
+g3 $1 (16. Ne3 $6 Rxg2+ $1 $11) 16... Rd8 ({better may be} 16... dxc2 17. Qxc2
+Qc5 $1 18. Rc1 Rg4 19. Rxg4 Rxg4 20. b3 $14 {(Goeller)} Qh5 (20... b5 $4 21.
+Ne3 $18) 21. Ne3 Rg6 22. Nh4 $36 Qxh4 23. Qxg6 $14) 17. cxd3 Kf8 (17... Qxd3 $6
+18. Qe1 $36) 18. Qb3 b5 19. Qa3+ Kg8 20. Ne3 ({or} 20. Na5 $5 b4 (20... Ne5 21.
+Nxe5 Qxe5 22. Re4 $1 (22. Nc6 $6 Qxf4 23. Nxd8 Bd5 $15) 22... Qd5 23. Rc1 $14)
+21. Qa4 Qxa5 (21... Nxa5 $2 22. Rd4 $1) 22. Qxc6 $14) 20... Qxd3 21. Qxd3 Rxd3
+22. Rc1 {and White's pieces are better placed and can exploit Black's pawn
+weaknesses, e.g.:} Rd6 23. Nf5 Bxf5 24. Rxf5 a6 25. Rfc5 $14) 13... dxc2 (13...
+Rxg7 14. Nxe6 fxe6 15. Nc3 (15. Rxc4 $2 Rxg2+ $1 16. Kxg2 Qd5+ $17) 15... dxc2
+16. Qxc2 {transposes to our main line} Qd3 17. Qxd3 cxd3 18. Rd1 Rd8 19. Re3) (
+13... Qd5 14. h4 Rxg7 15. Nc3 {gaining a tempo on Black's Queen} Qf5 16. g4 Qg6
+17. cxd3 (17. f4 $5) (17. Nd5+ Kd7 18. cxd3 Rag8 19. dxc4 Kc8 $44 {
+is hard to judge, though I don't see anything immediate for Black after} 20.
+Nf4 Qh6 21. Nfxe6 fxe6 22. Nxe6 $14) 17... Rd8 18. f4) 14. Qxc2 Qd3 {"To swap Q
+ueens in order to avert any future assault on Black's King" writes Horowitz}
+15. Qxd3 cxd3 16. Nxe6 fxe6 17. Nc3 {"White's plan is to maintain material
+equality and enjoy the sounder Pawn structure" notes Horowitz} Rad8 18. Rd1
+Rxg7 19. Re3 {less clear than Horowitz had presumed is} Nb4 $1 (19... d2 $5 20.
+Ne4 $14 {Tamburro, following Horowitz, says White has a slight edge, but the
+position looks about equal really, especially since Black's King may be better
+situated for the endgame. Black also seems to have a slight initiative as
+White's pieces clump together in the center of the board seeking to recover
+the pawn. For example:} Ne5 $1 21. Rxd2 (21. b3 Rd4 $5 $11) 21... Nc4 22. Rxd8
+Nxe3 23. Rc8 Kd7 24. Rb8 Nxg2 25. Rxb7 Nf4+ 26. Kf1 Rg2 $13) 20. g3 $1 ({
+Horowitz mistakenly gives} 20. a3 $2 {when Black remains up a pawn after} Nc2
+21. Rexd3 $6 Rxd3 22. Rxd3 Rxg2+ $1 23. Kxg2 Ne1+ 24. Kf1 Nxd3 $17) 20... c5 $1
+21. a3 (21. b3 Rg5 $5 $15) 21... Nd5 22. Nxd5+ ({or} 22. Rexd3 Nxc3 23. Rxd8
+Nxd1 24. Rxd1) 22... Rxd5 23. Rexd3 Rxd3 24. Rxd3 Rg5 {
+and, frankly, White's advantage, if any, would be hard to exploit.} 25. f4 Rf5
+(25... c4 26. Rb3 $3 cxb3 27. fxg5 $14) 26. Kf2 $5 c4 (26... e5 $5 27. Rd5 $1
+Kf6 28. Rd7 $1 exf4 29. g4 Rg5 30. Kf3 $13) 27. Rc3 b5 28. Ke3 e5 29. b3 $11)
+13. Rh4 Kf7 14. Rxh7 Rxg7 15. Rxg7+ Kxg7 {"with an unclear position" according
+to John Emms. But there seems little question that White has an edge. After
+all, from this moment on Fahrni is completely outplayed yet still has at least
+equal chances until very late into the game.} 16. Nbd2 $6 ({
+The first and most important improvement to recommend is Jude Acers's} 16. Qd2
+$1 {of which he says he simply wishes to mobilize his forces strongly with Qf4
+and Nbd2-f1-g3.} Qf6 $1 ({
+Black simply aids White in putting his pieces on strong squares with} 16... d3
+17. cxd3 cxd3 (17... Qxd3 18. Qg5+ Kf7 19. Nc3 $16) 18. Nc3 $16) 17. Qf4 (17.
+c3 $5) 17... Bd5 18. Nbd2 $1 (18. Qxc7+ Kh8 19. Qg3 Re8 $13)) ({
+An alternate plan is to go after the c4-pawn with} 16. Na3 $5 Qf6 (16... d3 17.
+cxd3 cxd3 18. Qd2 $14 Qf6 19. Qxd3 Qxb2) (16... Qd5 17. Qd2 $1 $16) (16... c3
+$5 17. bxc3 dxc3 18. Qe1 Qf6 19. Nb5 $14) 17. Qe2 (17. Nb5 $6 Rd8 18. Nxc7 Bf7
+$36) 17... Re8 18. Nxc4 Bf7 19. Qf1 $14 {
+and it is hard to see what compensation Black has for the pawn.} {E.g.:} Nb4 $6
+20. a3 $1) 16... Qf6 17. Qe2 c3 18. bxc3 dxc3 19. Nb3 Re8 20. Qb5 Bc8 21. Nbd4
+a6 22. Qc5 $6 (22. Qc4 $142 Nxd4 23. Nxd4 Qe5 24. Nf3 $14 {
+and White picks up a pawn.}) 22... Nxd4 23. Nxd4 Qe5 $1 24. Qxc3 (24. Qxe5+ $6
+Rxe5 25. Kf1 f4 $15) 24... Kf8 25. Qd2 c5 26. Nb3 ({
+White could have had a likely draw by} 26. Qh6+ Kf7 27. Qh5+ ({or} 27. Qh7+)
+27... Kf8 28. Qh6+ Qg7 $5 {(Black must exchange Queens to avoid the perpetual)}
+29. Qxg7+ Kxg7 30. Nb3 b6 31. Rd1 f4 $5 (31... Re2 32. Nd2 a5 33. Kf1 Ba6 34.
+c4 $14) 32. h4 {and though Black has the better position, it's not clear that
+it fully compensates for White's extra pawn.}) 26... f4 $1 {Black's excellent
+pieces and pawns on dark squares dominate the board. White must now try to
+exchange Queens and enter the ending to have chances of making the extra pawn
+count.} 27. Rf1 $6 {This seems overly defensive. Better to try to exchange
+Queens and activate the Rook by} (27. Rd1 $142 Kg7 28. h3 f3 $5 29. Qd6 {
+, when the outcome is still uncertain.}) 27... b5 28. Qc1 $6 {White seems to
+be in total retreat, assuming a defensive posture that simply allows Black's
+initiative to turn into a winning advantage.} Kf7 29. Qd1 Bb7 30. Qd7+ Re7 31.
+Qh3 Kg8 32. Qh4 c4 33. Nc1 (33. Na5 Be4 $15) 33... f3 $1 34. g3 Rd7 35. a3 Rd4
+36. Qh6 Rd6 37. Qh4 Bc8 38. Na2 Kg7 39. Nc3 $4 ({Necessary was} 39. c3 $17 {
+to rescue the Queen.}) 39... Rd4 $1 $19 {
+White must now sacrifice to save his trapped Queen.} 40. Ne4 Rxe4 41. Qd8 Re1
+$1 {This unfortunate first outing for the Modern Max Lange probably
+discouraged many from taking a closer look at the line.} 0-1
+
+[Event "London"]
+[Site "London"]
+[Date "1863.??.??"]
+[Round "?"]
+[White "Paulsen, Louis"]
+[Black "Mackenzie, George"]
+[Result "1-0"]
+[ECO "C55"]
+[Annotator "Goeller,Michael"]
+[PlyCount "49"]
+[EventDate "1863.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8.
+fxg7 Rg8 9. Bg5 Qd6 10. Nbd2 Bf5 11. Re1+ Kd7 12. Nxc4 Qd5 13. Nce5+ (13. Ne3
+Qe6 (13... Qe4 14. Ng4) 14. b4 Bb6 15. Ng4 Bxg4 16. Rxe6 fxe6 17. b5) 13... Kc8
+14. c4 Qd6 15. Nxc6 (15. Nxf7 Qd7 16. Nh6 Rxg7 17. Nxf5 Rxg5 18. Nxg5 Qxf5 19.
+Re8+ Nd8 20. Ne6) 15... Qxc6 16. Nxd4 Bxd4 (16... Qg6 17. Re5 $1 (17. Nxf5)
+17... Bxd4 18. Qxd4 Be6 (18... Qxg5 19. Rae1 $18) 19. Rd1 b6 20. Be7 $18) 17.
+Qxd4 b6 18. b4 Qg6 19. Bf4 Be6 20. Qe5 Kb7 21. Qxc7+ Ka6 22. b5+ Ka5 23. Bd2+
+Ka4 24. Qd6 a5 25. bxa6 1-0
+
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Balogh, Janos"]
+[Black "Szabo, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[Annotator "Goeller,Michael"]
+[PlyCount "97"]
+[EventDate "1946.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8.
+fxg7 Rg8 9. Bg5 Be7 10. Bxe7 Kxe7 11. b4 $5 {
+A very interesting move in the position!} cxb3 (11... Nxb4 $4 12. Qe1+ $18) 12.
+Nbd2 $5 (12. Re1+ $1 Kf6 $1 (12... Be6 13. axb3 Rxg7 14. Ra4 $1 $14) 13. axb3
+Kxg7 14. Nbd2 Bg4 15. h3 Bh5 16. Ra4 $44 {seems more promising.}) 12... Rxg7 ({
+better} 12... bxc2 $1 13. Qxc2 Rxg7 14. Rfe1+ Kf8 $15) 13. Nxb3 Bh3 14. Re1+
+Kf8 15. g3 Qd5 16. Qe2 Rg4 17. c4 dxc3 18. Rad1 Qc4 19. Qe3 Rg6 20. Na5 $5 Nxa5
+$6 (20... Qb5 $1) 21. Ne5 Qxa2 22. Nxg6+ hxg6 23. Qh6+ Kg8 24. Rd4 $1 c2 25.
+Rh4 Qb2 $8 26. Rxh3 Qg7 27. Qd2 Nb3 28. Qxc2 $11 Nd4 29. Qe4 Qf6 30. g4 Rb8 31.
+f4 c5 32. Ree3 Ne6 33. Rhf3 Qd4 34. h4 b5 35. f5 Qxe4 36. Rxe4 Nd4 37. Rc3 gxf5
+38. gxf5 b4 39. Rxc5 b3 40. Rxd4 b2 41. Rd1 b1=Q 42. Rxb1 Rxb1+ 43. Kg2 Ra1 44.
+Kf3 Ra4 45. Kg3 Kg7 46. Rc6 a5 47. Ra6 Ra1 48. Kg4 a4 49. Kh5 1/2-1/2
+
+[Event "109th ch-NZL"]
+[Site "Christchurch NZL"]
+[Date "2001.??.??"]
+[Round "4"]
+[White "Ker, A."]
+[Black "Croad, N."]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "2320"]
+[BlackElo "2201"]
+[PlyCount "35"]
+[EventDate "2001.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8.
+fxg7 Rg8 9. Re1+ Be7 10. Bg5 Be6 11. Bxe7 Kxe7 12. Re4 d3 13. Nc3 Rxg7 14. cxd3
+Qxd3 15. Nd5+ Kd6 16. Nf4 Qxd1+ 17. Rxd1+ Kc5 18. Rxe6 1-0
+
