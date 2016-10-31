@@ -99,12 +99,39 @@ Bxd5 25. Rd1 Qc6 26. Na5 Qd6 27. c4 bxc4 28. Bxc4 Nf6 29. h3 Qc7 30. Qc3 Rb8+
 [WhiteElo "2610"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qc7 8. Qf3
-h6 9. Bxf6 Nxf6 10. f5 e5 11. fxe6 fxe6 12. O-O-O Bd7 13. g3 O-O-O 14. h4 Kb8
-15. Bh3 Re8 16. Kb1 Bc8 17. Nce2 d5 18. exd5 exd5 19. Bxc8 Rxc8 20. Nf4 Bd6 21.
-Rhf1 Bxf4 22. Qxf4 Qxf4 23. Rxf4 Ne4 24. g4 Rhf8 25. Rf5 g6 26. Rxd5 Nf2 27.
-Rg1 Nxg4 28. c3 h5 29. Rd6 Rf2 30. Rxg6 Rh2 31. Re1 Rf8 32. a4 Rff2 33. Rb6 Ka7
-34. a5 Rf7 35. Rd6 Nf2 36. Nb3 Rxh4 37. Re8 Re4 38. Rh8 Ng4 39. Rdd8 Re1+ 40.
-Ka2 b6 41. Ra8+ Kb7 42. Rhb8+ Kc6 43. Rxb6+ Kd5 44. Rd8+  1-0
+( 8. Qe2 e5 9. Nf5 ( 9. Nf3 $6 h6 10. Bxf6 Nxf6 11. g3 Be7 12. O-O-O O-O $15
+)9... h6 10. Bxf6 Nxf6 11. Ne3 ( 11. O-O-O exf4 12. Qc4 ( 12. Qd2 Bxf5 13. exf5
+O-O-O $10 ) 12... Qxc4 13. Bxc4 Be6 14. Bxe6 fxe6 15. Nxd6+ Bxd6 16. Rxd6 Ke7
+17. e5 Nd7 18. Rhd1 Rhd8 19. Ne2 Nxe5 20. Rxd8 Rxd8 21. Rxd8 Kxd8 22. Nxf4 $10
+)( 11. fxe5 dxe5 12. O-O-O Bb4 $5 ( 12... b5) ( 12... Bd6) ( 12... Be7) 13.
+Nxg7+ Kf8 14. Qf3 Qe7 ( 14... Qc6 $2 15. Nd5 Kxg7 16. Qg3+ Ng4 17. h3 Qg6 18.
+hxg4 Qg5+ 19. Kb1 Bxg4 ) ( 14... Kxg7 $2 15. Qxf6+ Kxf6 16. Nd5+ ) 15. Nf5 Bxf5
+16. Qxf5 ( 16. exf5 e4 17. Qe3 Qe5 ) 16... Bxc3 17. bxc3 Rg8 18. Bc4 Rxg2 19.
+Rdg1 Rxg1+ 20. Rxg1 Rd8 )11... exf4 12. Ned5 Nxd5 13. Nxd5 Qa5+ 14. c3 ( 14.
+Qd2 Qxd2+ 15. Kxd2 Rb8 16. Nxf4 $10 )14... Be6 15. O-O-O ( 15. Nxf4 Be7 16.
+Nxe6 fxe6 17. Qg4 Qe5 $10 )15... Be7 ( 15... O-O-O $10)16. Kb1 Rc8 17. Qf2 Bxd5
+18. Rxd5 Qa4 $14 )8... h6 ( 8... e6)9. Bxf6 Nxf6 10. f5 e5 ( 10... Qc5 { See
+next game} )( 10... g5 11. fxg6 fxg6 12. Nd5 Nxd5 13. exd5 { White's control of
+light square is particularly prominent}  13... Bd7 ( 13... Bg7 14. O-O-O Bd7
+15. Bd3 )14. Bd3 Rg8 ( 14... O-O-O 15. Bxg6 Bg7 16. O-O-O { followed by Rhe1
+and Qe4}  )15. Qe2 O-O-O 16. Ne6 Qa5+ 17. c3 Re8 18. O-O $18 )( 10... Bd7 {
+This is slower for Black}  11. O-O-O Rc8 12. Kb1 Qc5 13. Nd5 h5 ( 13... Nxd5
+14. exd5 { Black is cramped}  )14. Be2 Ng4 15. h3 Ne5 16. Qb3 b5 17. Rhf1 Rh7
+18. Nf4 h4 19. Nd5 Rh6 20. Nf3 a5 21. Nxe5 dxe5 22. a3 a4 23. Qd3 Rd6 24. c3
+$14 )( 10... Rg8 $6 { Black is preparing g5}  11. O-O-O g5 ( 11... Bd7 12. Nd5
+Nxd5 13. exd5 g5 14. fxg6 )12. e5 $1 dxe5 13. Ndb5 $1 axb5 14. Nxb5 Qb8 15. Qc3
+Bd7 16. Nc7+ Kd8 17. Nxa8 Qxa8 18. Bb5 Qc8 19. Qa5+ $1 Qc7 20. Qa8+ Qc8 21. Qa4
+Kc7 22. Rd3 )11. fxe6 fxe6 12. O-O-O $1 { Delaying the attractive g3 with the
+idea of massaging the e6 pawn with a future Bh3, so Black might try e5 and
+remained solid after Kolar-Nataf, Corr 2010}  12... Bd7 ( 12... Be7 13. g3 O-O
+( 13... Bd7 14. Bh3 Qc4 15. Rhe1 )14. Bh3 Nd5 15. Nxd5 exd5 16. Bf5 $1 )( 12...
+e5 $2 { Pointless as White Bishop can hope to land on c4 eventually since it is
+no longer committed to h3 square} )13. g3 O-O-O 14. h4 Kb8 15. Bh3 Re8 16. Kb1
+Bc8 17. Nce2 d5 18. exd5 exd5 19. Bxc8 Rxc8 20. Nf4 Bd6 21. Rhf1 Bxf4 22. Qxf4
+Qxf4 23. Rxf4 Ne4 24. g4 Rhf8 25. Rf5 g6 26. Rxd5 Nf2 27. Rg1 Nxg4 28. c3 h5
+29. Rd6 Rf2 30. Rxg6 Rh2 31. Re1 Rf8 32. a4 Rff2 33. Rb6 Ka7 34. a5 Rf7 35. Rd6
+Nf2 36. Nb3 Rxh4 37. Re8 Re4 38. Rh8 Ng4 39. Rdd8 Re1+ 40. Ka2 b6 41. Ra8+ Kb7
+42. Rhb8+ Kc6 43. Rxb6+ Kd5 44. Rd8+  1-0
 
 [Event "12th European Individual Championship"]
 [Site "Aix-les-Bains FRA"]
@@ -120,22 +147,11 @@ Ka2 b6 41. Ra8+ Kb7 42. Rhb8+ Kc6 43. Rxb6+ Kd5 44. Rd8+  1-0
 [WhiteElo "2650"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qc7 8. Qf3
-( 8. Qe2 e5 9. Nf5 ( 9. Nf3 $6 h6 10. Bxf6 Nxf6 11. g3 Be7 12. O-O-O O-O $15
-)9... h6 10. Bxf6 Nxf6 11. Ne3 ( 11. O-O-O exf4 12. Qc4 ( 12. Qd2 Bxf5 13. exf5
-O-O-O $10 ) 12... Qxc4 13. Bxc4 Be6 14. Bxe6 fxe6 15. Nxd6+ Bxd6 16. Rxd6 Ke7
-17. e5 Nd7 18. Rhd1 Rhd8 19. Ne2 Nxe5 20. Rxd8 Rxd8 21. Rxd8 Kxd8 22. Nxf4 $10
-)( 11. fxe5 dxe5 12. O-O-O Bb4 $5 ( 12... b5) ( 12... Bd6) ( 12... Be7) 13.
-Nxg7+ Kf8 14. Qf3 Qe7 ( 14... Qc6 $2 15. Nd5 Kxg7 16. Qg3+ Ng4 17. h3 Qg6 18.
-hxg4 Qg5+ 19. Kb1 Bxg4 ) ( 14... Kxg7 $2 15. Qxf6+ Kxf6 16. Nd5+ ) 15. Nf5 Bxf5
-16. Qxf5 ( 16. exf5 e4 17. Qe3 Qe5 ) 16... Bxc3 17. bxc3 Rg8 18. Bc4 Rxg2 19.
-Rdg1 Rxg1+ 20. Rxg1 Rd8 )11... exf4 12. Ned5 Nxd5 13. Nxd5 Qa5+ 14. c3 ( 14.
-Qd2 Qxd2+ 15. Kxd2 Rb8 16. Nxf4 $10 )14... Be6 15. O-O-O ( 15. Nxf4 Be7 16.
-Nxe6 fxe6 17. Qg4 Qe5 $10 )15... Be7 ( 15... O-O-O $10)16. Kb1 Rc8 17. Qf2 Bxd5
-18. Rxd5 Qa4 $14 )8... h6 ( 8... e6)9. Bxf6 Nxf6 10. f5 Qc5 11. O-O-O g5 12. e5
-Qxe5 13. g3 g4 14. Qf2 h5 15. Kb1 Bh6 16. Re1 Qc5 17. Bg2 Bd7 18. Qe2 O-O 19.
-Nb3 Qxf5 20. Rhf1 Qg5 21. Qxe7 Rae8 22. Qxd6 Rxe1+ 23. Rxe1 Re8 24. Rxe8+ Bxe8
-25. Bxb7 Qe3 26. a4 Qg1+ 27. Ka2 Bg7 28. Qe7 Bd7 29. Nd5 Qf2 30. Qd8+ Kh7 31.
-Nxf6+ Qxf6 32. Qxf6 Bxf6 33. Nc5  1-0
+h6 9. Bxf6 Nxf6 10. f5 Qc5 11. O-O-O g5 12. e5 Qxe5 13. g3 g4 14. Qf2 h5 15.
+Kb1 Bh6 16. Re1 Qc5 17. Bg2 Bd7 18. Qe2 O-O 19. Nb3 Qxf5 20. Rhf1 Qg5 21. Qxe7
+Rae8 22. Qxd6 Rxe1+ 23. Rxe1 Re8 24. Rxe8+ Bxe8 25. Bxb7 Qe3 26. a4 Qg1+ 27.
+Ka2 Bg7 28. Qe7 Bd7 29. Nd5 Qf2 30. Qd8+ Kh7 31. Nxf6+ Qxf6 32. Qxf6 Bxf6 33.
+Nc5  1-0
 
 [Event "Horsens Lang Weekend"]
 [Site "?"]
