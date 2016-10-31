@@ -120,11 +120,22 @@ Ka2 b6 41. Ra8+ Kb7 42. Rhb8+ Kc6 43. Rxb6+ Kd5 44. Rd8+  1-0
 [WhiteElo "2650"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qc7 8. Qf3
-h6 9. Bxf6 Nxf6 10. f5 Qc5 11. O-O-O g5 12. e5 Qxe5 13. g3 g4 14. Qf2 h5 15.
-Kb1 Bh6 16. Re1 Qc5 17. Bg2 Bd7 18. Qe2 O-O 19. Nb3 Qxf5 20. Rhf1 Qg5 21. Qxe7
-Rae8 22. Qxd6 Rxe1+ 23. Rxe1 Re8 24. Rxe8+ Bxe8 25. Bxb7 Qe3 26. a4 Qg1+ 27.
-Ka2 Bg7 28. Qe7 Bd7 29. Nd5 Qf2 30. Qd8+ Kh7 31. Nxf6+ Qxf6 32. Qxf6 Bxf6 33.
-Nc5  1-0
+( 8. Qe2 e5 9. Nf5 ( 9. Nf3 $6 h6 10. Bxf6 Nxf6 11. g3 Be7 12. O-O-O O-O $15
+)9... h6 10. Bxf6 Nxf6 11. Ne3 ( 11. O-O-O exf4 12. Qc4 ( 12. Qd2 Bxf5 13. exf5
+O-O-O $10 ) 12... Qxc4 13. Bxc4 Be6 14. Bxe6 fxe6 15. Nxd6+ Bxd6 16. Rxd6 Ke7
+17. e5 Nd7 18. Rhd1 Rhd8 19. Ne2 Nxe5 20. Rxd8 Rxd8 21. Rxd8 Kxd8 22. Nxf4 $10
+)( 11. fxe5 dxe5 12. O-O-O Bb4 $5 ( 12... b5) ( 12... Bd6) ( 12... Be7) 13.
+Nxg7+ Kf8 14. Qf3 Qe7 ( 14... Qc6 $2 15. Nd5 Kxg7 16. Qg3+ Ng4 17. h3 Qg6 18.
+hxg4 Qg5+ 19. Kb1 Bxg4 ) ( 14... Kxg7 $2 15. Qxf6+ Kxf6 16. Nd5+ ) 15. Nf5 Bxf5
+16. Qxf5 ( 16. exf5 e4 17. Qe3 Qe5 ) 16... Bxc3 17. bxc3 Rg8 18. Bc4 Rxg2 19.
+Rdg1 Rxg1+ 20. Rxg1 Rd8 )11... exf4 12. Ned5 Nxd5 13. Nxd5 Qa5+ 14. c3 ( 14.
+Qd2 Qxd2+ 15. Kxd2 Rb8 16. Nxf4 $10 )14... Be6 15. O-O-O ( 15. Nxf4 Be7 16.
+Nxe6 fxe6 17. Qg4 Qe5 $10 )15... Be7 ( 15... O-O-O $10)16. Kb1 Rc8 17. Qf2 Bxd5
+18. Rxd5 Qa4 $14 )8... h6 ( 8... e6)9. Bxf6 Nxf6 10. f5 Qc5 11. O-O-O g5 12. e5
+Qxe5 13. g3 g4 14. Qf2 h5 15. Kb1 Bh6 16. Re1 Qc5 17. Bg2 Bd7 18. Qe2 O-O 19.
+Nb3 Qxf5 20. Rhf1 Qg5 21. Qxe7 Rae8 22. Qxd6 Rxe1+ 23. Rxe1 Re8 24. Rxe8+ Bxe8
+25. Bxb7 Qe3 26. a4 Qg1+ 27. Ka2 Bg7 28. Qe7 Bd7 29. Nd5 Qf2 30. Qd8+ Kh7 31.
+Nxf6+ Qxf6 32. Qxf6 Bxf6 33. Nc5  1-0
 
 [Event "Horsens Lang Weekend"]
 [Site "?"]
