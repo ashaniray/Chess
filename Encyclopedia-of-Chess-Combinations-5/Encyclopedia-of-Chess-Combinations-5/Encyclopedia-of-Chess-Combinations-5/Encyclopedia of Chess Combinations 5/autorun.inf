@@ -1,7 +1,0 @@
-[autorun]
-label = Encyclopedia of Chess Combinations 5
-open = autorun.exe [open][1] "Setup.exe"
-icon = autorun.exe
-
-[Installed]
-ProductCode = {C24A3AFF-82C1-4B12-842C-E1955EBF853F}
