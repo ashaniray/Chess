@@ -1,0 +1,78 @@
+[Event "I a Kikinda 25c/15"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Ilie"]
+[Black "Caldwell, Douglas R"]
+[Result "0-1"]
+[Annotator "Petronic,Jovan"]
+[SetUp "1"]
+[FEN "4r1k1/2b2ppp/p1p4q/3p4/1PrB2nP/PQ2P1P1/1N3P2/R4RK1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "1978.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+{Diagram [#]  Black to play.} 1... Bxg3 $1 ({Note that reversing the order of
+the first two black moves results in a catastrophe for the attacker:} 1... Rxd4
+$2 2. exd4 Bxg3 $4 3. Qxg3 $18) 2. fxg3 {Diagram [#]} (2. Nxc4 Qxh4 3. Kg2 Bxf2
+$19 {and White is defenseless against further major material losses.}) (2. Kg2
+Bxf2 $1 $19 3. Rxf2 $140 Qxh4 $19) 2... Rxd4 $1 3. exd4 $2 ({After the
+objective and relatively stronger} 3. Rae1 {,} Nxe3 {increases Black's
+material advantage to a +2; combined with the positional advantages this is
+enough to win with good play.}) 3... Qd2 {This forces an unstoppable checkmate,
+which White is at best able to delay for only a few moves. Black's combined
+moves Bg3!, Rd4!, and Qd2 contributed to an annihilation of White's defense.}
+0-1
+
+[Event "I a Moscow"]
+[Site "?"]
+[Date "1945.??.??"]
+[Round "?"]
+[White "Ragozin, Viacheslav"]
+[Black "Veresov, Gavriil N"]
+[Result "*"]
+[Annotator "Petronic,Jovan"]
+[SetUp "1"]
+[FEN "4r3/p2qppkp/3p2b1/1p1N4/2r1P1RQ/2P4P/PP4P1/5RK1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1945.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+{Diagram [#]  White to play.} 1. Rxg6+ $1 fxg6 {Diagram [#]} ({White forces a
+checkmate after} 1... Kxg6 2. Qg3+ Kh6 3. Rxf7 $18 {White forces a checkmate,
+with best play by both sides.}) (1... hxg6 2. Rxf7+ $1 Kxf7 3. Qh7+ {
+transposes into 1... fg6 2.Rf7! Kf7 3.Qh7+.}) 2. Rf7+ $1 Kxf7 (2... Kg8 $2 3.
+Qxh7#) 3. Qxh7+ Ke6 (3... Kf8 $143 4. Nf4 $18 Rec8 $140 5. Nxg6+ Ke8 $8 6. Qg8#
+) 4. Qxg6+ Ke5 $8 {Diagram [#]} 5. Qg7+ $1 Kxe4 (5... Ke6 6. Nf4#) 6. Nf6+ $1
+exf6 7. Qxd7 $16 {(+-)    With the material balance equal, White is about to
+win at least one pawn, increasing his positional advantage with a material one
+and heading towards a well-deserved victory.} *
+
+[Event "I a Sochi 10c/30"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Kupreichik, Viktor D"]
+[Black "Lutikov, Anatoly S"]
+[Result "1-0"]
+[Annotator "Petronic,Jovan"]
+[SetUp "1"]
+[FEN "r2qk2r/1b1n1p2/p6n/1pp1p1Np/4P2P/2QBNP2/PPP5/2KR2R1 w kq - 0 1"]
+[PlyCount "19"]
+[EventDate "1970.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+{Diagram [#]   White to play.    The combination of White's advantage in
+development and Black's vulnerable uncastled king position allows the first
+player to contemplate an annihilation of the defense.} 1. Bxb5 $1 {White
+begins with a minor piece sacrifice, opening the d-file for his rook against
+Black's defending knight.} axb5 {Diagram [#]} ({Black must accept the
+sacrifice, as defending the attacked knight leads to a huge material loss:} 
+1... Bc8 2. Rxd7 $1 Bxd7 3. Qxe5+ Qe7 4. Qxh8+ $18) 2. Rxd7 $1 Kxd7 (2... Qxd7
+3. Qxe5+ $18) 3. Rd1+ Kc6 4. Rxd8 Rhxd8 {Diagram [#]     With material
+equality, White's continuing attack is decisive.} 5. b4 $1 f6 (5... c4 6. Qxe5
+$18) 6. Qxc5+ Kd7 $8 7. Nd5 Bxd5 8. Qxd5+ Ke7 9. Qe6+ Kf8 $8 10. Qxf6+ $18 1-0
+

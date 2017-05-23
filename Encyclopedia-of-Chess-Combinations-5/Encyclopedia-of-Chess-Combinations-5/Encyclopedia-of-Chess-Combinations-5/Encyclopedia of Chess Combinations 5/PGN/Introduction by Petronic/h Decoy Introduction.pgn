@@ -1,0 +1,64 @@
+[Event "?"]
+[Site "?"]
+[Date "2015.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[Annotator "Petronic,Jovan"]
+[SetUp "1"]
+[FEN "8/1q1b2kp/4p1p1/3pPp2/1r1Pn3/6P1/1B4KP/1RQ2B2 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "2015.??.??"]
+
+{Diagram [#]  White to play.     The very weak dark square complex around the
+black king is of course vulnerable.} 1. Ba3 $3 {The decoy in action! Has White
+simply blundered the rook on b1? Let's see.} Rxb1 {What else?} 2. Qh6+ $3 {
+Another decoy in action! Has White blundered the queen as well?} Kxh6 (2... Kf7
+3. Qf8#) (2... Kg8 3. Qf8#) (2... Kh8 3. Qf8# {The abundance of checkmates in
+the sidelines hints on a winning combination that needs to be both calculated
+and correctly evaluated until its end.}) 3. Bf8+ Kg5 ({or} 3... Kh5 4. Be2+ Kg5
+$8 5. h4#) 4. h4+ Kg4 (4... Kh5 5. Be2#) 5. Be2# *
+
+[Event "?"]
+[Site "?"]
+[Date "2015.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[Annotator "Petronic,Jovan"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp3pp/1qp5/2b1Pp2/3Qn3/5N2/PPPBNPPP/3RK2R w Kkq - 0 1"]
+[PlyCount "11"]
+[EventDate "2015.??.??"]
+
+{Diagram [#]  White to play.} 1. Qd8+ {(!! or ??) In any case - a decoy!} Kxd8
+(1... Kf7 2. e6+ $1 {Decoy!} (2. Qxh8 $143 $18) 2... Bxe6 (2... Kxe6 3. Nf4+
+Kf7 $8 4. Ne5#) (2... Kg6 3. Nf4+ Kh6 $8 4. Qh4#) 3. Ne5#) 2. Bg5+ $1 Ke8 $8 3.
+Rd8+ Kf7 $8 4. e6+ $1 {Decoy!} Kxe6 (4... Bxe6 5. Ne5#) (4... Kg6 5. Nf4#) 5.
+Nf4+ Kf7 $8 6. Ne5# *
+
+[Event "?"]
+[Site "?"]
+[Date "2015.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[Annotator "Petronic,Jovan"]
+[SetUp "1"]
+[FEN "rn3rk1/pbppq1pp/1p2pb2/4N2Q/3PN3/3B4/PPP2PPP/R3K2R w KQ - 0 1"]
+[PlyCount "15"]
+[EventDate "2015.??.??"]
+
+{Diagram [#]  White to play.} 1. Qxh7+ $3 {The "evergreen decoy"! White has
+just burnt all bridges behind.} Kxh7 $8 2. Nxf6+ Kh6 (2... Kh8 $2 3. Ng6#) 3.
+Neg4+ $1 (3. Nfg4+ $2 Kh5 $1 (3... Kg5 $2 4. h4+ Kf4 (4... Kh5 5. Bg6#) 5. g3#)
+4. Bg6+ Kh4 (4... Kg5 $2 5. h4+ Kf4 $8 6. g3#) 5. O-O Bxg2 $1 6. Kxg2 Rf4 $17)
+3... Kg5 4. h4+ ({or} 4. f4+ $18 Kh4 $140 (4... Kxf4 $140 5. g3+ Kf3 (5... Kg5
+6. h4#) 6. O-O# $1) 5. g3+ Kh3 $8 6. Bf1+ ({or} 6. O-O $18 {/\ Nf2#}) 6... Bg2
+$8 7. Nf2#) 4... Kf4 $8 5. g3+ (5. Ne5 $143 $18 {/\ g3#}) 5... Kf3 $8 6. Be2+ (
+6. O-O $142 {/\ Nh2#}) (6. Kf1 $142 {/\ Nh2#}) 6... Kg2 $8 7. Rh2+ ({or} 7.
+O-O-O {/\ Rdg1#}) 7... Kg1 $8 8. Kd2# ({or} 8. O-O-O#) *
+

@@ -1,0 +1,1000 @@
+﻿[Event "I e Berlin"]
+[Site "?"]
+[Date "1852.??.??"]
+[Round "?"]
+[White "Anderssen, Adolf"]
+[Black "Dufresne, Jean"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r2k1r1/pbppnp1p/1bn2P2/8/Q7/B1PB1q2/P4PPP/3RR1K1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1852.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Rxe7+ $1 Nxe7 (1... Kd8 $5 2. Rxd7+ $1 Kc8 3. Rd8+ $3 Kxd8 (3... Nxd8 4.
+Qd7+ Kxd7 5. Bf5+ $18) 4. Bf5+ (4. Be2+ Nd4 5. Rxd4+ Bxd4 6. Bxf3 Bxf3 7. Qxd4+
+Kc8 8. Qd3 Bxg2 9. f3 Bxf3+ 10. Kf2 Bc6 $13) 4... Qxd1+ 5. Qxd1+ Nd4 6. Bh3 $1
+$18) 2. Qxd7+ $1 Kxd7 3. Bf5+ Ke8 4. Bd7+ Kf8 5. Bxe7# {#} 1-0
+
+[Event "I e Budapest"]
+[Site "?"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Frydman, Paulino"]
+[Black "Vidmar, Milan Sr"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2rq1rk1/3bbppp/p3pn2/1p1pN3/2nP1B2/P1NBP2Q/1P3PPP/2R2RK1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1934.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Nxd5 $1 g6 (1... exd5 2. Nxd7 Qxd7 3. Bxh7+ $1 Kh8 4. Bf5+ $18) (1... h6 2.
+Nxe7+ Qxe7 3. Bxh6 gxh6 4. Qxh6 $18) 2. Nxe7+ Qxe7 3. Bxc4 Rxc4 4. Rxc4 bxc4 5.
+Bg5 1-0
+
+[Event "III e New York (m/5)"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Gligoric, Svetozar"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r3r/ppq2pnp/1npbb1p1/3p4/3P1NP1/2NBP2P/PPQ2P1B/1KR4R w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1952.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Nb5 $1 cxb5 2. Qxc7+ Bxc7 3. Rxc7 Kxc7 (3... Bxg4 4. Rxf7 Bf5 5. Nxd5+ Ka8
+6. Nc7+ Kb8 7. e4 $18) 4. Nxe6+ Kd7 5. Nxd8 Rxd8 6. Bxb5+ $18 *
+
+[Event "III e USSR"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Volkevich"]
+[Black "Lyskov, I."]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r3k1/4q1p1/np2p2p/3pNp2/3Pn3/2N5/PPQ2PPP/R1R3K1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1958.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Nxd5 $1 exd5 (1... Rxc2 2. Nxe7+ Kh7 3. Rxc2 $18) (1... Qb7 2. Ne7+ $1 $18)
+2. Qxc8+ $1 Rxc8 3. Rxc8+ Kh7 4. Rh8+ $1 Kxh8 5. Ng6+ $18 *
+
+[Event "I e Sverige 7c/15"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Werle, Allan"]
+[Black "Lundin, Erik"]
+[Result "1-0"]
+[Annotator "Maric,R"]
+[SetUp "1"]
+[FEN "3r2k1/5pp1/R2B3q/2Q5/1p2rP2/6Pp/1bP2K1P/3R4 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1969.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Be5 $1 Qxa6 (1... Re2+ 2. Kf3 $1 Qh5+ 3. g4 $18) (1... Rxd1 2. Rxh6 gxh6 3.
+Qc8+ $18) 2. Rxd8+ Kh7 3. Rh8+ $1 Kg6 4. f5+ Kg5 5. Qe7+ f6 6. Qxg7+ 1-0
+
+[Event "I e Zalaegerszeg 8/91"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Portisch, Ferenc"]
+[Black "Bilek, Istvan"]
+[Result "0-1"]
+[Annotator "Florian,T"]
+[SetUp "1"]
+[FEN "4rqk1/p5b1/3p3p/3Pn1p1/1pP1NrP1/4NP2/P3Q1P1/1K1RR3 b - - 0 1"]
+[PlyCount "9"]
+[EventDate "1969.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1... Nxf3 $3 2. gxf3 Rexe4 $3 3. fxe4 Qf6 $1 4. Rd3 (4. e5 Qxe5 5. Rd3 Rf2 $1
+$19) 4... Rf2 5. Qxf2 Qa1+ $1 (5... Qa1+ 6. Kc2 Qxa2+ 7. Kd1 Qxf2 8. c5 $1 Qf3+
+$1 $19) 0-1
+
+[Event "I e Beograd 9/25"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Larsen, Bent"]
+[Black "Spassky, Boris V"]
+[Result "0-1"]
+[Annotator "Spassky,B"]
+[SetUp "1"]
+[FEN "2kr3r/ppp1qpp1/2p5/2b2b1p/2P1pPn1/1P2P1PP/PBQPB3/RN2K2R b KQ - 0 1"]
+[PlyCount "11"]
+[EventDate "1970.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1... h4 $1 2. hxg4 (2. Bxg4 Bxg4 3. hxg4 hxg3 4. Rg1 Rh1 $1 5. Rxh1 g2 6. Rg1
+Qh4+ 7. Ke2 Qxg4+ 8. Ke1 Qg3+ 9. Kd1 (9. Ke2 Qf3+ 10. Ke1 Be7 $19) 9... Qf2 10.
+Qxe4 Qxg1+ 11. Kc2 Qf2 $19) 2... hxg3 3. Rg1 Rh1 $1 4. Rxh1 g2 5. Rf1 (5. Rg1
+Qh4+ 6. Kd1 Qh1 7. Qc3 Qxg1+ 8. Kc2 Qf2 9. gxf5 Qxe2 10. Na3 Bb4 $1 $19) 5...
+Qh4+ 6. Kd1 gxf1=Q+ (6... gxf1=Q+ 7. Bxf1 Bxg4+ 8. Kc1 (8. Be2 Qh1# {#}) 8...
+Qe1+ 9. Qd1 Qxd1# {#}) 0-1
+
+[Event "I e Sarajevo 9/264"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Bogdanovic, Rajko"]
+[Black "Padevsky, Nikola"]
+[Result "1-0"]
+[Annotator "Maric,R"]
+[SetUp "1"]
+[FEN "r2n1rk1/3qb1pp/p2p4/1p1bpP2/1P6/P2BBN1P/5PP1/2RQR1K1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1970.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Nxe5 $1 Qb7 $8 (1... dxe5 2. Be4 $18) 2. Ng6 $3 hxg6 (2... Rf7 3. Qh5 {/\ 4.
+Ne7 Re7 5.f6+-}) 3. fxg6 Re8 (3... Rf6 4. Qh5 $18) 4. Qh5 Bf6 5. Bg5 Be5 6. Be4
+$1 (6. Be4 Bxe4 7. Qh7+ Kf8 8. Qh8# {#}) 1-0
+
+[Event "I e Wijk aan Zee 9c/40"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Honfi, Karoly"]
+[Black "Drimer, Dolfi"]
+[Result "1-0"]
+[Annotator "Maric,R"]
+[SetUp "1"]
+[FEN "r4b1k/1p1b1ppp/p3pB2/3qR3/P2N1P2/1P2Q1RP/6PK/4r3 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1970.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Rxg7 $3 (1. Rxd5 Rxe3 2. Rxd7 Rxg3 3. Kxg3 gxf6 4. Rxf7 $16) 1... Rxe3 (1...
+Bxg7 2. Bxg7+ Kg8 (2... Kxg7 3. Qg3+) 3. Qxe1 Qxd4 4. Qg3 $18) 2. Rg3+ Bg7 3.
+Rxg7 $1 h6 (3... Qxe5 4. fxe5 h6 5. Rg3+ Kh7 6. Rxe3 $18) 4. Rxd5 exd5 5. Rg3+
+Kh7 6. Rxe3 1-0
+
+[Event "I e corr 9c/41"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Kosenkov, Vsevolod"]
+[Black "Helm, Irmgard"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4qrk1/pp1bbppp/4pn2/2r1Q1B1/7P/2N3R1/PPP2PP1/2KR1B2 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1970.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Bxf6 $1 Rxe5 2. Rxg7+ Kh8 3. Bxe5 f6 4. Rxe7 $1 Qxe7 5. Bd6 Qf7 6. Bxf8 Qxf8
+7. Rxd7 1-0
+
+[Event "I e Magyarorszag - Jugoslavija 12/104"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Forintos, Gyozo V"]
+[Black "Minic, Dragoljub"]
+[Result "0-1"]
+[Annotator "Minic,D"]
+[SetUp "1"]
+[FEN "r1b2k1r/1p2qp2/pN1p1n2/2pP2pp/P2bP1P1/2N5/1P2BPP1/R2Q1RK1 b - - 0 1"]
+[PlyCount "11"]
+[EventDate "1971.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1... hxg4 $1 2. g3 (2. Nxa8 $2 Qe5 3. g3 Qxg3# $19) 2... Nxe4 3. Nxc8 (3. Nxa8
+Nxc3 4. bxc3 Qe4 $19) (3. Qd3 Bf5 $1 4. Nxa8 Nxf2 5. Qxf5 Nd1+ $19) 3... Qe5 4.
+Kg2 (4. Qd3 Nxg3 $1 5. Kg2 (5. Rfe1 Nxe2+ {/\ Qh2-h1#}) 5... Rh2+ $1 6. Kxh2
+Nxf1+ 7. Kg1 Qh2+ 8. Kxf1 Qh1# {#}) 4... Nxc3 $1 5. bxc3 Qe4+ 6. f3 Rh2+ $1 (
+6... Rh2+ 7. Kxh2 Qh7+ 8. Kg2 Qh3# {#}) 0-1
+
+[Event "I e Leningrad 13/697"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Platonov, Igor"]
+[Black "Shamkovich, Leonid"]
+[Result "0-1"]
+[Annotator "Korchnoi,V"]
+[SetUp "1"]
+[FEN "2bqk2r/5pbp/p1pp1np1/1N6/2PBP3/5P2/Pr4PP/R2QKB1R b KQk - 0 1"]
+[PlyCount "9"]
+[EventDate "1971.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1... Nxe4 $1 2. Bxb2 (2. Bxg7 Qa5+ 3. Nc3 Nxc3 4. Qc1 Nxa2+ 5. Bc3 Qxc3+ 6.
+Qxc3 Nxc3 $19) 2... Qa5+ $1 3. Nc3 (3. Ke2 Bxb2 $19) 3... Bxc3+ 4. Bxc3 Qxc3+
+5. Ke2 Be6 0-1
+
+[Event "II e USSR 14c/67"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Peresipkin, Vladimir"]
+[Black "Romanishin, Oleg M"]
+[Result "*"]
+[Annotator "RR"]
+[SetUp "1"]
+[FEN "4k3/1pp2b1p/2p2P2/r3P1R1/pr6/2N5/1PP5/2KR4 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1972.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. e6 $1 Rxg5 2. Rd8+ $1 Kxd8 3. exf7 {[1 : 0 Peresypkin - Romanishin]} Rg1+ 4.
+Nd1 (4. Kd2 Rg2+ 5. Ke3 Rg3+ 6. Ke2 Rg2+ $11 7. Kf3 $140 $2 Rf2+ $1 8. Kxf2
+Rf4+ $19) 4... Re4 (4... Rd4 5. f8=Q+ Kd7 6. Qe7+ Kc8 7. Qe8+ Rd8 8. Qe6+ Rd7
+$11) 5. f8=Q+ Re8 6. Qf7 Ree1 $11 *
+
+[Event "I e corr 15/231"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Atars, Pablo F"]
+[Black "Tomson"]
+[Result "1-0"]
+[Annotator "RR"]
+[SetUp "1"]
+[FEN "rnb2bnr/ppkp3p/2p3B1/4N2Q/3Pp3/2N5/PPP1KP1P/R1B4q w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1973.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Bf4 $1 Qxa1 (1... hxg6 2. Qg5 Be7 (2... Qxa1 3. Nf7+ Kb6 4. Bc7+ $1) 3.
+Nxc6+ $1 d6 4. Bxd6+ $1 Kxd6 (4... Bxd6 5. Qd8+ Kxc6 6. Qxc8+ Bc7 7. Rxh1) 5.
+Qc5+ Ke6 6. Qe5+ Kf7 7. Rxh1 Rh5 8. Qf4+ Rf5 9. Ne5+ Kg7 10. Qxe4 $18) 2. Nxd7+
+$1 Kxd7 (2... Kd8 3. Qe5 $1 hxg6 4. Qc7+ Ke7 (4... Ke8 5. Qxc8+ Ke7 6. Bg5+ Kd6
+7. Nxf8 {/\ Qd8, Bf4#}) 5. Bd6+ Ke6 (5... Kf7 6. Ne5+ Kf6 7. Qf7+ Kg5 8. Nxe4+
+Kh5 9. Qf3+ Kh6 10. Bxf8+ Kh7 11. Ng5# {#}) 6. Nxf8+ Kf6 7. Nxe4+ Kf5 8. Qf7+
+Kxe4 (8... Kg4 9. Qf3+ Kh4 10. Nxg6# {#}) 9. Qf3+ Kxd4 10. Qd3# {#}) (2... Bd6
+3. Qc5 $3 (3. Nb5+ $2 Kxd7 4. Nxd6 hxg6 5. Qxh8 Qxa2) 3... Bxf4 4. Nb5+ Kxd7 5.
+Qf5+ Kd8 6. Qf8+ Kd7 7. Bf5# {#} (7. Qe8# {#})) 3. Qf5+ Kd8 (3... Ke7 4. Qf7+
+Kd8 5. Bc7# {# Milic,B}) 4. Qxf8+ Kd7 5. Qe8# {#} 1-0
+
+[Event "I e Magyarorszag 15c/1"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Karpov, Anatoly"]
+[Black "Zsoldos"]
+[Result "1-0"]
+[Annotator "Florian,T"]
+[SetUp "1"]
+[FEN "2R5/r3b1k1/p2p4/P1pPp2p/6q1/2P2N1r/4Q1P1/5RK1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1973.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Nxe5 $3 Qxe2 (1... dxe5 2. Qxe5+ Kh6 3. Rh8+ Kg6 4. Rg8+ {/\ Qh8#}) 2. Rf7+
+Kh6 3. Rh8+ Kg5 4. Rg8+ Kh4 (4... Kh6 5. Rg6# {#}) 5. Ng6+ Kg5 6. Nxe7+ Kh4 7.
+Nf5# {#} 1-0
+
+[Event "I e Dubna 16/138"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Kholmov, Ratmir D"]
+[Black "Rukavina, Josip"]
+[Result "1-0"]
+[Annotator "Ugrinovic,D; Krnic,Z"]
+[SetUp "1"]
+[FEN "2b3k1/1pp5/p2q3p/3p2pQ/8/2P1N2P/PP1B1rPb/4R2K w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1973.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Nxd5 $1 Bg3 (1... Bd7 2. Ne7+ Kh7 3. Be3 $1 Rf8 (3... Rf6 4. Bd4) 4. Bc5 $18
+) 2. Bxg5 (2. Be3 $5) 2... Qe6 (2... hxg5 3. Re8+ Rf8 (3... Kg7 4. Qxg5+ Qg6 5.
+Rg8+ $1) 4. Qxg5+ Kh8 5. Rxf8+ Qxf8 6. Qxg3 $18) 3. Qd1 $1 Qd6 4. Be7 Qc6 (4...
+Qg6 5. Bc5 $18) 5. Re3 (5. Qd3 $5 $18 {ץg3}) 5... Qg6 6. Nf6+ Kf7 7. Qd5+ 1-0
+
+[Event "III e Magyarorszag 24c/42"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Gal, Gabor"]
+[Black "Hardicsay, Peter"]
+[Result "0-1"]
+[Annotator "Hardicsay,P"]
+[SetUp "1"]
+[FEN "6k1/5pbp/6p1/2p1r3/1pPr4/3n2NP/1PB2PP1/1R1R2K1 b - - 0 1"]
+[PlyCount "11"]
+[EventDate "1977.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1... Nxb2 $1 2. Rxd4 (2. Rxb2 Rxd1+ 3. Bxd1 Re1+ $19) 2... cxd4 3. Rxb2 Re1+ 4.
+Kh2 (4. Nf1 d3 5. Rb1 Rxf1+ $1 $19) 4... d3 5. Rb1 dxc2 $1 6. Rxe1 b3 0-1
+
+[Event "I e Odzaci 27c/4"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Konc, Vili"]
+[Black "Markovic, Miroljub"]
+[Result "1-0"]
+[Annotator "Minev,N"]
+[SetUp "1"]
+[FEN "rn1q1k1r/pp3p1p/6p1/1BpPb2n/6b1/2N2N2/PP4PP/R1BQ1RK1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1978.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Nxe5 $3 Bxd1 2. Bh6+ Kg8 3. Nxf7 Qe7 (3... Qh4 4. Raxd1 $18) (3... Qb6 4.
+Raxd1 $18) 4. d6 $1 Qxf7 (4... Qe6 5. Ng5 Qe3+ 6. Kh1 {/\ Rf8, Bc4+-}) 5. Bc4
+$1 1-0
+
+[Event "I e France 28c/17"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Blanc, Sebastien"]
+[Black "Baron, Daniel"]
+[Result "1-0"]
+[Annotator "Kaikamdzozov,J; Blanc,S"]
+[SetUp "1"]
+[FEN "r3q1k1/p1n3pn/1p2p1Np/3pP3/2pP2Q1/2P5/PP1B2PP/5RK1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1979.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Bxh6 $1 gxh6 2. Ne7+ Kh8 3. Rf8+ $1 Qxf8 (3... Nxf8 4. Qg8# {#}) 4. Ng6+ Kg7
+5. Nxf8+ Kxf8 6. Qg6 $1 1-0
+
+[Event "I e Jugoslavija 30c/22"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Crepinsek, Ljubomir"]
+[Black "Boto, Zeljko"]
+[Result "1-0"]
+[Annotator "Bozic,Al"]
+[SetUp "1"]
+[FEN "3rrbk1/1bqn1p1p/pp1pp1p1/4P1Nn/2P2P2/1PNB4/PB2Q1PP/3R1R1K w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1980.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Nb5 $1 axb5 2. Qxh5 $3 gxh5 (2... h6 3. Bxg6 fxg6 4. Qxg6+ $18) (2... Bxg2+
+3. Kxg2 Qc6+ 4. Qf3 $18) 3. Bxh7+ Kg7 4. exd6+ Nf6 5. dxc7 Rxd1 6. Rxd1 Re7 7.
+Be5 1-0
+
+[Event "I e USSR - England (telex) 33/164*"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Kupreichik, Viktor D"]
+[Black "Short, Nigel D"]
+[Result "*"]
+[Annotator "Kupreichik,V"]
+[SetUp "1"]
+[FEN "r1b3r1/2q2p1p/p1p1kn2/1p2N2p/4PQ2/2NB4/PPP2PP1/1K1R4 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1982.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Ne2 $3 (1. Nd5 Qxe5 $1 $11) 1... Rd8 (1... Qxe5 2. Bc4+ $1 bxc4 3. Nd4+ $18)
+2. Nxf7 $1 Qxf7 (2... Qxf4 3. Nxd8+ Ke5 4. Nxc6+ $18) 3. Bc4+ bxc4 4. Rxd8 Qe7
+5. Nd4+ Kf7 6. Rd6 $18 *
+
+[Event "I e Novi Sad 34/424"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Van der Wiel, John"]
+[Black "Nikolic, Predrag"]
+[Result "1-0"]
+[Annotator "Van der Wiel,J"]
+[SetUp "1"]
+[FEN "3q1rk1/r6p/p4pp1/1p1pRb2/3PN2Q/2P5/P4PPP/4R1K1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1982.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Re8 $3 Rxe8 2. Nxf6+ Kf7 (2... Qxf6 3. Rxe8+ Kg7 4. Rg8+ Kf7 5. Rf8+ $18) 3.
+Rxe8 Re7 4. Qxh7+ Kxf6 5. Qh8+ $1 Kg5 (5... Kf7 6. Qf8+ $18) 6. h4+ 1-0
+
+[Event "III e Magyarorszag 35c/30"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Hazai, Laszlo"]
+[Black "Szabo, Laszlo2"]
+[Result "*"]
+[Annotator "Florian,T"]
+[SetUp "1"]
+[FEN "3qk2r/3b1pp1/p3p2p/2b1P3/1prN1N2/4Q3/PPP3PP/1K1R1R2 w k - 0 1"]
+[PlyCount "13"]
+[EventDate "1983.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Ng6 $3 Rxd4 (1... fxg6 2. Qd3 $18) (1... Rg8 2. Qf3 $18) 2. Rxd4 fxg6 (2...
+Bxd4 3. Qf3 $18) 3. Qe4 $1 Qe7 4. Rxd7 $3 Qxd7 5. Qa8+ Qd8 6. Qc6+ Qd7 7. Qxc5
+$18 *
+
+[Event "I e Veliko Trnovo 39c/20"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Nutu Gajic, Dana"]
+[Black "Grosch, Maria"]
+[Result "*"]
+[Annotator "Ribli,Z"]
+[SetUp "1"]
+[FEN "r4rk1/pb3ppp/4p3/2pqN3/3nnB2/P2Q2P1/1P2PPBP/3R1RK1 b - - 0 1"]
+[PlyCount "9"]
+[EventDate "1985.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1... Nxg3 $1 2. Bxd5 (2. Qxg3 Nxe2+ 3. Kh1 Nxg3+ {/\ Qg2#}) 2... Ndxe2+ $1 3.
+Kg2 Bxd5+ $1 4. Qxd5 Nxf4+ 5. Kxg3 Nxd5 $19 *
+
+[Event "I e Jugoslavija (ch) 41/335"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Ivanovic, Bozidar"]
+[Black "Nikolic, Zivoslav"]
+[Result "1-0"]
+[Annotator "Kovacevic,Vlat"]
+[SetUp "1"]
+[FEN "r1b3k1/ppp2r1p/3q2pB/8/3pBb2/3Q4/PPP3PP/3RR1K1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1986.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Bd5 $1 Bxh6 (1... Be3+ 2. Rxe3 $1 dxe3 3. Qxe3 Qb6 (3... Be6 4. Qxe6 $18) 4.
+Bxf7+ Kxf7 5. Rf1+ Bf5 6. g4 $18) 2. Re8+ Bf8 (2... Kg7 3. Qxd4+ Qf6 4. Qxf6+
+Kxf6 (4... Rxf6 5. Rg8# {#}) 5. Rf1+ Bf5 6. Bxf7 $18) 3. Qf3 Qd7 (3... Be6 4.
+Rxe6 $1 Rxf3 5. Rxg6+ Kh8 6. Rg8# {#}) 4. Rf1 Qf5 5. Bxf7+ Kxf7 6. Rxc8 $1 (6.
+Rxc8 Rxc8 7. Qd5+ Kf6 8. Qxd4+ Kg5 9. h4+ Kh5 10. Rxf5+ gxf5 11. Qf6 $18) 1-0
+
+[Event "II e Reykjavik 43/299"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Hjartarson, Johann"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[Annotator "Timman,J"]
+[SetUp "1"]
+[FEN "r2r2k1/6p1/bqp1p2p/p1b1P3/2p1B3/1P6/P1QB2PP/R2R3K w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1987.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Bxh6 $1 (1. bxc4 Bd4 $15) 1... gxh6 2. Bxc6 $1 Rxd1+ 3. Rxd1 Qxc6 4. Qg6+
+Kh8 5. Qxh6+ 1/2-1/2
+
+[Event "I e Berlin 44c/11"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Waldmann, Ivan"]
+[Black "Dallas, Stavros"]
+[Result "*"]
+[Annotator "RR"]
+[SetUp "1"]
+[FEN "rn3rk1/1b2bppp/p2qp3/1p1nN3/3N1B2/1B6/PPP2PPP/R2QR1K1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1987.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Ng6 $1 Nxf4 (1... Qb6 2. Nxf8 Nxf4 3. Nfxe6 $1 Nxg2 4. Ng5 Nxe1 5. Qh5 $18)
+2. Nf5 $3 Ne2+ (2... Qxd1 3. Nfxe7# {#}) (2... exf5 3. Nxe7+ $18) 3. Rxe2 Qxd1+
+4. Rxd1 hxg6 (4... exf5 5. Nxe7+ {/\ Nf5+-}) 5. Nxe7+ Kh7 6. Rd3 $18 *
+
+[Event "I e Amsterdam 45/633"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Kasparov, Garry"]
+[Black "Van der Wiel, John"]
+[Result "1-0"]
+[Annotator "Kasparov,G"]
+[SetUp "1"]
+[FEN "1r6/kbqrnpp1/ppnpp2p/2b4P/2P1PPPB/PNN2B2/1P1Q4/1KRR4 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1988.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Nb5+ $3 axb5 2. cxb5 Na5 (2... Nd8 3. Nxc5 bxc5 4. Rxc5 $1 dxc5 (4... Qb6 5.
+Rc4 Qxb5 6. Rb4 Qa6 7. Qd4+ Ka8 8. Ra4 $18) 5. Qxd7 Qxf4 6. Rd6 $1 {(/\ Ra6#)}
+Ka8 7. Qc7 $1 Bxe4+ 8. Bxe4+ Qxe4+ 9. Ka1 Nec6 (9... Ndc6 10. Bxe7 $18) 10.
+Bxd8 Rxd8 11. Qxc6+ $1 Qxc6 12. Rxd8+ $18) 3. Nxa5 bxa5 4. Rxc5 dxc5 5. Qxd7
+Qxf4 6. Rd6 $1 (6. Rd6 {(/\ Ra6#)} Ka8 7. Qc7 {(/\ Qa5)} Rc8 8. Ra6+ $18) 1-0
+
+[Event "III e Dortmund 45/737"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Farago, Ivan"]
+[Black "Martinovic, Slobodan"]
+[Result "*"]
+[Annotator "Martinovic,Sl"]
+[SetUp "1"]
+[FEN "r4rk1/3bppbp/nq1p2p1/PNpP3n/4P3/3B1N1P/1P1BQPP1/R3K2R b KQ - 0 1"]
+[PlyCount "9"]
+[EventDate "1988.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1... Nb4 $3 2. Bxb4 cxb4 3. axb6 (3. O-O Rxa5 $17) 3... Rxa1+ 4. Kd2 Bh6+ 5.
+Kc2 Rxh1 $17 *
+
+[Event "I e USSR 45c/16"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Janovsky, Sergey"]
+[Black "Muratov, Vladimir A"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2kr2n1/pppqb3/4p1p1/6B1/7Q/2Pn4/P3NPPP/R4K1R b - - 0 1"]
+[PlyCount "13"]
+[EventDate "1988.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1... Nc1 $3 2. Nd4 Qb5+ $3 3. Kg1 Rxd4 $1 4. cxd4 Ne2+ 5. Kf1 Ng3+ 6. Kg1 Qf1+
+7. Rxf1 Ne2# {#} 0-1
+
+[Event "I e Rimavska Sobota 49/172"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Palac, Mladen"]
+[Black "Lechtynsky, Jiri"]
+[Result "0-1"]
+[Annotator "Lechtynsky,J"]
+[SetUp "1"]
+[FEN "5rk1/1ppq1r1p/p2p2pb/P2Ppn1n/N1P1N3/R2Q1PP1/1P3B1P/5RK1 b - - 0 1"]
+[PlyCount "9"]
+[EventDate "1990.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1... Nh4 $1 2. gxh4 Rxf3 3. Qd1 (3. Qc2 Qh3 $1 $19) (3. Qxf3 Rxf3 4. Rxf3 Qg4+
+5. Bg3 Qxe4 $19) 3... Qg4+ 4. Ng3 Nxg3 $1 5. hxg3 (5. Rxf3 Ne2+ $19) 5... Rxf2
+$1 0-1
+
+[Event "III e Novi Sad (ol) 50/143*"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Huebner, Robert"]
+[Black "Ivanchuk, Vassily"]
+[Result "*"]
+[Annotator "Huebner,R"]
+[SetUp "1"]
+[FEN "r4rn1/ppp2p1k/3p1npp/3P4/1Q1Nq3/3N1R2/PPP3PP/5RK1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1990.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Ne6 $1 {[Nunn,J]} Qxb4 (1... fxe6 2. Qxe4 Nxe4 3. Rxf8 Rxf8 4. Rxf8 exd5 5.
+Rc8 $18) (1... Qxd5 2. Nxf8+ Rxf8 3. Rxf6 Nxf6 4. Rxf6 Qxa2 5. Qc3 $18) 2.
+Nxf8+ Rxf8 3. Nxb4 a5 4. Nd3 Kg7 5. c4 $18 *
+
+[Event "II e England (ch-m/4) 53/129"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Short, Nigel D"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[Annotator "Chandler,M"]
+[SetUp "1"]
+[FEN "2rk4/2n5/1Q2PKB1/2b1P2p/2q5/6P1/3B3P/8 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "1991.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Bg5 $1 Ra8 $1 (1... Qg4 2. Qxc5 Qxg5+ 3. Kf7 $1 $18) 2. Kf7+ Kc8 3. Qc6 Ra6
+4. Qd7+ Kb8 5. Bf5 Ra7 6. Kg6 Ra6 1/2-1/2
+
+[Event "I e London"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Tkachiev, Vladislav"]
+[Black "Watson, W."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2rr2k1/1p3ppp/p1qppb2/2n5/P1P1P3/1PN1R3/1BQ2PPP/3R2K1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1993.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Nd5 $1 exd5 2. exd5 Qd7 3. Bxf6 gxf6 4. Rg3+ Kh8 (4... Kf8 5. Qxh7 $18) 5.
+Qxh7+ $1 Kxh7 6. Rd4 (6. Rd4 Qh3 7. gxh3 $18) 1-0
+
+[Event "III e Praha 67/47"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Blatny, Pavel"]
+[Black "Hort, Vlastimil"]
+[Result "1-0"]
+[Annotator "Blatny,P"]
+[SetUp "1"]
+[FEN "2rr2k1/p3qpbp/1p3np1/3pNb2/1p1P4/1PN1P1P1/1B3PBP/2QRR1K1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1996.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Nc6 $3 Qd6 (1... Rxc6 2. Nxd5 Rxd5 3. Qxc6 Rd6 4. Qc4 a5 5. e4 $18) 2. Nxd5
+$1 (2. Nxd8 $6 Qxd8 $16) 2... Nxd5 3. Bxd5 Bd7 (3... Kf8 4. Bg2 {/\ d5+-}) (
+3... Be6 4. Bxe6 Rxc6 (4... fxe6 5. d5 $1 exd5 6. Bxg7 Rxc6 7. Qb2) 5. Bc4 b5
+6. d5 Rcc8 7. Bxg7 bxc4 8. Bd4 $18) (3... Bg4 4. f3 Bf6 5. Be4 $18) 4. Bxf7+ $1
+Kf8 (4... Kxf7 5. Nxd8+ $18) 5. d5 Bxb2 (5... Bxc6 6. Bxg7+ Kxf7 (6... Kxg7 7.
+dxc6) 7. dxc6 $18) 6. Qxb2 Kxf7 (6... Bxc6 7. Be6 $1 $18) 7. Nxd8+ 1-0
+
+[Event "I e Biel 70/89"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Anand, Viswanathan"]
+[Black "Lautier, Joel"]
+[Result "*"]
+[Annotator "Anand,V"]
+[SetUp "1"]
+[FEN "3rk2r/pR3p1p/2p1p2p/3n4/3q2P1/3BRP2/P1P2Kb1/2BQ4 w k - 0 1"]
+[PlyCount "11"]
+[EventDate "1997.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Bg6 $3 Qf6 (1... Qxe3+ 2. Bxe3 fxg6 3. Bc5 $18) (1... Ne7 2. Qxd4 Rxd4 3.
+Rd3 $1 Rd8 4. Rxd8+ Kxd8 5. Bd3 {(1 : 0 Anand - Lautier)} Bh1 6. Bb2 Re8 7. Bf6
+$18) 2. Bxf7+ Qxf7 3. Rxf7 Nxe3 4. Qxd8+ $1 (4. Qe2 Nd1+ 5. Kxg2 Kxf7 $14) 4...
+Kxd8 5. Bxe3 Bh3 6. Rxa7 $18 *
+
+[Event "I e Cienfuegos 70/172"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Becerra Rivero, Julio"]
+[Black "Zapata, Alonso"]
+[Result "*"]
+[Annotator "Becerra Rivero,J; Moreno,Ale"]
+[SetUp "1"]
+[FEN "2r1k2r/1bqn1ppp/p2bp3/P2n4/1p1N4/1P3P2/N1P1B1PP/R1BQR2K w k - 0 1"]
+[PlyCount "13"]
+[EventDate "1997.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Bxa6 $3 Bxa6 2. Nxe6 {[Becerra - Zapata]} fxe6 3. Rxe6+ Be7 $8 (3... Kf8 4.
+Qxd5 Re8 5. Rxe8+ Kxe8 6. Qe6+ Kf8 (6... Kd8 7. Bg5+ Kc8 8. Rd1 $18) 7. Bd2 $18
+) 4. Qxd5 Nf6 5. Qd1 $1 Rd8 (5... Qxa5 6. Bd2 $1 $18) 6. Qe1 Bc8 7. Bf4 $18 *
+
+[Event "I e Israel (ch-rapid) 74c/1"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Huzman, Alexander"]
+[Black "Golod, Vitali"]
+[Result "1-0"]
+[Annotator "Golod,V"]
+[SetUp "1"]
+[FEN "rnb2rk1/4bpp1/p3p2p/qp6/4N2P/3BPN2/PPQ2PP1/1K1R3R w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1998.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Neg5 $1 {[/\ 2.Bh7 Kh8 3.Bg8!]} f5 $8 2. Bxf5 $1 exf5 $8 (2... hxg5 3. Bh7+
+Kh8 4. hxg5 $18) (2... Rxf5 3. Qxc8+ Rf8 4. Qxe6+ $18) (2... Bxg5 3. Bh7+ Kh8 (
+3... Kf7 4. Ne5+ Kf6 (4... Ke7 5. Qc5+ Kf6 6. Qxf8+ Kxe5 7. f4+ Bxf4 8. Qxf4# {
+#}) 5. hxg5+ hxg5 (5... Ke7 6. Qc5+ Ke8 7. Bg6+ Rf7 8. Bxf7# {#}) 6. Qg6+ Kxe5
+7. Qxg5+ Rf5 8. Qxg7+ Rf6 9. f4# {#}) 4. hxg5 $18) 3. Qb3+ Kh8 4. Ne5 Qb6 5.
+Rd6 $3 (5. Rd6 Qxd6 $8 (5... Bxd6 6. Ng6# {#}) 6. Nef7+ Rxf7 7. Nxf7+ Kh7 8.
+Nxd6 Bxd6 9. Qd5 $18) 1-0
+
+[Event "I e Koszalin 76c/26"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Stohl, Igor"]
+[Black "Urban, Klaudiusz"]
+[Result "*"]
+[Annotator "Stohl,I"]
+[SetUp "1"]
+[FEN "2rr1k2/2q2p1p/3p2p1/pp2n3/4N3/P1QR3P/1PR2PP1/6K1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1999.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Qxe5 $1 Qxc2 (1... dxe5 2. Rxc7 $18) 2. Qh8+ Ke7 3. Qf6+ Kf8 (3... Kd7 $2 4.
+Qxd6+ Ke8 5. Nf6# {#}) (3... Ke8 4. Nxd6+ Rxd6 5. Qxd6 $18) 4. Ng5 $1 Qc1+ (
+4... Qc4 5. b3 $18) 5. Kh2 Rd7 6. Ne6+ Ke8 7. Re3 $1 $18 *
+
+[Event "I e Porto San Giorgio 79c/12"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Razuvaev, Yuri S"]
+[Black "Middelburg, Tom"]
+[Result "*"]
+[Annotator "RR"]
+[SetUp "1"]
+[FEN "r3r1k1/pp1nqpp1/1b4p1/2pRP3/P1B5/8/1P2QPPP/R1B3K1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "2000.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Bg5 $1 Qxg5 2. e6 $1 Qf6 (2... Rxe6 3. Qxe6 $18) 3. exf7+ Qxf7 4. Rxd7 Rxe2
+5. Rxf7 Rc2 6. Rf4+ $18 *
+
+[Event "II e Istanbul (ol) 80/105*"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Adams, Michael"]
+[Black "Papaioannou, Ioannis"]
+[Result "*"]
+[Annotator "Adams,Mi"]
+[SetUp "1"]
+[FEN "1b2r1k1/p4pp1/bp1qp3/4N1B1/3P1K1Q/P4P2/1P2r1P1/3R3R b - - 0 1"]
+[PlyCount "11"]
+[EventDate "2000.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1... Qxd4+ $1 2. Rxd4 Bxe5+ 3. Kg4 Rxg2+ 4. Kh3 Bf1 $1 5. Rf4 $8 Rg1+ 6. Kh2
+Rg2+ $11 *
+
+[Event "I e Batumi 82c/17"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Gelashvili, Tamaz"]
+[Black "Gagunashvili, Merab"]
+[Result "*"]
+[Annotator "Gelashvili,T"]
+[SetUp "1"]
+[FEN "r2q2k1/pp3ppp/2nb4/2p5/2Q2Nr1/1P1P2P1/PBP4P/4RRK1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "2001.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Ne6 $1 Qh4 $8 (1... Rxc4 2. Nxd8 Rxc2 3. Re8+ Bf8 4. Rxf7 $18) 2. Rxf7 $3
+Rxc4 (2... Kxf7 3. Nd8+ Kg6 4. Qf7+ Kg5 (4... Kh6 5. Re6+ $18) 5. Ne6+ Kh6 6.
+Bxg7+ $18) (2... Rxg3+ 3. hxg3 Qxg3+ 4. Kf1 Kxf7 (4... Qh3+ 5. Ke2 Qh5+ 6. Rf3
+$18) 5. Nd8+ Kg6 6. Qf7+ Kg5 7. Ne6+ Kh4 8. Re4+ $18) (2... Bxg3 3. Rxg7+ Rxg7
+4. Nd8+ Kf8 (4... Qxc4 5. Re8# {#}) 5. Bxg7+ Kxg7 6. Qf7+ Kh6 7. Re6+ $18) 3.
+Rxg7+ Kh8 4. bxc4 Qh3 5. Rg5+ Nd4 6. Nxd4 $18 *
+
+[Event "I e USA (ch) 83/543*"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Gulko, Boris F"]
+[Black "Shabalov, Alexander"]
+[Result "*"]
+[Annotator "Markovic,Iv"]
+[SetUp "1"]
+[FEN "4r1k1/pR3ppp/8/3P4/8/r4n2/B4PKP/3R4 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "2002.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. d6 $1 Ne5 (1... Rxa2 2. d7 Nh4+ (2... Rd8 3. Rb8 $1) 3. Kf1 Rae2 4. Rb8 $1
+Rxb8 5. d8=Q+ Re8 6. Qxh4 $18) 2. Re7 Kf8 3. Rxe5 $1 Rxe5 4. d7 Re8 5. dxe8=Q+
+Kxe8 6. Bc4 $18 *
+
+[Event "I e Ohrid 83c/3"]
+[Site "?"]
+[Date "2001.??.??"]
+[Round "?"]
+[White "Luther, Thomas"]
+[Black "Tregubov, Pavel V"]
+[Result "*"]
+[Annotator "Hernandez Onna,R; Ibarra Padron,J"]
+[SetUp "1"]
+[FEN "r2r2k1/4qpp1/8/1p1pP3/6Q1/b7/PB4PP/R4R1K w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2001.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. e6 $1 Bxb2 2. exf7+ Kf8 (2... Qxf7 3. Rxf7 Kxf7 4. Rb1 (4. Rf1+ $5 Bf6 5.
+Qh5+ Ke7 6. g4 Rxa2 7. g5 $16) 4... Bf6 (4... Rxa2 5. Qe2 $18) 5. Qe2 $18) 3.
+Rae1 Qd6 (3... Qxe1 4. Rxe1 Kxf7 5. Qe6+ Kf8 6. Rf1+ Bf6 7. g4 Re8 8. Qxd5 Rad8
+9. Qxb5 Kg8 10. a4 $18) 4. Re6 $1 Qc5 {[Luther - Tregubov]} 5. Qh5 $1 Bf6 6.
+Qh7 Kxf7 7. Rfxf6# {#} *
+
+[Event "I e Espana 88/319*"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Abreu Delgado, Aryam"]
+[Black "Vazquez Igarza, Renier"]
+[Result "*"]
+[Annotator "Abreu,A"]
+[SetUp "1"]
+[FEN "2r1rbk1/1b3p2/pq1p2pp/1p1P1N2/Pn2P3/1p3RRP/3N1PP1/1BQ3K1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "2003.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Nc4 $1 Rxc4 (1... bxc4 2. Nxh6+ Bxh6 3. Qxh6 Qc7 4. Rf6 $3 Re7 5. Rg4 $1 $18
+{/\ Rh4, Qh8#}) 2. Nxh6+ Bxh6 (2... Kh7 3. Rxf7+ Bg7 4. Qg5 $18) 3. Qxh6 Qd4 4.
+Rxf7 (4. Rxg6+ $5 fxg6 5. Qxg6+ Qg7 6. Qxe8+ Kh7 7. Rf5 $18) 4... Kxf7 5. Qh7+
+$1 Qg7 6. Rf3+ $18 *
+
+[Event "I e Canberra 88/473*"]
+[Site "?"]
+[Date "2003.??.??"]
+[Round "?"]
+[White "Ayvazyan, Armen"]
+[Black "Wallace, John Paul"]
+[Result "*"]
+[Annotator "RR"]
+[SetUp "1"]
+[FEN "1r4k1/2p2pbp/p1qp1np1/6B1/4P1P1/1P1p1P2/P2Q3P/1K1R3R b - - 0 1"]
+[PlyCount "9"]
+[EventDate "2003.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1... Nd5 $3 2. exd5 Qxd5 {[/\ Rb3!]} 3. Qxd3 Qxg5 (3... Qe5 4. Qd4 Qxd4 5. Rxd4
+Bxd4 $19 {Wallace,J; Rogers,I}) 4. Qxa6 (4. Qd2 Qf6 $19) 4... Qf6 5. Qa3 Qxf3 {
+[/\ Ra8-+]} *
+
+[Event "I e Deutschland 92/227"]
+[Site "?"]
+[Date "2004.??.??"]
+[Round "?"]
+[White "Nisipeanu, Liviu Dieter"]
+[Black "Oral, Tomas"]
+[Result "1-0"]
+[Annotator "Nisipeanu,L.-D; Stoica,V"]
+[SetUp "1"]
+[FEN "4r1k1/1pq1rppp/p2p4/P4R2/1n2P2Q/2NB4/1PPb2PP/5R1K w - - 0 1"]
+[PlyCount "9"]
+[EventDate "2004.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. e5 $1 Bxc3 (1... dxe5 2. Qxb4 $18) (1... Nxd3 2. Nd5 $18) 2. exd6 Qxd6 (2...
+Be1 3. Qxe7 $1 $18) 3. Rd5 $1 (3. Rf6 Qxd3 4. cxd3 Bxf6 5. Qxb4 $16) 3... Qg6 (
+3... Qh6 4. Qxe7 $1 $18) 4. Bxg6 hxg6 5. Rd8 1-0
+
+[Event "I e Moscow 93/223"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Lagno, Kateryna"]
+[Black "Ulybin, Mikhail"]
+[Result "*"]
+[Annotator "Lahno,K"]
+[SetUp "1"]
+[FEN "8/2R2p1k/r2N1Prp/4p3/p1P2QPP/PpK5/1PbR4/4q3 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "2005.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Nxf7 $1 (1. Rxf7+ $2 Kg8 2. Re7 (2. Qxh6 Qg3+ 3. Kb4 Rxh6 4. Rg7+ Kf8 $11)
+2... Rxf6 3. Rxe5 (3. Re8+ Kh7 4. Rxe5 Qc1 $11) 3... Qc1 $11) 1... Rgxf6 (1...
+exf4 $2 2. Ng5+ Kh8 (2... Kg8 3. Rc8+ $18) 3. Rh7+ Kg8 4. f7+ $18) 2. Nxe5+ Kg8
+(2... Kh8 3. Ng6+ Kg8 4. Rc8+ Kg7 5. Rg8+ Kxg8 6. Qb8+ $18) 3. Rc8+ Kh7 4. Qd4
+Rfd6 (4... Rad6 5. Qa7+ $18) 5. Rc7+ Kg8 6. Nf3 $18 *
+
+[Event "I e Barbera del Valles 94/18"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Rotstein, Arkadij"]
+[Black "Gonzalez Vidal, Yuri"]
+[Result "*"]
+[Annotator "Gonzalez Vidal,Y"]
+[SetUp "1"]
+[FEN "2rr1n1k/pb2q1pp/1p1p1p2/4pP1Q/1PPnP1N1/P1N1R2R/B5PP/6K1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "2005.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. c5 $1 h6 (1... dxc5 $2 2. Qxh7+ $1 {(1 : 0 Rotstein - Gonzalez Vidal)} Nxh7
+3. Rxh7+ Kxh7 4. Rh3#) 2. Nxh6 $1 gxh6 3. Qxh6+ Nh7 4. Qg6 $1 Rd7 (4... dxc5 5.
+Rxh7+ Qxh7 6. Qxf6+ Qg7 7. Rh3# {#}) 5. Reg3 $18 *
+
+[Event "I e Russia 94/440"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Pavlov, A."]
+[Black "Zakharevich, Igor"]
+[Result "0-1"]
+[Annotator "Zakharevich,I"]
+[SetUp "1"]
+[FEN "5r1k/1pQb4/3p2q1/3Pp2p/1P2Pnp1/8/5BPP/R4BK1 b - - 0 1"]
+[PlyCount "9"]
+[EventDate "2005.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1... Nh3+ $1 $19 2. gxh3 gxh3+ 3. Bg3 Qxe4 4. Qc3 (4. Qc4 Qe3+ 5. Kh1 Bg4) 4...
+Rxf1+ $1 5. Kxf1 Bb5+ 0-1
+
+[Event "I e Russia 95/185"]
+[Site "?"]
+[Date "2005.??.??"]
+[Round "?"]
+[White "Motylev, Alexander"]
+[Black "Obolenskikh, Dmitry"]
+[Result "1-0"]
+[Annotator "Motylev,A"]
+[SetUp "1"]
+[FEN "5rk1/1pqn1pp1/p2p3p/3PrQBP/4P1P1/1N6/PPP3R1/1K3R2 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2005.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Bxh6 $1 $18 Rxf5 (1... gxh6 $145 2. Qf4 Rg5 3. Nd4 Kh7 4. Nf3 $18) 2. gxf5
+Kh7 3. Bxg7 Rg8 4. Rfg1 Qd8 5. Nd2 Nc5 6. f6 Qe8 7. Rg6 1-0
+
+[Event "I e Bosna i Hercegovina 118/87"]
+[Site "?"]
+[Date "2013.??.??"]
+[Round "?"]
+[White "Palac, Mladen"]
+[Black "Indjic, Aleksandar"]
+[Result "*"]
+[Annotator "Indjic,Aleksandar"]
+[SetUp "1"]
+[FEN "r1bb2k1/pp3ppp/2pp4/q7/P2NrP1n/4B1QP/BPP3P1/R3R1K1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2013.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+1. Nxc6 $3 (1. Bd2 $2 Qxd2 2. Rxe4 Bd7 $13 {Palac - Indjic}) 1... bxc6 2. Bd4
+Nf5 3. Rxe4 $1 Bd7 (3... Nxg3 4. Re8# {#}) 4. Qe1 Qxe1+ 5. Raxe1 Ba5 6. Bc3
+Bb6+ 7. Kh2 $16 *
+

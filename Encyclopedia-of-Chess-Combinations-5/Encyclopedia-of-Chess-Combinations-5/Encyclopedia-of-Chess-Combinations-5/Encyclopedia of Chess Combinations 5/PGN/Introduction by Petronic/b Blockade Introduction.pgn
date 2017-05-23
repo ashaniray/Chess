@@ -1,0 +1,74 @@
+[Event "?"]
+[Site "?"]
+[Date "2015.??.??"]
+[Round "?"]
+[White "Blockade (basic)"]
+[Black "?"]
+[Result "*"]
+[Annotator "Petronic,Jovan"]
+[SetUp "1"]
+[FEN "7r/pp4k1/6p1/3p1pKp/2pPrP2/P1P1P3/1P1BR3/4R3 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "2015.??.??"]
+
+{Diagram [#]  Black to play.     White is up a bishop for a pawn, thus it is
+time for Black to consider either resignation, or - a blockade?(!) Since the
+white king has only one legal square available, Black takes it away. This
+produces a situation where a checkmate is possible on either the next move or
+a later move.} 1... h4 $1 $19 {By denying the h4-square to the white king,
+Black is winning. In large part this is possible in view of the self-blockaded
+white bishop and rooks. Checkmate on the next move is unstoppable:} 2. Rh2 Rh5#
+*
+
+[Event "III b USSR 9c/47"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Rashkovsky, Nukhim N"]
+[Black "Tierentiev, V."]
+[Result "1-0"]
+[Annotator "Petronic,Jovan"]
+[SetUp "1"]
+[FEN "r4rk1/1p4bp/1q1pP1p1/p3pp2/4n3/1P6/P1R2PPP/2BQRBK1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1970.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+{White to play.  Can you foresee a combination leading to a blockade of all
+escape squares of the Black Queen?  Restrain, blockade, and destroy!} 1. Rxe4
+$1 ({or} 1. e7 $1 Rfe8 2. Rxe4 $1 {transposing into the main line.}) 1... fxe4
+2. e7 $1 Rfe8 (2... Rfc8 $143 3. Be3 Qb4 (3... Rc5 4. Bxc5 dxc5 5. Qd5+ Kh8 6.
+Rxc5 $18) 4. Qd5+ ({or} 4. Rxc8+ Rxc8 5. Qd5+ $18 {transposing into 4.Qd5+})
+4... Kh8 $8 5. Rxc8+ Rxc8 6. Qe6 Re8 7. Qd7 $18) 3. Be3 Qb4 4. Rc4 Qa3 $2 5.
+Qb1 $1 $18 {/\ Bc1!  The Black Queen is finally trapped. White is winning.} (5.
+Qb1 d5 6. Bc5 $18 (6. Bc1 $2 Qxe7 $19)) 1-0
+
+[Event "I b Trnava 43/262"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Kindermann, Stefan"]
+[Black "Robatsch, Karl"]
+[Result "*"]
+[Annotator "Petronic,Jovan"]
+[SetUp "1"]
+[FEN "4r1k1/p1rqpp2/1p1p3p/3P2pP/1P1Q4/2P1R3/P4PP1/4R1K1 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1987.??.??"]
+[Source "Chess Informant"]
+[SourceDate "2014.08.19"]
+
+{White to play.  Blockading opponent's defensive capabilities may lead to an
+unchallenged assault on the Black King.} 1. Re6 $1 fxe6 (1... Kh7 2. Qd3+ ({or
+} 2. Qe4+ Kg7 3. Rg6+ $1 $18) 2... Kg7 3. Rg6+ $1 fxg6 4. Qxg6+ $18) 2. Qd3 e5
+$1 (2... exd5 $2 3. Qg6+ Kh8 (3... Kf8 4. Qxh6+ Kf7 5. Qg6+ Kf8 $8 6. Re6 $1
+$18 {/\ h6+-.}) 4. Qxh6+ Kg8 $8 5. Re6 $1 $18) 3. Qg6+ Kh8 $2 (3... Kf8 $1 {
+would lead to a draw, with best play by both sides, ie:} 4. Qxh6+ Kf7 $1 (4...
+Kg8 $2 5. Qxg5+ $18) 5. Qg6+ Kf8 $8 6. Re3 g4 $1 $11 ({or} 6... e4 $11)) 4.
+Qxh6+ Kg8 $8 5. Qxg5+ Kh7 6. Qg6+ Kh8 $8 7. Qh6+ (7. Re3 $2 e6) 7... Kg8 $8 8.
+Re3 $1 {The Rook lift is decisive. Although it does not help to checkmate by
+force, the upcoming material gain is enough for White to claim a winning
+endgame.} Qg4 ({Lifting the blockade comes too late:} 8... e6 9. Rg3+ Qg7 10.
+Rxg7+ Rxg7 11. dxe6 $18) 9. Rg3 Qxg3 10. fxg3 $18 *
+

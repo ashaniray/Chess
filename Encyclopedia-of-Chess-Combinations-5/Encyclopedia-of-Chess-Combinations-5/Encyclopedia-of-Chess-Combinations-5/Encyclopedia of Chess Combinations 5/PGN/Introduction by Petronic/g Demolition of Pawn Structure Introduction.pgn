@@ -1,0 +1,72 @@
+[Event "?"]
+[Site "?"]
+[Date "2015.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[Annotator "Petronic,Jovan"]
+[SetUp "1"]
+[FEN "3r1rnk/1b2qp1p/p5p1/1pn1p3/4P1QN/P1NB3R/1PP3PP/5R1K w - - 0 1"]
+[PlyCount "5"]
+[EventDate "2015.??.??"]
+
+{Diagram [#]  White to play.     The black king seems to be relatively safe
+and well guarded with three friendly pawns nearby and in front of it. Without
+a dark-square bishop to potentially exploit the dark square weaknesses created
+by the g6-pawn, White's attacking options with the four attacking pieces 
+(queen, 2 rooks, h4-knight) largely rely on calculating a demolition of the
+pawn structure.} 1. Rxf7 $1 {The order of pawn demolitions always needs to be
+precise:} (1. Nxg6+ $2 fxg6 2. Qxg6 $2 Nxd3 $19) 1... Qxf7 (1... Rxf7 2. Nxg6+
+$1 Kg7 $8 3. Nxe7+ $18) (1... Qe6 2. Qxe6 $18 Nxe6 $140 3. Nxg6#) 2. Nxg6+ $1 {
+Pawn demolition #2.} Qxg6 3. Qxg6 $18 {/\ Qh7#, /\ Rh7#.} *
+
+[Event "?"]
+[Site "?"]
+[Date "2015.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[Annotator "Petronic,Jovan"]
+[SetUp "1"]
+[FEN "5rk1/1p2qppp/1n6/1P2p3/p4P2/P1rBP2P/5P1K/R2Q2R1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "2015.??.??"]
+
+{Diagram [#]  White to play.     White's compromised pawn structure on the
+kingside is temporarily compensated with the semi-open g-file, where a rook is
+already targeting Black's kingside pawn structure (Pg7).} 1. Bxh7+ $1 ({Pawn
+demolition #1. Another pawn demolition candidate move almost works:} 1. Rxg7+
+$2 Kxg7 2. Qg4+ Kh6 $1 (2... Kh8 3. Bxh7 $1 Qf6 4. Qh5 Rg8 $13) (2... Kf6 $2 3.
+Qf5+ Kg7 $8 4. Qxh7+ Kf6 $8 5. Qh6#) 3. Rg1 f5 $1 4. Bxf5 Qf6 5. Bxh7 Nd5 $17)
+1... Kxh7 (1... Kh8 2. Qh5 $18) 2. Qh5+ Kg8 $8 3. Rxg7+ $1 {Pawn demolition #2.
+} Kxg7 $8 4. Rg1+ (4. f5 $143 Rg8 5. Rg1+ Kf8 6. Qh6+ Ke8 7. Rxg8+ Kd7 8. Qxb6
+$18) 4... Kf6 5. f5 $1 $18 {/\ Qg5#.} e4 $140 6. Qg5+ ({or} 6. Qh4+ $18) 6...
+Ke5 $8 7. Qxe7+ $18 *
+
+[Event "?"]
+[Site "?"]
+[Date "2015.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[Annotator "Petronic,Jovan"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp2bpp1/4p2p/2q4Q/5nNB/2PB4/PP3PPP/2KR3R w - - 0 1"]
+[PlyCount "17"]
+[EventDate "2015.??.??"]
+
+{Diagram [#]  White to play.} {The demolition of the pawn structure begs to be
+played.} 1. Nxh6+ $1 {Pawn demolition #1.} gxh6 ({After} 1... Kh8 $2 {White
+wins with a continuation that is too much for Black to handle:} 2. Nxf7+ Kg8 $8
+3. Bh7#) 2. Qxh6 {Pawn demolition #2.} Ng6 (2... Nxd3+ 3. Rxd3 Bxh4 4. Rg3+ $1
+(4. Qxh4 $18 f6 $140 5. Rg3+ Kf7 6. Qh7+ Ke8 $8 7. Rg7 $18 e5 $140 8. Qh5+ Kd8
+9. Rd1+ $18)) (2... f5 3. Qxf4 $18 ({or} 3. Bxe7 Qxe7 4. Qxf4 $18)) (2... Qh5
+3. Qxh5 Nxh5 4. Bxe7 $18) 3. Bxg6 fxg6 4. Qxg6+ {[Pawn demolition #3.]} Kh8 $8
+5. Qh6+ Kg8 $8 6. Rd3 $1 Bxh4 (6... Kf7 7. Qh7+ Ke8 $8 8. Qg6+ Rf7 $8 9. Rf3
+$18) 7. Qg6+ ({or} 7. Rg3+ Bxg3 (7... Kf7 8. Rg7+ Ke8 $8 9. Qg6+ Kd8 10. Rd1+
+$18) 8. Qg6+ $1 Kh8 9. hxg3+ $18) 7... Kh8 8. Rg3 $1 $18 {/\ Qg7#, /\ Qh6#.}
+Bxg3 $140 9. hxg3+ $18 *
+

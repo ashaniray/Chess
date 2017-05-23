@@ -1,0 +1,60 @@
+[Event "?"]
+[Site "?"]
+[Date "2015.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[Annotator "Petronic,Jovan"]
+[SetUp "1"]
+[FEN "r4bkr/pppq2pp/2n1R3/6N1/2pp2P1/5Q2/PP3P1P/R1B3K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "2015.??.??"]
+
+{Diagram [#]  White to play.} 1. Re7 $3 {Interference!} Bxe7 {The black queen
+has been disconnected from controlling its critical f7-square, on which White
+now mates.} ({On} 1... Nxe7 {, the link between Qd7 and the f7-square has
+again been broken to White's decisive advantage:} 2. Qf7#) (1... Qxe7 2. Qd5+
+$18) (1... Ne5 2. Rxd7 ({or} 2. Rxe5 $18) 2... Nxf3+ 3. Nxf3 $18) 2. Qf7# *
+
+[Event "?"]
+[Site "?"]
+[Date "2015.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[Annotator "Petronic,Jovan"]
+[SetUp "1"]
+[FEN "r3n1r1/1pq2ppk/1p2p2p/1b2N2N/8/6Q1/PPP2P1P/1K1R2R1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "2015.??.??"]
+
+{Diagram [#]  White to play.} 1. Rd7 $3 {Interference! In the main lines, as
+we shall see, Black's f7-pawn becomes a critical weakness.} Bxd7 $2 (1... Qxe5
+$142 2. Qxe5 Bxd7 3. Qe4+ g6 4. Qxb7 $18) (1... Qxd7 $2 2. Nxd7 Bxd7 3. Qd3+ g6
+4. Qxd7 gxh5 5. Qxf7+ $18) 2. Qxg7+ $3 Rxg7 (2... Nxg7 3. Nf6+ Kh8 $8 4. Nxf7#)
+3. Rxg7+ Nxg7 (3... Kh8 4. Nxf7#) 4. Nf6+ Kh8 $8 5. Nxf7# *
+
+[Event "?"]
+[Site "?"]
+[Date "2015.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[Annotator "Petronic,Jovan"]
+[SetUp "1"]
+[FEN "2rq2k1/p4pp1/6r1/2Pp3p/2nBn3/P3PN1b/2Q2PPP/2R1RB1K b - - 0 1"]
+[PlyCount "17"]
+[EventDate "2015.??.??"]
+
+{Diagram [#]  Black to play.} 1... Ncd2 $3 {Interference! Black sacrifices a
+knight with the intention of annihilating White's pawn structure guarding the
+king, and checkmate.} 2. Nxd2 (2. g3 Nxf2+ $19 ({or} 2... Bf5 $19) 3. Kg1 $140
+$8 Nxf3+ 4. Kxf2 $8 Bxf1 5. Kxf3 Qf6+ $1 ({or} 5... Rf6+ $1 $19) 6. Bxf6 Rxf6+
+$19) (2. Re2 Nxf3 3. gxf3 Bxf1 4. Rxf1 Qg5 $19) (2. gxh3 $2 Nxf2#) (2. -- Nxf3
+3. gxf3 Qh4 $1 4. fxe4 Qg4 $1 5. Bxh3 Qf3+ $19) 2... Nxf2+ {White is
+defenseless and facing a forced checkmate.} 3. Kg1 $8 Rxg2+ $1 4. Bxg2 $8 Qg5
+5. Kf1 Qxg2+ 6. Ke2 $8 Bg4+ 7. Nf3 $8 Bxf3+ 8. Kd2 $8 Nd1+ $1 9. Kd3 Be4# *
+
