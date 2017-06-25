@@ -471,3 +471,470 @@ to repel the direct attack.}  25... b5 26. g5 hxg5 27. h6 Rxc4 28. hxg7 Rxc1+
 Rd3 36. Rf1 Qe3 37. Qb1 Rxc3 38. bxc3 Qxc3+ 39. Ka2 Kxg7 40. Rxf7+ Kxf7 41.
 Qxh7+ Qg7 42. Qe4 Qg6 $19  *
 
+[Event "Capablanca Variation, B castles King side"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Xie Jun"]
+[Black "Brunner"]
+[Result "*"]
+[ECO "B19"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bd2 e6 12. O-O-O Be7 13. Qe2 O-O ( 13... c5
+14. Rhe1 Rc8 ( 14... O-O 15. Nf5 $5 cxd4 16. N3xd4 Bc5 17. Nxh6+ gxh6 18. Bxh6
+Re8 19. Qf3 Bf8 20. Bg5 Rc8 21. Kb1 Rc5 22. Bh4 Rxh5 $1 23. Qxh5 Nxh5 24. Bxd8
+Rxd8 25. Nb5 $10 )15. Ne5 O-O 16. Ng6 Re8 17. Nxe7+ Qxe7 18. d5 Nxd5 19. Bxh6
+$1 $14 $140 { Rxd5}  19... Qf6 20. Bd2 )14. Ne5 { The plan of Knight's invasion
+of e5 is not very promising here. The f7-pawn is protected thus Black is not
+forced to capture on e5}  14... c5 15. dxc5 ( 15. Nxd7 $5)15... Nxc5 {
+Restricting g3 knight's mobility}  16. Ng4 ( 16. Bxh6 Qa5 17. Kb1 gxh6 )16...
+Qc7 17. Kb1 Rfd8 18. Bc3 Nxg4 19. Qxg4 Bf8 20. a3 b5 21. Qe2 Qc6 22. f3 Rxd1+
+23. Rxd1 a5 24. Qd2 b4 25. axb4 axb4 26. Bxb4 Qa6 27. Ba3 Na4 28. Qd4 Bxa3 29.
+bxa3 Qb5+ 30. Qb4 ( 30. Ka2 e5 31. Qb4 Qxb4 32. axb4 Nc3+ $19 )30... Nc3+ $19 
+*
+
+[Event "Capablanca Variation, 13. Ne4!"]
+[Site "Torcy 49/192"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Aleksa Strikovic"]
+[Black "Viktor Korchnoi"]
+[Result "1-0"]
+[BlackElo "2625"]
+[ECO "B19"]
+[PlyCount "105"]
+[WhiteElo "2465"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bd2 e6 12. O-O-O Be7 13. Ne4 $1 Nxe4 14. Qxe4
+Nf6 15. Qe2 Qd5 16. c4 Qe4 17. Qxe4 Nxe4 18. Be3 O-O 19. Ne5 Rfd8 20. g4 c5 21.
+f3 cxd4 22. Rxd4 Rxd4 23. Bxd4 { Better pawn structure secures White a slight
+edge in the endgame}  23... Ng5 24. Rf1 Rc8 25. b3 Rd8 26. Bc3 f6 27. Ng6 Bd6
+28. Kc2 Kf7 29. b4 b6 30. a3 e5 31. Bd2 Bc7 32. Be3 e4 33. fxe4 Nxe4 34. Nf4
+Be5 35. Nd3 Bd4 36. Rf4 Bxe3 37. Rxe4 Bg1 38. Kc3 Rc8 39. c5 a5 40. bxa5 bxc5
+41. Ra4 Ke6 42. Kc4 Rc7 43. a6 Ra7 44. Kb5 Kd6 45. Rc4 Ra8 46. Nxc5 Rb8+ 47.
+Nb7+ Kd7 48. a4 Bf2 49. a5 Bg1 50. Rc6 Bf2 51. Rb6 Rc8 52. a7 Ra8 53. Ka6  1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "BasicAdvanceVariation"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3  *
+
+[Event "Advance Variation, Game 1"]
+[Site "New York, NY USA"]
+[Date "1927.03.13"]
+[Round "15"]
+[White "Aron Nimzowitsch"]
+[Black "Jose Raul Capablanca"]
+[Result "0-1"]
+[ECO "B12"]
+[EventDate "1927.02.19"]
+[PlyCount "92"]
+
+1. e4 { Notes by Raymond Keene.}  1... c6 2. d4 d5 3. e5 Bf5 4. Bd3 { An
+old-fashioned way of playing: as soon as bishop occupies an active position
+White simple tries to exhange it. However, the French pawn structure has been
+formed and the lightsquared bishop exchange is in Black's favour}  4... Bxd3 5.
+Qxd3 e6 6. Nc3 Qb6 7. Nge2 c5 { With the ceding of the pawn center White hopes
+to occupy the d4-square with his pieces. A possibility favoured by Nimzowitsch
+as Black in such positions, e.g. his game versus Duras from San Sebastian 1912,
+was 7...Qa6. Capablanca had borrowed that idea to beat Atkins at London 1922.} 
+8. dxc5 Bxc5 9. O-O Ne7 10. Na4 Qc6 11. Nxc5 Qxc5 12. Be3 Qc7 13. f4 Nf5 { It
+is rather amusing to compare this with the Vajda-Nimzowitsch game.}  14. c3 {
+White pieces are better mobiilzed and he would be better to open play. The slow
+course of events in the game reveals the structural drawback of White's
+position, particulary the vulnerability of the light squares in his camp.}  (
+14. Rac1 $1 Nc6 15. Bf2 h5 16. c4 dxc4 17. Qxc4 O-O 18. Rfd1 )14... Nc6 15.
+Rad1 g6 16. g4 $2 { This apparently active move only weakens White's kingside.
+? Creating a permanent weakness. Better is 16 Bf2.}  ( 16. Bf2 h5 17. Rd2
+)16... Nxe3 17. Qxe3 h5 { Weaking White's light squares even more.}  18. g5 (
+18. h3 hxg4 19. hxg4 O-O-O $15 )18... O-O 19. Nd4 Qb6 { Black has obtained the
+advantage. He plays the rest of the game perfectly, using the key squares c4,
+e4 and f5 as well as the semi-opened c-file.}  20. Rf2 Rfc8 21. a3 Rc7 22. Rd3
+Na5 23. Re2 Re8 24. Kg2 Nc6 25. Red2 Rec8 26. Re2 Ne7 27. Red2 Rc4 { !}  28.
+Qh3 Kg7 29. Rf2 a5 30. Re2 Nf5 { !}  31. Nxf5+ gxf5 32. Qf3 Kg6 33. Red2 Re4
+34. Rd4 Rc4 35. Qf2 Qb5 36. Kg3 Rcxd4 37. cxd4 Qc4 38. Kg2 b5 39. Kg1 b4 40.
+axb4 axb4 41. Kg2 Qc1 42. Kg3 Qh1 43. Rd3 Re1 44. Rf3 Rd1 45. b3 Rc1 { !
+Zugzwang.}  46. Re3 Rf1 { One might suppose from this game that Capablanca had
+carefully read My System and then used all the theories contained therein
+against their inventor!}   0-1
+
+[Event "Advance Variation, 5.Be2"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Vogt, Lothar"]
+[Black "Kasparov, Garry"]
+[Result "1/2-1/2"]
+[BlackElo "2595"]
+[ECO "B12"]
+[WhiteElo "2510"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O { White chooses and easy
+way of developing his pieces intending to use his small developmental
+advantage. Black has already conducted the thematic c7-c5 advance, however, he
+has spent to tempi for it.}  6... Nc6 7. Be3 cxd4 8. Nxd4 Nxd4 9. Qxd4 Ne7 10.
+Bb5+ Nc6 11. Qa4 Qc7 12. c4 $1 { Having obtained advantage in development,
+White tries to open play.}  12... dxc4 ( 12... Bd3 $6 13. Rd1 ( 13. cxd5 Bxf1
+14. Kxf1 exd5 15. Nc3 O-O-O )13... Bxc4 14. Bxc6+ Qxc6 15. Qxc6+ bxc6 16. Nd2
+)13. Rc1 ( 13. Nd2 $5 $140 c3 ( 13... Be7)14. Rac1 )13... Be7 14. Nd2 O-O 15.
+Bxc6 ( 15. Nxc4 Rfc8 ( 15... Be4))15... bxc6 16. Nxc4 { Black has successfully
+completed development but White managed to spoil his pawn structure.}  16...
+Be4 $1 { A perfect consolidating maneuver: after transferring to d5, the black
+bishop protects the c6 pawn reliable while occupying a dominating position in
+the center.}  17. Nb6 axb6 18. Qxe4 c5 19. a4 Rad8 20. Rd1 Rd7 21. Rd2 Rxd2 22.
+Bxd2 Rd8 23. Bc3 Rd5 24. Qc4 h5 25. Qe2 g6 26. a5 bxa5 27. Rxa5 Bg5 28. g3 Bh6
+29. Ra8+ Kh7 30. Ra1 $6 ( 30. Ra4 Bg7 31. Re4 )30... Bg7 31. Re1 c4 32. h4 $6
+Qc5 ( 32... Rd3 33. Qe4 Qc5 34. Kg2 Bf8 { With the idea Qd5}  )33. Qe3 Qc6 34.
+Qf3  1/2-1/2
+
+[Event "Advance Variation, 5.Be2 plans"]
+[Site "Manila PHI"]
+[Date "1990.07.10"]
+[Round "10"]
+[White "Nigel Short"]
+[Black "Yasser Seirawan"]
+[Result "1-0"]
+[ECO "B12"]
+[EventDate "1990.06.29"]
+[PlyCount "65"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c3 e6 5. Be2 c5 6. Nf3 Nc6 7. O-O { In this game
+White chooses a solid plan based on fortifying his pawn chain in the center. He
+recognized the fact that Black solved the problem of the light squared Bishop
+in the "French" pawn structure, and hopes to use this spatial advantage.}  7...
+h6 { Black will often make this move, he is trying to prevent the f5-Bishops's
+exchange, which is possible with a Nf3-h4 lunge}  ( 7... c4 8. b3 b5 9. a4 a6
+10. Na3 h6 11. Bb2 Bxa3 12. Bxa3 Nge7 13. Bc5 O-O 14. b4 Rb8 15. Nh4 Bh7 16. f4
+$14 { Nunn vs Seirawan, Wijk aan Zee, 1992}  )( 7... Rc8 8. a3 c4 9. Nbd2 Nh6
+10. b3 cxb3 11. Qxb3 Rc7 12. Bb2 Be7 13. c4 O-O 14. Bc3 { Short vs Hjartason,
+Manila, 1990}  )8. Be3 { By attacking the Black d5 pawn, White tries to clear
+the sitation in the center.}  8... cxd4 9. cxd4 { This pawn exchange is in
+White's favoursince his knight obtains a perfect c3 square.}  9... Nge7 10. Nc3
+Nc8 11. Rc1 a6 12. Na4 { White's advantage lies in the opportunities of active
+play on the queenside including the knight transfer to c5.}  12... Nb6 13. Nc5
+{ Black must exchange this strong knight providing White with the Bishop pair
+advantage.}  13... Bxc5 14. Rxc5 O-O 15. Qb3 Nd7 16. Rc3 Qb6 17. Rfc1 Qxb3 18.
+Rxb3 Rfb8 19. Nd2 Kf8 20. h4 $1 Ke8 21. g4 $1 Bh7 22. h5 $1 { By having placed
+his pawns on e5 and h5, White fixed the opponent's kingside. Now he prepares an
+assault there supported by his bishops.}  22... Nd8 23. Rbc3 Nb6 24. Nb3 Na4
+25. Rc7 Nxb2 26. Nc5 b5 27. g5 Nc4 28. gxh6 gxh6 29. Nd7 Nxe3 30. fxe3 Bf5 31.
+Kf2 Rb7 32. Nf6+ Kf8 33. Rg1 $1  1-0
+
+[Event "Advance Variation, 5.Be2..7..Bg4"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Anand, Viswanathan"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[BlackElo "2730"]
+[ECO "B12"]
+[WhiteElo "2650"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 { Black makes another move with
+the same piece in opening, however, this is quire admissible in closed
+positions. By tranferring his Bishop to g4, Black intensifies his control over
+the key d4-squre indirectly and clears the f5-squre for his knight's maneuver
+at the same time.}  6. O-O Nc6 7. c3 Bg4 8. Nbd2 cxd4 9. cxd4 Nge7 10. h3 ( 10.
+a3 Nf5 11. b4 Be7 12. h3 Bxf3 13. Nxf3 O-O 14. Bb2 a6 15. Qd2 Rc8 16. Rad1 Nb8
+$1 17. Bd3 Nh4 18. Ne1 Nd7 19. Nc2 Nb6 20. Ne3 Qd7 21. Rde1 Rc7 22. Qd1 Rfc8
+23. g3 Nf5 24. Nxf5 exf5 25. Qf3 g6 26. Qf4 Na4 27. Bc1 Rc3 28. Bb1 Rb3 29. Ba2
+Rd3 30. Bb1 Rb3 31. Ba2 Rd3 32. Bb1 $10 { Short vs Karpov, Linares, 1992 Ch
+World}  )10... Bxf3 11. Nxf3 Nf5 12. Rb1 Qb6 13. Be3 Be7 14. b4 O-O { Black has
+completely solved all problems of his somewhat constrained position by placing
+his pieces harmoniously.}  15. Bd3 Nxe3 16. fxe3 Rac8 17. Kh1 Qd8 18. Qe1 a6
+19. b5 axb5 20. Rxb5 Rb8 21. Qb1 h6 22. e4 Nxd4 23. Nxd4 dxe4 24. Nxe6 fxe6 25.
+Rxf8+ Bxf8 26. Bxe4 Qd4 27. Qd3  1/2-1/2
+
+[Event "Advance Variation, 7... Bg4 8.Be3 Game"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Benjamin, Joel"]
+[Black "Dzindzichashvili, Roman"]
+[Result "1-0"]
+[BlackElo "2555"]
+[ECO "B12"]
+[WhiteElo "2540"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c3 e6 5. Be2 c5 6. Nf3 Nc6 7. O-O Bg4 8. Be3 {
+White does not hurry with developing his queen's knight but waits for the pawn
+configuration in the center to settle down finally.}  8... Bxf3 { Black might
+abstain from exchanging the light squred bishop. Perhaps, he did not want to
+let the white queen's knight to f3 that was possible after Nb1-d2.}  9. Bxf3
+cxd4 10. cxd4 Nge7 { The knight heads for the f5-squre, which the light squred
+bishop civilly vacated for him.}  11. Nc3 Nf5 12. Bg4 $1 { In the view of Bxf5
+thread Black is forced to exchange on e3}  12... Nxe3 13. fxe3 Bb4 14. Rf4 O-O
+15. Qf3 { White has good opportunities of the King side attack thanks to his
+strong e5-pawn and to the semi-opened f-file.}  15... Bxc3 16. bxc3 { Otherwise
+the White Knight might increase White's attacking potential on the kingside by
+being transferred via the route Nc3-e2-g3-h5}  16... Qe7 17. Rf1 Rac8 18. e4 $1
+{ White combines the attack with defensive measures. By the move e3-e4 he
+clears the third rank in order to protect his c3-pawn}  18... dxe4 19. Qxe4 Na5
+20. R4f3 Nc4 21. Rh3 h6 22. Qd3 b5 23. Rg3 Rfd8 24. Qe2 Rd7 25. Bh5 Qh4 26. Rg4
+Qd8 27. Qf2 Qf8 28. Qg3 b4 { Black undertakes a desparate attempt to divert his
+opponent from mounting pressure on his kingside but it only results in a worse
+position.}  29. cxb4 Nd2 30. Rd1 f5 31. exf6 Qxf6 32. Rf4 Qg5 33. Bg4 Kh8 34.
+Bxe6 Qh5 35. Qg4  1-0
+
+[Event "Advance Variation, 7...cxd4 and others"]
+[Site "Walsall ENG"]
+[Date "1992.04.??"]
+[Round "7"]
+[White "Xie Jun"]
+[Black "Chiburdaidze Maia"]
+[Result "1-0"]
+[ECO "B12"]
+[PlyCount "95"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nc6 7. c3 cxd4 { Black
+relieves tension in the center directing her king's knight to e7. Meanwhile,
+she does not define the position of her light squred bishop. If Black plays
+7...Nge7 immediately, then she must reckon with capturing on c5.}  ( 7... Nge7
+8. dxc5 $5 Ng6 9. b4 Ngxe5 ( 9... Be7 10. Nd4 Bxb1 11. Rxb1 Ngxe5 12. f4 Nd7
+13. f5 e5 14. Nf3 e4 15. Nd4 O-O 16. Bf4 Bf6 17. Nb5 $16 { Nunn J vs Drazic S
+1992}  )10. Nxe5 Nxe5 11. Bb5+ Nc6 12. Qa4 Qc8 13. c4 a6 14. Bxc6+ Qxc6 15.
+Qxc6+ bxc6 16. cxd5 cxd5 17. Bb2 Rb8 18. a3 f6 19. Rc1 e5 20. Nc3 Be6 21. Na4
+Be7 22. f4 exf4 23. Bd4 $14 { With initiative Mainka R vs Smagin S, 1993} 
+23... Kf7 )8. cxd4 Nge7 9. Be3 Bxb1 { A typical method: Black trades off her
+light squared bishop, then she transfers her king's knight to f5 solving the
+problem of harmonious development in a constrained position in this way.}  10.
+Rxb1 Nf5 11. Bd3 Nxe3 12. fxe3 g6 { By her king's bishop's fianchetto, Black
+fortifies her kingside restricting the white d3-bishop at the same time.}  13.
+Bb5 Rc8 14. Rc1 Bh6 { It turns out that the d7-square is not the sole
+convenient position for this bishop. From the h6 square, the bishop attacks the
+white e3-pawn restricting White's pieces' freedom of action.}  15. Qd2 O-O 16.
+Bxc6 { White creates a backward pawn on c6 in the opponent's camp. However, she
+cannot invoke a sufficient number of attacks against it because her own e3-pawn
+demands her vigilant attention.}  16... Rxc6 17. Rxc6 bxc6 18. Rc1 Qb6 19. Ne1
+{ Perhaps White wanted to transfer he knight to the more attractive position,
+the c5 square, but, in doing so she lost control over the e5-point
+momentarily.}  19... f6 $1 20. exf6 ( 20. Nd3 $2 Qxd4 $1 )20... e5 21. Nf3 exd4
+22. Nxd4 c5 23. Ne2 d4 24. Nf4 Qxf6 25. g3 dxe3 26. Qxe3 Qxb2 27. Rxc5 Qxa2 28.
+Rc7 Rb8 29. Rc1 Rb1 30. Qe8+ Bf8 31. Rxb1 Qxb1+ 32. Kg2 Qb7+ 33. Kg1 Qe7 34.
+Qa4 Qf7 35. Qc6 Qb3 36. Qe8 Qd1+ 37. Kf2 Qc2+ 38. Kf3 Qb3+ 39. Kf2 Qa2+ 40. Kf1
+Qa1+ 41. Kf2 Qb2+ 42. Kf1 Qb6 43. Kg2 Qb7+ 44. Kg1 Qe7 45. Qa4 Kh8 46. Qd4+ Bg7
+47. Qd5 Bf6 48. Ne6 Qe8 49. g4 g5 50. Qf5 Qe7 51. Qe4 Qf7 52. Nd4 Qd7 53. Ne6
+Qc8 54. Qf5 Qc1+ 55. Kg2 Qb2+ 56. Kg1 h6 57. Qd5 Qb8 58. Qd7 Kg8 59. Qd5 Qe5
+60. Qc4 Qe3+ 61. Kg2 Qd2+ 62. Kg1 Qc3 63. Qd5 Qe1+ 64. Kg2 Qe2+ 65. Kh3 Qe5 66.
+Qd7 Qe3+ 67. Kg2 Qe2+ 68. Kg1 Qxg4+ 69. Kf1 Qf5+ 70. Kg2 Qe4+ 71. Kf2 Qa8 72.
+Qc7 Qd5 73. Qc8+ Kf7 74. Nc7 Qd2+ 75. Kf1 Qd1+ { Xie Jun-Maia Chiburdanidze}  
+1-0
+
+[Event "Advance Variation, 9.b3"]
+[Site "Manila PHI"]
+[Date "1992.06.18"]
+[Round "10"]
+[White "Nigel Short"]
+[Black "Carlos Garcia Palermo"]
+[Result "0-1"]
+[ECO "B12"]
+[PlyCount "80"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nc6 7. c3 cxd4 8. cxd4
+Nge7 9. b3 { According to theprinciple of overprotecting strategically
+important points, White develops his Queen's bishop to b2 fortifying his
+d4-pawn. Now Black is deprived of the Ne7-f5-xe3 manuever.}  9... Be4 { An
+original idea: it turns out that the g4 square is not the sole point from which
+the black bishop can exert his influence on the center. With the bishop on g4
+White can always distrub it with the h2-h3 move. Of course, with the black
+bishop now on e4 it may be attacked by the white knight from d2 but that will
+provide Black with some new dynamical resources.}  10. Nbd2 Nf5 11. Bb2 Bb4 12.
+g4 Bxf3 ( 12... Nh4 $5 13. Nxe4 dxe4 14. Nxh4 Qxh4 15. Qc2 h5 16. Qxe4 hxg4 17.
+Qg2 O-O-O 18. Bxg4 Kb8 { With compensation for the material. Short vs Seirawan,
+1992}  )13. Nxf3 Nfe7 14. Ne1 { White prepares the thematic f2-f4-f5 advance
+that will justicy the obliging g2-g4 move. However, White lacks just one tempo
+for accomplishing his plan.}  14... h5 $1 { By sacrificing a pawn Black obtains
+full control over the f5-square.}  15. gxh5 Nf5 16. Nc2 Qg5+ 17. Kh1 Bd2 $1 {
+The black dark squared bishop enters play through an unusual route.}  18. Rg1
+Qf4 19. Rg2 g6 { Black opens the h-file intending to pressurize the white
+king's position.}  20. hxg6 fxg6 21. Bg4 Nh4 22. Rg3 Qxf2 23. Qf1 ( 23. Bxe6 $4
+Nf3 24. Rh3 Qxh2+ 25. Rxh2 Rxh2# )23... Qf4 24. Qd3 ( 24. Bxe6 $6 Qe4+ 25. Kg1
+Rf8 )24... Nf5 25. Rg2 Ba5 26. Rf1 Qe4 27. Qxe4 dxe4 28. Bxf5 gxf5 29. Rg6
+O-O-O 30. Rxe6 Rh3 { White retains an extra pawn in the endgame but the black
+pieces occupy extremely active positions.}  31. Rg6 ( 31. Rxf5 e3 )31... Bc3
+32. Bc1 Bxd4 33. Nxd4 Nxd4 34. Bf4 Ne2 35. e6 Rf3 36. Re1 Nxf4 37. Rc1+ Kb8 38.
+e7 Re8 39. Rd6 Rd3 40. Rf6 Rd7  0-1
+
+[Event "Advance Variation, 9.a3"]
+[Site "Linares"]
+[Date "1992.04.??"]
+[Round "4"]
+[White "Nigel Short"]
+[Black "Anatoly Karpov"]
+[Result "1-0"]
+[ECO "B12"]
+[PlyCount "151"]
+
+1. d4 c6 2. e4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nc6 7. c3 cxd4 8. cxd4
+Nge7 9. a3 { White prepares to develop his queen's bishop to be but, in
+contrast to the previous game he has places his queenside pawn more
+aggresively.}  9... Be4 10. Nbd2 Nf5 11. b4 Qb6 12. Bb2 { The white a3 and b4
+pawns restrict the activity of black's pieces on the queenside.}  12... Be7 13.
+Re1 $1 { Preparing to out the black bishop from the e4-square.}  13... Rd8 14.
+Bf1 a5 $1 { Black must play actively in order not to obtain a crumpled
+position.}  ( 14... Ncxd4 $6 15. Nxd4 Nxd4 16. Bxd4 Qxd4 17. Bb5+ Kf8 18. Nxe4
+dxe4 19. Qxd4 Rxd4 20. Rad1 $14 )15. Nxe4 ( 15. b5 Ncxd4 )15... dxe4 16. Rxe4
+axb4 17. axb4 Bxb4 18. Rb1 Qa5 19. h4 $1 O-O 20. Bd3 { The concentration of
+White pieces against the Black king looks threatening. The white e4-rook not
+only takes part in the attack, it also restricts Black's counterplay in the
+center together with the white bishop on b2 which fortifies the d4-point.} 
+20... Rd7 21. Rf4 g6 22. h5 Be7 23. hxg6 hxg6 24. Be4 Ng7 25. Rg4 Rfd8 26. Qc1
+Nf5 27. Bc3 Qc7 28. Qb2 { The white queen has reached an active position. She
+targets the b7 pawn and eventually the a1-h8 diagonal after the possible d4-d5
+breakthrough.}  28... Nfxd4 { Black decides to sacrifice the exchange in a
+difficult position hoping to build a fortress}  29. Nxd4 Rxd4 30. Bxd4 Rxd4 31.
+Bf3 Rxg4 32. Bxg4 Nxe5 33. Qxb7 Qc2 34. Bd1 Qd3 35. Bf3 Bf6 36. Qe4 Qc3 37. Be2
+Kg7 38. g3 Qc5 39. Kg2 Nc6 40. Rb7 Nd4 41. Bd3 Qh5 42. Rd7 Nf5 43. Qxe6 Nh6 44.
+Bc4 Qe5 45. Qxe5 Bxe5 46. Kf3 Kf8 47. Ke4 Bf6 48. Rd5 Be7 49. f4 Ng4 50. Ra5
+Nh6 51. Kf3 f5 52. Ra7 Ng4 53. Be6 Nh6 54. Rc7 Ng4 55. Rb7 Nh6 56. Ke3 Ng4+ 57.
+Kd4 Nf6 58. Rb8+ Kg7 59. Rb7 Kf8 60. Bd5 Nh5 61. Ke5 Bf6+ 62. Ke6 Bd4 63. Bf3
+Nxg3 64. Rd7 Bc3 65. Rd3 Bb2 66. Rd2 Bc1 67. Rd1 Bxf4 68. Kf6 Bc7 69. Rd7 Ba5
+70. Bc6 Nh5+ 71. Kxg6 Nf4+ 72. Kxf5 Ne2 73. Bf3 Ke8 74. Rd5 Ng3+ 75. Ke6 Bc7
+76. Rd7  1-0
+
+[Event "Advance Variation, 9.a3 more plans"]
+[Site "1994"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Viktor Bologan"]
+[Black "Alexander Khalifman"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[FEN "r2qkb1r/pp2nppp/2n1p3/3pPb2/3P4/5N2/PP2BPPP/RNBQ1RK1 w kq - 1 9"]
+[PlyCount "85"]
+[Setup "1"]
+
+9. a3 Be4 10. Nbd2 Nf5 11. b4 a5 { Not waiting for opponent to consolidate his
+position, Black delays the development of his kingside and starts counterplay
+on the queenside as quickly as possible.}  12. g4 $1 { White also fights for
+the initiative evergetically}  ( 12. bxa5 Qxa5 13. g4 Nfxd4 14. Nxd4 Nxd4 15.
+Nxe4 Nxe2+ 16. Qxe2 dxe4 17. Qxe4 Bc5 18. Qxb7 O-O 19. Qe4 Qc3 20. Ra2 Qb3 21.
+Rb2 Qa4 22. Re2 Bxa3 23. Qxa4 Rxa4 24. Bxa3 Rxa3 $10 { Alex Yermolinsky-Yasser
+Seirawan Durango, CO USA  ( 4 ) , USA-ch / Zonal, 1992.12}  )12... Bxf3 { After
+this exchange Black's pieces must retreat and he finds himself in a difficult
+position}  ( 12... Nfxd4 { Black's principled continutation. However, White
+would also retain initiavite in this case.}  13. Nxd4 Nxd4 14. Nxe4 dxe4 15.
+Be3 Nxe2+ 16. Qxe2 Qd3 17. Qb2 Be7 18. bxa5 O-O 19. Rfd1 Qa6 20. Rd7 Bh4 21.
+Rxb7 Qxa5 22. a4 Qd8 23. Qd4 Qxd4 24. Bxd4 Ra6 25. Ra7 Rxa7 26. Bxa7 Ra8 27.
+Bb6 Bd8 28. Bxd8 Rxd8 29. a5 Kf8 30. a6 Ra8 31. Kf1 Ke7 32. Ke2 Kd7 33. Ke3 Kc6
+34. Kd4 Ra7 35. Kxe4 Kb5 36. Kd4 Rd7+ 37. Kc3 Rc7+ 38. Kb3 Ra7 39. f4 Rxa6 40.
+Rxa6 Kxa6 41. Kc4 Kb6 42. f5 g5 43. fxe6 )13. Nxf3 Nh4 14. Nxh4 Qxh4 15. b5 Nb8
+16. f4 $1 { White imlements typical strategy in positions of this kind: he
+starts a horrible pawn storm on the kingside using his advantage in space and
+support of his pair of bishops.}  16... Be7 17. Be3 Nd7 18. Kg2 Bd8 19. f5 Qe7
+20. fxe6 fxe6 21. b6 $1 { A beautiful pawn sacrifice. The white bishop
+facilitates his army's assault decisively after being transferred on the a4-e8
+diagonal}  21... Rf8 ( 21... Bxb6 22. Bb5 )22. Qc2 Rxf1 23. Rxf1 Bxb6 24. Bb5
+g6 25. Qc1 Qh4 26. h3 Bd8 27. a4 Be7 28. Qc7 Rd8 29. Qb6 { Alexey Shirov-Jordi
+Magem Badals Madrid ESP  ( 4 ) , Madrid, Cat.16, 1994.05}   1/2-1/2
+
+[Event "Advance Variation, 9.a3 Nc8"]
+[Site "Las Palmas ESP"]
+[Date "1994.05.23"]
+[Round "2"]
+[White "Alexey Shirov"]
+[Black "Anatoly Karpov"]
+[Result "0-1"]
+[ECO "B12"]
+[EventDate "1994.05.22"]
+[PlyCount "76"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nc6 7. c3 cxd4 8. cxd4
+Nge7 9. a3 Nc8 { Black chooses a reliable plan. Of course, it is highly
+desirable for Black to put his king's knight on f5. However, as the previous
+mase has showm it happends requently that black pieces are not preperly
+coordinated on the kingside. That is why Black sends his e-7 knight to the
+queenside.}  10. Nbd2 Be7 11. b3 { Now the b2-b4 advance is already not so
+attractive for White because the black knight's maneuver Nc8-b6-c4 may reveal
+weakening of the c4-square.}  11... a5 { After occupying space on the
+Queenside, Black may plan either the a3-a4 advance, or the Nc8-a7-b5 maneuver.}
+ 12. Bb2 N8a7 13. Re1 O-O 14. Nf1 { White starts a standard regrouping of his
+pieces intending to build up his forces on the kingside.}  14... Rc8 15. Ng3
+Bg6 16. Qd2 { The black bishops cover avenues of approach to their king's
+position reliably. If White decided to exchange on e of them, then the black
+doubled pawns increase the strength of Black's position}  ( 16. Bd3 Qb6 17.
+Bxg6 hxg6 )16... Qb6 17. Bd1 Rc7 18. h4 h6 19. Re2 Rfc8 20. Qf4 Nb8 21. Re3 Nb5
+22. Ne2 Nd7 23. Nh2 Rc6 24. Ng4 Qd8 { By transferring his queen to f8, Black is
+targeting vulnerable points in White's camp on the queenside.}  25. Rh3 Qf8 26.
+a4 Na3 { Black gradually takes the initiative. His counterplay on the queenside
+becomes dangerous while White has no real threats on the kingside.}  27. Bxa3 (
+27. h5 Bc2 ( 27... Bf5 28. Rg3 Bxg4 ( 28... Bg5 $2 29. Nxh6+ $1 ) 29. Bxa3 Bxa3
+30. Rxg4 )28. Bxa3 Bxa3 29. Rg3 Kh8 30. Bxc2 Rxc2 31. Rxa3 Rxe2 $17 )27... Bxa3
+28. Rg3 h5 29. Ne3 Bb2 30. Ra2 Bc1 $1 $17 31. Qg5 Qb4 32. Nf4 $2 ( 32. Kh2 Bxe3
+33. fxe3 Nf8 $17 { Withe the idea}  34. Nf4 $2 Nh7 )32... Bxe3 33. fxe3 Rc1 34.
+Nxg6 Rxd1+ 35. Kh2 fxg6 36. Qxg6 Qe7 37. Rf2 Qxh4+ 38. Rh3 Qxf2  0-1
+
+[Event "Advance Variation, 9.Nc3"]
+[Site "Linares ESP"]
+[Date "1992.02.29"]
+[Round "5"]
+[White "Viswanathan Anand"]
+[Black "Jonathan Speelman"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[PlyCount "143"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nc6 7. c3 cxd4 8. cxd4
+Nge7 9. Nc3 { White places his knight to an active position from where he can
+move via the c3-a4-c5 route helping to create pressure on the queenside.}  9...
+Nc8 $1 { In this case the typical Ne7-c8-b6 manuever resumes restricting the
+white queen's knight's activity there as well}  10. Be3 ( 10. Bg5 Be7 11. Bxe7
+Qxe7 12. Na4 Bg4 13. Nc5 Nb6 $10 { Nunn vs Speelman}  )( 10. Na4 Nb6 11. Nc5 $2
+Bxc5 12. dxc5 Nd7 )10... Nb6 11. Rc1 Be7 12. Na4 { It is not easy for White
+knight to get to the kingside from the c3-square, so he moves to the queenside.
+However, it only brings simplification and equalization of play.}  12... Nxa4
+13. Qxa4 O-O 14. Bb5 { This apparantly active move facilitates Black in taking
+the initiative.}  ( 14. a3 $1 a6 15. b4 a5 $1 16. b5 Nb8 17. Rc3 Nd7 18. Rfc1
+Nb6 19. Qd1 a4 { Hellers vs Epishin, Malme, 1994}  )14... Nb4 15. a3 Nd3 16.
+Bxd3 Bxd3 17. Rfe1 a5 18. Qd1 Bg6 19. Qb3 Ra6 { Black's two bishops define his
+initiative, and later White manages save this game only with difficulty.}  20.
+Bd2 Qd7 21. Rc3 a4 22. Qd1 Qb5 23. Bc1 Rc6 24. Ree3 Rfc8 25. Rxc6 Rxc6 26. Bd2
+Qxb2 27. Qxa4 Qa1+ 28. Be1 Bf8 29. Qa8 Ra6 30. Qxb7 Rxa3 31. Rxa3 Qxa3 32. Qc8
+h6 33. Qc3 Be4 34. Qxa3 Bxa3 35. Nd2 Bb2 36. f3 Bxd4+ 37. Bf2 Bc3 38. Nxe4 dxe4
+39. fxe4 Bxe5 40. g4 Kh7 41. Kg2 Kg6 42. Be3 Kf6 43. h4 Bc3 44. Bf4 Be1 45. h5
+Bh4 46. Kf3 Ke7 47. Be3 Kd6 48. Bf4+ Kc5 49. Be5 Bf6 50. Bb8 Kd4 51. Bd6 Bg5
+52. Bf8 g6 53. Bg7+ Kd3 54. Bf8 e5 55. Bg7 gxh5 56. gxh5 f5 57. exf5 e4+ 58.
+Kg2 e3 59. Be5 e2 60. Bg3 Bf6 61. Kf3 Bc3 62. Bf2 Kd2 63. Ke4 Kd1 64. Kd3 Bf6
+65. Bg3 Bg5 66. Bf2 e1=Q 67. Bxe1 Kxe1 68. Kd4 Kf2 69. Ke5 Kf3 70. f6 Kg4 71.
+f7 Be7 72. Ke4  1/2-1/2
+
+[Event "Advance Variation, 8...Bb4!?"]
+[Site "Monaco blind"]
+[Date "1993.??.??"]
+[Round "11"]
+[White "Nigel Short"]
+[Black "Viktor Korchnoi"]
+[Result "1/2-1/2"]
+[BlackElo "2605"]
+[ECO "B12"]
+[PlyCount "84"]
+[WhiteElo "2655"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nc6 7. c3 cxd4 8. cxd4
+Bb4 $5 { An original idea of immediately bringing the black king's bishop into
+play. The bishop will influence the important d4-point from the b6-square
+actively.}  9. a3 Ba5 10. b4 Bb6 11. Bb2 Nge7 12. Nbd2 Be4 { The typical
+method: by clearing the f5-square for the knight Black conducts and evergetic
+seige on the d4-pawn.}  13. Re1 O-O 14. Bf1 Bg6 15. h3 Rc8 16. Rc1 Nf5 17. Nb3
+Nh4 $1 18. Nh2 $1 { White avoids exchanges because he has an advantage in
+space.}  18... f6 $1 { This moves shows up the typical disadvantage of White's
+pawn chain in the center}  19. exf6 Qxf6 20. Ng4 Qf7 21. Qd2 h5 22. Rxc6 $1 {
+This positional exchange sacrifice allows White to establish control over the
+important e5-square. In positions of this kind Black's material advantage is
+not perceptible since there are not opened files for his rooks.}  ( 22. Nh2 {
+If the white knight retreats, then black pieces occupy active positions}  22...
+Qf6 )22... bxc6 23. Ne5 Qe8 24. Nc5 Bxc5 25. dxc5 Qe7 26. Bd4 Be4 27. f3 Bh7
+28. Be3 Rf5 29. Ba6 Rxe5 $1 { Black gives back his extra exchange readily in
+order to break White's blockade in the center}  30. Bxc8 Qc7 31. Ba6 Nf5 32.
+Bf2 Rxe1+ 33. Qxe1 e5 34. g4 hxg4 35. hxg4 Nh6 36. Bg3 Nf7 37. Kg2 Qe7 38. Qe3
+g5 39. Be2 Kg7 40. a4 d4 41. Qd2 d3 42. Bd1 e4  1/2-1/2
+
