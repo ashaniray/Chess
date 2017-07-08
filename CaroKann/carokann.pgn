@@ -1062,8 +1062,8 @@ the development drastically after: } 7... Bg6 $6 8. O-O Nc6 9. c4 $1 Nge7 (
 9... Nxe5 10. cxd5 Qxd5 11. Qa4+ $18 )10. Nc3 Nxd4 11. Bxd4 dxc4 12. Nb5 Nc6
 13. Bxc4 Nxd4 14. Nxd4 Bc5 15. Qa4+ Ke7 16. Nb3 Qb6 17. Rac1 Rhc8 18. Be2 $4
 Kf8 ( 18... Bb4 $7 19. a3 Bc5 )19. Rxc5 Rxc5 20. Qa3 { Nigel Short-Vidmantas
-Malisauskas Moscow RUS  ( 10 ) , Olympiad, 1994.12.11}  )8. O-O Nbc6 9. Bb5 a6
-10. Bxc6+ bxc6 ( 10... Nxc6 11. Nxf5 exf5 $14 )11. c4 { White uses his
+Malisauskas Moscow RUS  (  10  )  , Olympiad, 1994.12.11}  )8. O-O Nbc6 9. Bb5
+a6 10. Bxc6+ bxc6 ( 10... Nxc6 11. Nxf5 exf5 $14 )11. c4 { White uses his
 temporary advantage in development and tries to force a combat but Black's
 position remains sufficiently reliable.}  11... Qd7 12. Nc3 dxc4 $1 { Black
 breaks apart his own pawn structure but his knight obtains a perfect d5-square}
@@ -1112,4 +1112,37 @@ Rd5 29. Re4 ( 29. Rxc4 Rxe5 30. Rxe5 Qxe5+ 31. Kh3 $15 )29... Re7 30. Qf4 $6 (
 Qc6 Rac8 40. Qd7 Rcd8 41. Qc7 Rd5 42. a5 Rdxe5 43. a6 R5e7 44. Qc6 Rf8 45. Kh3
 Ra7 46. g4 Rfa8 47. Kh4 Rxa6 48. Qb7 Ra5 49. Qc6 Rf8 50. Qb6 Rg5 51. Qb3 Kh8
 52. Qb4 Re8 53. Qa4 Rd8 54. Qe4 f5 55. gxf5 Rf8  0-1
+
+[Event "Advance Variation, 8.c4 Nbc6 9.Qa4!"]
+[Site "Candidats FIDE f1, Sanghi Nagar"]
+[Date "1995.??.??"]
+[Round "3"]
+[White "Gelfand, Boris"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[BlackElo "2765"]
+[ECO "B12"]
+[WhiteElo "2700"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 cxd4 7. Nxd4 Ne7 8. c4
+Nbc6 9. Qa4 $1 { This continuation poses the most severe problems to Black.
+White hampers disentanglisng black pieces' ball in the center as much as
+possible.}  9... dxc4 ( 9... Qd7 10. Nc3 Nxd4 ( 10... Nxe5 11. Qxd7+ Nxd7 12.
+cxd5 $16 )11. Qxd7+ Kxd7 12. Bxd4 Nc6 13. Be3 Nxe5 ( 13... d4 14. Rd1 Bc5 )14.
+cxd5 Bb4 15. Bd4 f6 16. Rd1 $14 )10. Na3 Qa5+ 11. Qxa5 Nxa5 12. Nab5 { Despite
+the queen's exchange, White reatins the initiative thanks to his advantage in
+development}  ( { Capturing the c4-pawn immediately would facilitate solving
+the opening problems by Black: } 12. Nxc4 Nxc4 13. Bxc4 a6 14. f3 Ng6 15. Nxf5
+Nxe5 16. Bb3 exf5 17. O-O-O Be7 18. Rd5 Nc6 19. Rxf5 O-O 20. Rd1 Bf6 21. Rd7 b5
+22. f4 Na5 23. Bd4 Nxb3+ $10 { Svidler vs Anand, Madrid, 1998}  )12... Nd5 13.
+Nxf5 exf5 14. Bd2 a6 ( 14... Bb4 15. Bf3 Bxd2+ 16. Kxd2 c3+ 17. Kc2 $14 )15.
+Nd4 Bb4 16. Nxf5 O-O 17. Bxb4 Nxb4 18. O-O b5 19. f4 { Black has completed the
+development and otained the pawn majority on the queen's side that is
+especially valuable in the endgame. Bevertheless, White's mighty group of
+pieces in the center with the d6-knight at the head makes his chances}  19...
+Rfd8 20. Rad1 Kf8 21. Nd6 $16 Rab8 22. a3 Nbc6 23. Bf3 Rd7 24. Rfe1 Rc7 25. f5
+{ White's pawn phlanx in the center starts advancing}  25... Rd8 26. Bg4 h5 27.
+Bxh5 Rcd7 28. Bxf7 Rxd6 29. Rxd6 Rxd6 30. exd6 Kxf7 31. d7 Nb7 32. Re8 Nbd8 33.
+Kf2 a5 34. Ke3 Kf6 35. g4 Kg5 36. h3 b4 37. axb4 axb4 38. Kd2 Kf6 39. h4 g6 40.
+fxg6 Kxg6 41. h5+ Kh6 42. Kc1 Kg5 43. Rh8 Kf6 44. Rg8 Kf7 45. Re8  1-0
 

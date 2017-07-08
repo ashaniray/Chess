@@ -1,0 +1,33 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "M Botvinnik"]
+[Black "G Stolz"]
+[Result "1-0"]
+[ECO "D55"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 b6 { It is customary to
+play cxd4 but in those days Botvinnik's chief aim in the opening was to develop
+pieces.}  7. Rc1 Bb7 8. Bd3 Nbd7 9. O-O Ne4 ( { Another course for Black would
+have been } 9... c5 10. Qe2 cxd4 11. exd4 dxc4 12. Bxc4 { isolating the Q-pawn}
+ )10. Bxe7 { Played without thinking}  ( 10. Bf4 { is preferrered avoiding
+simplification and causing Black difficulties with the threat of 11.cxd4 exd4
+12.Bxc7 Qxc7 13. Nxe4} )10... Qxe7 11. cxd5 exd5 12. Nxe4 { Combinative
+miscalculation}  ( 12. Bb1 f5 13. Nxe4 fxe4 14. Rxc7 exf3 15. Rxb7 Qg5 16. g3
+Qg4 17. Kh1 ( 17. Qd3 g6 18. Rc1 )17... Rf6 18. Rg1 Rh6 19. Qf1 )12... dxe4 13.
+Rxc7 Bc8 $1 ( { When Botvinnik decided on the combination, he thought Black
+would continue Bd5 or Rb8 both of which would be met by Nd5 } 13... Bd5 14. Ne5
+)( 13... Rab8 14. Ne5 )14. Bb5 { Botvinnik thought this was the best chance}  (
+{ In reality the correct move was } 14. Be2 $1 Qd6 15. Qc1 exf3 16. Bxf3 Ba6
+17. Bxa8 Bxf1 18. Rxa7 ( 18. Qc6 $18))14... exf3 { Black throws away all his
+advantage...}  ( { Black should have played } 14... Qd8 15. Rxc8 Rxc8 { winning
+the exchange}  )15. Qxf3 Qd6 $4 ( { Better was } 15... Rb8 16. Qc6 Rd8 ( 16...
+Qb4)17. Rxa7 { even though White gets 3 pawns for the piece and exerts strong
+pressure}  )16. Qc6 $1 Qb4 { Black finds an ingenious defense!}  ( 16... Qxc6
+$2 17. Bxc6 { and white recapture keeping two extra pawns}  )17. Qxa8 Ba6 18.
+Qxf8+ ( 18. Qd5 $2 Nf6 { and Bxb5}  )18... Nxf8 19. Bxa6 h5 { Black is
+helpless, condemned to passive defense}  20. Rxa7 Qxb2 21. Bc4 Ne6 22. Bb3 h4
+23. d5 Nd8 ( 23... Nc5 24. d6 Nxb3 25. Ra8+ Kh7 26. d7 )24. Rd7 Qf6 25. h3 b5
+26. e4 Kh7 27. e5 Qb6 28. Re1 b4 29. e6 fxe6 30. dxe6 Nxe6 31. Rxe6 $18  1-0
+
