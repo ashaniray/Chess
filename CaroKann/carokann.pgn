@@ -1778,3 +1778,34 @@ opposite side of the board}  27... Nc4 28. Bxc4 dxc4 29. Rac1 Ne7 30. f4 Ba7
 31. Kf3 Nd5 32. f5 b5 33. Nf4 Rd7 34. Nxd5 Rxd5 35. Ke4 Rcd8 36. Bf2 Bb8 37.
 Rf1 Ba7 38. Rfd1 Bb8 39. Rg1 Ba7  1/2-1/2
 
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Panov Attack"]
+[Black "?"]
+[Result "*"]
+[ECO "B13"]
+[WhiteTeam "Lesson 2"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 { This principles
+contiutaiton brings an immediate clash in the center an directs play into
+riverbed of concrete variations. Black solves the problem of developing his
+light squared bishop on an active position. The drawbackof this idea is
+weakening of the b7-point's defense, which is a basement for White's further
+play.}  7. cxd5 Nxd5 8. Qb3 Bxf3 9. gxf3 e6 $1 { This is a reliable
+continuation that leads play as a result of forced play into an endgame.}  10.
+Qxb7 Nxd4 11. Bb5+ Nxb5 12. Qc6+ $1 { An important nuance:White forces the
+black king to occupy and comfortable position in the center.}  12... Ke7 13.
+Qxb5 Nxc3 14. bxc3 Rb8 ( 14... Qd7 15. Rb1 { An important resource for white.
+This continutation was suggested by P.Benko. "After having got deeper into the
+position I have found out that Black is unable to exploit White's numerous pawn
+weaknesses due to a poor develpoment of his kingside. These are the subtleties
+in the position's evaluation that the chess machine fails to take into
+account"(R. Fischer)}  15... Rd8 ( 15... Rc8 16. Qa6 )( 15... Qxb5 16. Rxb5 Kd6
+17. Rb7 f6 ( 17... f5 18. Ke2 Kc6 19. Rf7 g6 ( 19... Bd6) ) 18. Ke2 Kc6 19. Rf7
+a5 20. Be3 ))15. Qc5+ ( 15. Qa6 Qc7 16. O-O f5 17. Be3 Kf7 18. Rab1 Be7 19.
+Qxa7 Qxa7 20. Bxa7 Rxb1 21. Rxb1 Rc8 22. Bd4 Bf6 23. Rb7+ Kg6 24. a4 Bxd4 25.
+cxd4 Rc4 )15... Ke8 16. Qxa7 Bd6 17. Be3 Qf6 18. Rd1 Qxf3 19. Rg1 Qc6 20. Qd4
+Be7 21. Qxg7 Rf8 22. h3 Rb2  *
+
