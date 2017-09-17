@@ -29,18 +29,51 @@ attacking chances.}  )9. O-O ( 9. e4 b4 10. e5 bxc3 11. exf6 cxb2 12. fxg7 Bxg7
 13. Bxb2 c5 14. O-O O-O )9... a6 10. e4 c5 11. e5 Nd5 12. a4 b4 13. Ne4 { White
 has d6 as outpost and would like to trade dark square bishop with Bg5. Black
 would like to prove that the White's centre is a liability and would play moves
-like Qc7 and h6 ( to prevent Bg5, so that Black can play Be7)}  )( 8. Bb3 b4 9.
-Ne2 { White's idea is Nf4 and Ng5->f7,Bxe6 sacrifices. So whenever White brings
-his knight to f4, Black should play Bd6, so that Ng5 is ment by Bxf4 and the
-sacrifices wont work}  ( 9. Na4 Ba6 $1 )9... Bb7 10. O-O Bd6 11. Nf4 O-O 12.
-Ng5 Bxf4 13. exf4 )8... a6 9. e4 $1 ( 9. O-O c5 10. a4 b4 11. Ne4 Bb7 12. Nxf6+
-Nxf6 13. dxc5 Bxc5 14. Qe2 Qd5 { Idea Qh5 etc}  ( 14... O-O)15. Rd1 Qh5 16. Ne1
-Qxe2 17. Bxe2 Ke7 18. Nd3 Bd6 )9... c5 10. e5 cxd4 11. Nxb5 axb5 12. exf6 gxf6
-13. O-O ( 13. Nxd4 Qb6 14. Nxb5 Bb7 15. O-O Rg8 16. g3 Ne5 17. Be2 Bc5 { Idea
-Qc6}  18. a4 Qc6 19. Nd6+ Qxd6 )13... Qb6 { Idea: Bb5, Bb7,Rg8,Ne5}  14. Qe2 b4
-( 14... Bb7 { Anand vs Kramnik, World Championship 2008}  15. Bxb5 Bd6 ( 15...
-Rg8))15. Bf4 Bb7 16. Rfc1 Bc5 17. Nd2 Rg8 18. Be4 f5 19. Bf3 Ke7 20. a4 Rac8 (
-20... bxa3 21. bxa3 Rxa3 22. Rxa3 Bxa3 23. Rb1 Bxf3 24. Qxf3 Qc5 )21. Bg3 $2 d3
-22. Qxd3 Rxg3 23. hxg3 Bxf2+ 24. Kh1 Rg8 25. Nc4 $4 Rg6 26. Qd2 Qd4 27. Qxd4
-Bxd4  *
+like Qc7 and h6  (  to prevent Bg5, so that Black can play Be7 )}  )( 8. Bb3 b4
+9. Ne2 { White's idea is Nf4 and Ng5->f7,Bxe6 sacrifices. So whenever White
+brings his knight to f4, Black should play Bd6, so that Ng5 is ment by Bxf4 and
+the sacrifices wont work}  ( 9. Na4 Ba6 $1 )9... Bb7 10. O-O Bd6 11. Nf4 O-O
+12. Ng5 Bxf4 13. exf4 )8... a6 9. e4 $1 ( 9. O-O c5 10. a4 b4 11. Ne4 Bb7 12.
+Nxf6+ Nxf6 13. dxc5 Bxc5 14. Qe2 Qd5 { Idea Qh5 etc}  ( 14... O-O)15. Rd1 Qh5
+16. Ne1 Qxe2 17. Bxe2 Ke7 18. Nd3 Bd6 )9... c5 10. e5 cxd4 11. Nxb5 axb5 12.
+exf6 gxf6 13. O-O ( 13. Nxd4 Qb6 14. Nxb5 Bb7 15. O-O Rg8 16. g3 Ne5 17. Be2
+Bc5 { Idea Qc6}  18. a4 Qc6 19. Nd6+ Qxd6 )13... Qb6 { Idea: Bb5, Bb7,Rg8,Ne5} 
+14. Qe2 b4 ( 14... Bb7 { Anand vs Kramnik, World Championship 2008}  15. Bxb5
+Bd6 ( 15... Rg8))15. Bf4 Bb7 16. Rfc1 Bc5 17. Nd2 Rg8 18. Be4 f5 19. Bf3 Ke7
+20. a4 Rac8 ( 20... bxa3 21. bxa3 Rxa3 22. Rxa3 Bxa3 23. Rb1 Bxf3 24. Qxf3 Qc5
+)21. Bg3 $2 d3 22. Qxd3 Rxg3 23. hxg3 Bxf2+ 24. Kh1 Rg8 25. Nc4 $4 Rg6 26. Qd2
+Qd4 27. Qxd4 Bxd4  *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Meran 8...Bb7"]
+[Black "?"]
+[Result "*"]
+[ECO "D47"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O ( 9. e4 b4 10. Na4 c5 11. O-O ( 11. Nxc5 Nxc5 12. dxc5 Bxc5 13. e5
+Nd5 14. O-O ( 14. Bb5+ Ke7 15. Bg5+ f6 16. Bh4 Qb6 ( 16... Nf4 17. O-O Qxd1 18.
+Rfxd1 Bd5 19. exf6+ gxf6 ) ) 14... h6 $1 { O-O leads to Greek gift sacrifice
+with Bxh7+! and Ng5 etc.}  15. Qe2 ( 15. Nd2 { Idea: Occupy e4 with Knight or
+Bishop}  15... Qc7 $1 { Pressure on e pawn}  ( { Avoid this line..Endgame is
+good for computers, not for humans.. } 15... O-O 16. Ne4 Bd4 17. Nd6 Bc6 18.
+Bh7+ Kxh7 19. Qxd4 f6 20. Bd2 fxe5 21. Qe4+ Kg8 22. Qxe5 Qd7 ) 16. Re1 Rd8 {
+d-file has targets for Rook. Next Knight will come to e7 clearing file for Rook
+and diagonal for Bishop}  17. Qg4 Ne7 18. Be4 ( 18. Qxg7 $4 Rg8 19. Qxh6 Rxg2+
+20. Kf1 Rxf2+ ) 18... Qb6 19. Qf3 Bd5 20. Bxd5 Rxd5 21. Nc4 Qa6 22. b3 O-O 23.
+Be3 Bxe3 24. Qxe3 Nf5 25. Qe2 Rfd8 ) 15... Qb6 16. Bd2 Ke7 17. Rac1 Rhd8 18.
+Rc2 Rac8 19. Rfc1 Kf8 ))( 9. a3 { Idea is to play b4 to prevent Black from
+playing c5.}  9... a6 ( 9... Bd6 10. O-O ( 10. b4 a5 11. Rb1 axb4 12. axb4 Qe7
+13. Qb3 Nd5 14. Nxd5 exd5 { 1. Black has chances on the K-side. 2.Rook can come
+to a4 to exert pressure on b4. 3.Knight can go to b6->c4 or f6->e4.}  ) )( 9...
+b4 10. Ne4 ( 10. axb4 Bxb4 11. O-O c5 12. Na2 ( 12. Bd2 O-O 13. Qe2 cxd4 14.
+exd4 a5 ) 12... a5 13. Nxb4 axb4 14. Rxa8 Qxa8 15. dxc5 O-O 16. Bd2 Nxc5 17.
+Bxb4 Nxd3 18. Qxd3 ( 18. Bxf8 Bxf3 19. Qxd3 Bxg2 20. Be7 Bxf1 21. Qxf1 Nd5 )
+18... Rd8 19. Qe2 ( 19. Qc2 Bxf3 ) 19... Ba6 ) 10... Nxe4 11. Bxe4 bxa3 12. O-O
+( 12. bxa3 Bd6 13. O-O O-O 14. Bb2 Rb8 15. Qc2 f5 16. Bd3 c5 ) 12... axb2 13.
+Bxb2 Nf6 14. Bd3 a5 15. d5 $1 { Both Bishop's diagonal opens!}  )10. b4 a5 11.
+Rb1 axb4 12. axb4 Bd6 13. O-O Qe7 14. Qb3 O-O 15. Bd2 ) *
 
