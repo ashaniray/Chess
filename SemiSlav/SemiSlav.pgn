@@ -1,0 +1,13 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "SemiSlv-Shirov-Shabalov"]
+[Black "?"]
+[Result "*"]
+[ECO "D45"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. e3 Nf6 5. Qc2 Nbd7 6. Nf3 Bd6 7. g4 dxc4 8. g5 (
+8. Bxc4 e5 9. g5 Nd5 10. Bd2 ( 10. Bxd5 cxd5 )10... exd4 11. Nxd4 O-O 12. Nxd5
+cxd5 13. Bd3 g6 )8... Nd5 9. Bxc4 Nxc3 10. bxc3 e5  *
+
