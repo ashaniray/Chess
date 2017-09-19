@@ -29,8 +29,8 @@ attacking chances.}  )9. O-O ( 9. e4 b4 10. e5 bxc3 11. exf6 cxb2 12. fxg7 Bxg7
 13. Bxb2 c5 14. O-O O-O )9... a6 10. e4 c5 11. e5 Nd5 12. a4 b4 13. Ne4 { White
 has d6 as outpost and would like to trade dark square bishop with Bg5. Black
 would like to prove that the White's centre is a liability and would play moves
-like Qc7 and h6  (  to prevent Bg5, so that Black can play Be7 )}  )( 8. Bb3 b4
-9. Ne2 { White's idea is Nf4 and Ng5->f7,Bxe6 sacrifices. So whenever White
+like Qc7 and h6  (  to prevent Bg5, so that Black can play Be7  )}  )( 8. Bb3
+b4 9. Ne2 { White's idea is Nf4 and Ng5->f7,Bxe6 sacrifices. So whenever White
 brings his knight to f4, Black should play Bd6, so that Ng5 is ment by Bxf4 and
 the sacrifices wont work}  ( 9. Na4 Ba6 $1 )9... Bb7 10. O-O Bd6 11. Nf4 O-O
 12. Ng5 Bxf4 13. exf4 )8... a6 9. e4 $1 ( 9. O-O c5 10. a4 b4 11. Ne4 Bb7 12.
@@ -76,4 +76,47 @@ Bxb4 Nxd3 18. Qxd3 ( 18. Bxf8 Bxf3 19. Qxd3 Bxg2 20. Be7 Bxf1 21. Qxf1 Nd5 )
 ( 12. bxa3 Bd6 13. O-O O-O 14. Bb2 Rb8 15. Qc2 f5 16. Bd3 c5 ) 12... axb2 13.
 Bxb2 Nf6 14. Bd3 a5 15. d5 $1 { Both Bishop's diagonal opens!}  )10. b4 a5 11.
 Rb1 axb4 12. axb4 Bd6 13. O-O Qe7 14. Qb3 O-O 15. Bd2 ) *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Meran - Reynold's Attack"]
+[Black "?"]
+[Result "*"]
+[ECO "D48"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O a6 10. e4 c5 11. d5 ( 11. e5 cxd4 12. Nxb5 Bxf3 13. Qxf3 Nd5 14.
+Nxd4 Nxe5 15. Qe4 Nxd3 16. Qxd3 )11... Qc7 12. dxe6 fxe6 13. Bc2 c4 14. Ng5 (
+14. Qe2 Bd6 15. Nd4 ( 15. Ng5 Nc5 16. f4 h6 17. Nf3 Nd3 { Typical sacrifice in
+these lines. Black has good control of the light squares and active pieces. Has
+good compensation for the pawn.}  18. Bxd3 cxd3 19. Qxd3 O-O 20. Kh1 Rad8 21.
+Nd4 Bc5 22. Be3 Ng4 23. Nce2 Nxe3 24. Qxe3 Rxd4 25. Nxd4 Qb6 26. Rad1 Rd8 27.
+f5 Rxd4 28. Rxd4 Bxd4 29. Qb3 )15... Nc5 16. f4 { White threatens e5. Also,
+White has majority on K-side where he is pushing his pawns.}  16... e5 17.
+Ndxb5 ( 17. Nf5 O-O 18. Rd1 Nd3 19. Nxd6 Qxd6 20. Bxd3 cxd3 21. Rxd3 Qc7 22.
+fxe5 )17... axb5 18. Nxb5 Qb6 19. Nxd6+ Qxd6 20. fxe5 ( 20. Qxc4 $4 Ba6 21.
+Ba4+ Ncd7 ( 21... Nfd7 22. Bxd7+ Nxd7 23. Qa4 O-O ) )20... Qxe5 21. Rf5 Qe7 22.
+Qxc4 { White has 3 pawns for the piece and Black king is still in the centre.} 
+22... Rc8 23. Qb5+ Ncd7 24. Qxb7 Rxc2 25. Bg5 Qd6 ( 25... O-O $4 26. Qb3+ )26.
+Qa8+ Qb8 ( 26... Kf7 $4 27. Qxh8 Qd4+ 28. Kh1 Qxe4 29. Rf3 Rxg2 30. Kxg2 Ne5
+31. Qxg7+ Kxg7 32. Bxf6+ Kg6 33. Bxe5 Qxe5 $18 )27. Qxb8+ Nxb8 28. a4 O-O )(
+14. Nd4 Nc5 15. Qe2 ( 15. Be3 e5 16. Nf3 ( 16. Nf5 g6 17. Nh6 Bg7 18. Qf3 Ne6
+19. Qh3 Nd4 { Followed by Qe7}  ) 16... Be7 17. Ng5 O-O 18. Bxc5 Bxc5 19. Ne6
+Qb6 20. Nxf8 Rxf8 { This EXCHANGE SACRIFICE is good for Black.}  21. Qe2 ( 21.
+Nd5 $2 Bxf2+ ( 21... Bxd5 22. exd5 Bxf2+ 23. Rxf2 ( 23. Kh1 e4 24. Qe2 e3 25.
+Rfd1 Qd6 26. a4 g6 27. axb5 axb5 28. g3 $2 Nh5 { Sac on g3}  29. Qg4 Bxg3 30.
+hxg3 Nxg3+ 31. Kg1 ( 31. Kg2 Rf2+ 32. Kh3 Nf5 33. Rh1 h5 34. Qxg6+ Qxg6 35.
+Rhg1 Qxg1 36. Rxg1+ ) 31... e2 32. Re1 Qb6+ 33. Kh2 Qf2+ 34. Kh3 Nf1 ) 23...
+Ng4 ) 22. Rxf2 Bxd5 23. Qf3 ( 23. exd5 Ng4 24. Qxg4 Qxf2+ 25. Kh1 Qf1+ 26. Rxf1
+Rxf1# ) 23... Bb7 24. Rf1 ) 21... Qe6 22. a4 b4 23. Nd5 Nxd5 24. Qxc4 Nf4 25.
+Qxc5 Qg4 26. Bb3+ Rf7 27. Bxf7+ Kxf7 28. Qc7+ Kg6 29. g3 Ne2+ 30. Kg2 Nf4+ 31.
+Kg1 $10 )15... Bd6 16. f4 e5 { Transposing to 14.Qe2 line}  )14... Nc5 15. e5 (
+15. Qf3 { Idea Qh3 with pressure on e6}  15... Bd6 ( 15... h6 16. Qh3 O-O-O 17.
+Re1 hxg5 18. Qxh8 b4 19. e5 Qc6 20. Qh3 g4 21. Qg3 Nd3 22. Ba4 Nh5 23. Bxc6
+Nxg3 24. Bxb7+ Kxb7 )16. Qh3 )15... Qxe5 16. Re1 Qd6 17. Qxd6 ( 17. Qe2 Be7 18.
+Nxe6 Nxe6 19. Qxe6 Qxe6 20. Rxe6 Kf7 )17... Bxd6 18. Be3 O-O 19. Rad1 Be7 20.
+Bxc5 Bxc5 21. Nxe6 Rfc8 22. h3 ( 22. Nxc5 Rxc5 )22... Rab8 { If Knight on f6
+moves, then Nxg7 Kxg7 and Rd7+}   *
 
