@@ -186,18 +186,54 @@ If Bf8 is out ouf the way, Black may have tactics like Rxh2!!}  )15... b4 16.
 Rb1 ( 16. Na4)16... Qa6 ( 16... bxc3 $4 17. bxc3 Qa6 18. Rxb7 Qxb7 19. dxe6 Qb6
 20. e7 Bxe7 21. fxe7 Rde8 22. Qd5 f6 23. Bf4 Rxe7 24. Qa8+ Nb8 25. Bxb8 Qxb8
 26. Qc6+ Qc7 27. Qa6+ Kd8 28. Qxf6 )17. dxe6 { Idea e7}  ( 17. Ne4 exd5 )17...
-Bxg2 18. e7 ( 18. Kxg2 Qxe6 )( 18. exd7+ Rxd7 )18... Bxf1 19. Kxf1 ( { This is
-a draw line. } 19. Qd5 Bd3 ( { Nakamura vs Giri } 19... Bxe7 20. fxe7 Rdg8 (
-20... Bd3 21. Ne4 Bxb1 22. Nd6+ Kc7 23. Bf4 Kb6 24. Nxc4+ Kb5 ) 21. Ne4 Bd3 22.
-Nd6+ Kc7 23. Bf4 Kb6 24. Re1 Qxa2 $4 25. Qb7+ Ka5 26. Qxa7# )( 19... Re8 20.
-Ne4 Bh6 21. Bxh6 Rxh6 22. Nd6+ Qxd6 23. Qxd6 Rxf6 24. Qd5 Bd3 25. Qa8+ ( 25.
-Re1 $2 Kc7 { Prevents Qa8+}  26. f4 Re6 27. Rxe6 fxe6 28. Qxe6 ( 28. Qf3 Rxe7
-29. Qa8 c3 30. bxc3 bxc3 31. Qxa7+ Kc8 32. Kf2 c2 33. Qa3 Nb6 34. h4 Ra7 35.
-Qc3 Rxa2 36. Qxc5+ Kb7 37. Kf3 Ra1 ) 28... c3 ) 25... Nb8 )20. Qa8+ Nb8 21. Bf4
-Qb6 22. Nd5 )19... Qc6 20. exd8=Q+ Kxd8 21. Nd5 Rxh2 22. Kg1 Rh8 23. Qf3 Ne5
-24. Qe4 Bd6 25. Rd1 Nd3 26. b3 Nb2 27. Nc3 $3 Kd7 28. Qf5+ Kc7 29. Nd5+ Kb7 30.
-Re1 c3 31. Bf4 Bxf4 32. Re7+ Ka6 ( 32... Ka8 33. Qe4 Rc8 34. gxf4 c2 35. Nc7+ (
-35. Qxc2 Qxd5 )35... Rxc7 36. Qxc2 Rc8 37. Qxb2 Rh8 38. f3 Qd5 ( 38... Qxf3 39.
-Qg2 )39. Qe2 Qd4+ 40. Kg2 Rg8+ 41. Kh3 Rh8+ 42. Kg4 $4 Qg1+ 43. Kf5 Rh5+ 44.
-Ke4 Qd4# )33. Qe4 Rc8  *
+Bxg2 18. e7 ( 18. Kxg2 Qxe6 )( 18. exd7+ Rxd7 )18... Bxf1 ( { Qc6 which is good
+in 16. Na4 does not work here because of Nb5! } 18... Qc6 19. Nb5 $1 Qxb5 20.
+exd8=Q+ Kxd8 21. Kxg2 )19. Kxf1 ( { This is a draw line. } 19. Qd5 Bd3 ( {
+Nakamura vs Giri } 19... Bxe7 20. fxe7 Rdg8 ( 20... Bd3 21. Ne4 Bxb1 22. Nd6+
+Kc7 23. Bf4 Kb6 24. Nxc4+ Kb5 ) 21. Ne4 Bd3 22. Nd6+ Kc7 23. Bf4 Kb6 24. Re1
+Qxa2 $4 25. Qb7+ Ka5 26. Qxa7# )( 19... Re8 20. Ne4 Bh6 21. Bxh6 Rxh6 22. Nd6+
+Qxd6 23. Qxd6 Rxf6 24. Qd5 Bd3 25. Qa8+ ( 25. Re1 $2 Kc7 { Prevents Qa8+}  26.
+f4 Re6 27. Rxe6 fxe6 28. Qxe6 ( 28. Qf3 Rxe7 29. Qa8 c3 30. bxc3 bxc3 31. Qxa7+
+Kc8 32. Kf2 c2 33. Qa3 Nb6 34. h4 Ra7 35. Qc3 Rxa2 36. Qxc5+ Kb7 37. Kf3 Ra1 )
+28... c3 ) 25... Nb8 )20. Qa8+ Nb8 21. Bf4 Qb6 22. Nd5 )19... Qc6 20. exd8=Q+
+Kxd8 21. Nd5 Rxh2 22. Kg1 Rh8 23. Qf3 Ne5 24. Qe4 Bd6 25. Rd1 Nd3 26. b3 Nb2
+27. Nc3 $3 Kd7 28. Qf5+ Kc7 29. Nd5+ Kb7 30. Re1 c3 31. Bf4 Bxf4 32. Re7+ Ka6 (
+32... Ka8 33. Qe4 Rc8 34. gxf4 c2 35. Nc7+ ( 35. Qxc2 Qxd5 )35... Rxc7 36. Qxc2
+Rc8 37. Qxb2 Rh8 38. f3 Qd5 ( 38... Qxf3 39. Qg2 )39. Qe2 Qd4+ 40. Kg2 Rg8+ 41.
+Kh3 Rh8+ 42. Kg4 $4 Qg1+ 43. Kf5 Rh5+ 44. Ke4 Qd4# )33. Qe4 Rc8  *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Botvinnik 16.Na4"]
+[Black "?"]
+[Result "*"]
+[ECO "D44"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 Nf6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Qb6 12. g3 Bb7 13. Bg2 O-O-O 14. O-O c5 15.
+d5 b4 16. Na4 Qb5 ( 16... Qa6 17. a3 Bxd5 18. Bxd5 Ne5 19. axb4 Rxd5 20. Qe2
+cxb4 21. Nc3 Ra5 ( 21... Qd6 22. Nxd5 Qxd5 23. f3 )22. Rxa5 Qxa5 23. Ne4 )17.
+a3 ( 17. dxe6 Bxg2 18. e7 Qc6 19. exd8=Q+ Kxd8 20. Re1 Bh1 21. f3 Bxf3 22. Qc2
+Bd6 )17... Nb8 ( 17... exd5 18. axb4 cxb4 19. Be3 Nc5 ( 19... Nxf6 $4 20. Qd4
+)20. Qg4+ Rd7 { Ivanchuk vs Shirov, Etude in g7, Hoogovens, 1996}  21. Nxc5 {
+Wely vs Shirov, 13th Amber blindfold, 2004}  ( 21. Qg7 Bxg7 22. fxg7 Rg8 23.
+Nxc5 d4 24. Bxb7+ Rxb7 25. Nxb7 Qb6 26. Bxd4 Qxd4 27. Rfd1 Qxb2 $2 { b-file is
+not opened for white's Rooks.}  ( 27... Qxg7 28. Nd6+ Kb8 29. Nxc4 ) 28. Nd6+
+Kb8 29. Rdb1 Qxg7 ( 29... Qc3 30. Rxa7 ) 30. Rxb4+ Kc7 31. Ra6 )21... Bxc5 22.
+Bxc5 Qxc5 23. Rfe1 Rd8 24. h4 Kc7 25. Re5 a5 26. h5 Bc6 27. h6 a4 28. Qf4 Qd6
+$2 ( 28... Kb6)29. Bh3 ( 29. Bxd5 Bxd5 30. Rd1 ))18. axb4 cxb4 19. Qd4 {
+Carlsen vs Jan Smeets, Corus, 2010}  ( 19. Qg4 Bxd5 20. Rfc1 Nc6 21. Bxd5 Rxd5
+22. Rxc4 Rxg5 23. Qd4 ( 23. Rxc6+ $4 Kb7 24. Qf4 Kxc6 25. Rc1+ Rc5 26. Nxc5
+Bxc5 )( 23. Qe4 Bc5 )23... Kb8 24. Rxc6 Rxg3+ { Qxc6 is bad due to Qf4+}  25.
+fxg3 Qxc6 26. Rd1 Qc7 )( 19. Be3 Bxd5 20. Bxd5 Rxd5 21. Qe2 Nc6 22. Rfc1 Ne5 {
+Idea Rd3, Qd5, Nf6 etc.}  )19... Nc6 20. Nb6+ ( 20. dxc6 Rxd4 21. cxb7+ Kb8 22.
+Be3 e5 ( 22... Rd7 23. Bxa7+ )23. b3 c3 24. Rfd1 Bh6 ( 24... Rxd1+ 25. Rxd1 {
+Rd8 is annoying for Black. E.g.}  25... Bh6 26. Bxh6 Rxh6 27. Rd8+ )25. Bxd4
+exd4 26. Rxd4 c2 27. Rc4 Qxc4 28. bxc4 Rd8 29. Bf3 c1=Q+ 30. Rxc1 Bxc1 )20...
+axb6 21. dxc6 { Idea cxb7+, Ra8}  21... Bxc6 22. Bxc6 Qxc6 ( 22... Rxd4 23.
+Ra8+ Kc7 24. Bxb5 )23. Qg4 Bc5 $2 ( 23... Kb7 { should have been played} )24.
+Ra7 Rd7 25. Rxd7 Kxd7 26. h4 { and Carlsen pushed his pawn to Queen and White
+won.}   *
 
