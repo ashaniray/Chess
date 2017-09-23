@@ -237,3 +237,44 @@ Ra8+ Kc7 24. Bxb5 )23. Qg4 Bc5 $2 ( 23... Kb7 { should have been played} )24.
 Ra7 Rd7 25. Rxd7 Kxd7 26. h4 { and Carlsen pushed his pawn to Queen and White
 won.}   *
 
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Moscow Variation"]
+[Black "?"]
+[Result "*"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 Nf6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 { Black
+Idea: Nd7, dxc4,and take e5 break. Also, often, fianchetto dark bishop with g6,
+Bg7}  ( 7. e4 dxe4 8. Nxe4 Bb4+ 9. Ke2 Qf4 { Queen drop to c7 if needed.}  10.
+Qd3 Be7 11. g3 Qc7 12. Bg2 O-O { Idea: Nd7 and take e5 break}  )( { Preparing
+e4 by preventing Bb4+ } 7. Qb3 a5 { Making Bb4 possible}  ( { Belov vs Anand,
+World Championship Rapid, 2015 } 7... Nd7 8. e4 dxe4 9. Nxe4 Qf4 10. Bd3 e5 11.
+dxe5 ( 11. O-O Be7 12. Rfe1 exd4 13. Nxd4 O-O 14. Bc2 Nc5 15. Qc3 Rd8 16. Rad1
+Bg4 17. f3 Bh5 ) 11... Nxe5 12. Nxe5 Qxe5 13. O-O Be7 14. Rfe1 O-O 15. Ng3 Qc7
+16. Bf5 Bf6 17. Rad1 Bxf5 18. Nxf5 Rfe8 19. g3 $4 Rxe1+ $1 20. Rxe1 Qa5 21.
+Ne7+ Kf8 22. Re3 ( 22. Qe3) 22... Re8 23. Qxb7 Bxe7 ))7... Nd7 8. Bd3 dxc4 9.
+Bxc4 g6 10. O-O Bg7 11. Rc1 ( 11. b4 { Here White intends to clamp down on
+Q-side with follow up by a4, a5 etc. Example: Stefansson vs Carlsen}  11... O-O
+12. a4 e5 13. a5 exd4 14. exd4 { White has a weakness the d4 pawn and intends
+to push d5. Black prevents this.}  14... Rd8 15. Re1 Nf8 16. Qb3 Be6 17. Rad1
+Bxc4 18. Qxc4 Ne6 19. Ne5 { Idea: When Knight comes to e5, lookout for f7
+sacrifice.}  ( 19. d5 $4 Qxc3 20. Qxc3 Bxc3 21. dxe6 Bxe1 )19... Qf5 ( 19...
+Nc7)20. Nxf7 Kxf7 21. Re3 $2 { Idea: Rf3}  21... Bxd4 22. Rf3 Qxf3 $3 23. gxf3
+Bxc3 24. Rxd8 Rxd8 25. f4 ( 25. Qxc3 $2 Rd1+ 26. Kg2 Nf4+ 27. Kg3 Ne2+ )25...
+Rd4 $3 { White still cant take the Bishop and resigned.}  )( 11. Qc2 O-O 12.
+Ne4 Qe7 13. Bb3 e5 14. Ng3 Kh8 { Getting out of all the pins}  15. dxe5 Nxe5
+16. Nxe5 Bxe5 )( 11. e4 e5 12. d5 Nb6 13. Bb3 Bg4 { If Black takes on f3,
+everything is at least equal and has a good endgame.}  14. Rc1 O-O 15. h3 Bxf3
+16. Qxf3 Qxf3 17. gxf3 Rfd8 18. Rfd1 Bf6 19. dxc6 bxc6 20. Rxd8+ Rxd8 21. Nd1
+Rc8 22. Ne3 Kg7 23. Rc5 Be7 24. Rc2 c5 { Black king can march f6, g5,f4, etc.} 
+)( { This is popular these days. } 11. Re1 { Kramnik vs Aronian, Game 1, 2012} 
+11... O-O 12. e4 e5 13. d5 Rd8 ( 13... Nb6 { Nb6 does not work due to Re3 as
+shown below.}  14. Bb3 Bg4 15. Re3 )14. Re3 b5 15. dxc6 bxc4 16. Nd5 ( 16. cxd7
+Rxd7 )16... Qe6 17. cxd7 Rxd7 18. Qa4 Bb7 19. Qxc4 Bxd5 20. exd5 Qxd5 21. Qxd5
+Rxd5 22. Rae1 Re8 23. g4 Kh7 24. g5 hxg5 25. Nxg5+ Kg8 26. f4 Rb8 27. fxe5 Rxb2
+28. Nf3 Rxa2 29. e6 fxe6 30. Rxe6 Rf5 31. Nh4 Rf4 32. R6e4 Rf6 33. Rg4 )11...
+O-O 12. e4 e5 13. d5 Nb6 14. dxc6 bxc6 ( 14... Nxc4 $4 15. Nd5 )15. Be2  *
+
