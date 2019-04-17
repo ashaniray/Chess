@@ -36,3 +36,48 @@ Nc3 Bb4 9. O-O Qa5 10. a3 Nf6 11. d5 $1 { A typical breakthrough in the center}
 17. Qxa6 bxa6 18. Rxe7 Rab8 19. b5 axb5 20. Rxa7 b4 21. Ne2 Rfc8 22. f3 Ra8 23.
 Rxa8 Rxa8 24. Kf2 Nd7 25. Nf4 Nb6 26. Ke3 Rc8 27. Kd3 g5 28. Nh5  1-0
 
+[Event "Variabtion with 2...Nf6 3.e5 Nd5"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Game 3 of 15 (Chess Kings App)"]
+[Black "Rogers vs Gallagher 1992"]
+[Result "*"]
+[ECO "B22"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Qxd4 e6 6. Nf3 Nc6 7. Qe4 d6 8. Nbd2
+dxe5 9. Nxe5 Nxe5 10. Qxe5 Qd6 11. Bb5+ Bd7 12. Bxd7+ Qxd7 13. O-O Nf6 ( 13...
+Qc7 $1 14. Qxc7 Nxc7 15. Nc4 Nd5 16. Ne3 O-O-O 17. Nxd5 Rxd5 18. Be3 Bc5 $10 {
+Sveshnikov vs Panchenko, Lvov 1983}  )14. Nf3 Bd6 15. Qe2 O-O 16. Rd1 Qc7 17.
+Bg5 Nd5 ( 17... Be7)18. c4 Nf6 19. g3 Rad8 20. a3 Be7 21. Bf4 Rxd1+ 22. Rxd1
+Qa5 23. Rd3 Rc8 24. Ne5 Rd8 25. b4 Qa4 26. Rxd8+ Bxd8 27. Qf3 Qa6 28. b5 Qb6
+29. a4 h6 30. a5 Qxa5 31. Qxb7 Bc7 32. Kg2 Qb6 33. Qc8+ Kh7 34. Be3 Qd6 35. Nf3
+Bb6 36. c5 Qc7 37. Qxc7 Bxc7 38. c6 Bb8 39. Bxa7 Bxa7 { 1-0}   *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Game 5 and 6 of 15"]
+[Black "Sveshnikov vs Rodriguez"]
+[Result "*"]
+[ECO "B22"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 d6 7. Bc4 e6 ( 7...
+Nb6)8. O-O Be7 9. Qe2 $1 { Pawn on e5 gives white good prospects of King side
+attack}  9... O-O 10. Nc3 $5 { Exchanging the d5 knight, White creates the pawn
+weaknesses in his own camp}  ( 10. Na3 { White is going to avoid pawn
+weaknesses in his camp while his knight get in the game via Nb1-a3-c4}  10...
+a6 $1 11. Bd3 b5 $1 { Restricting mobility of a3 knight}  12. Qe4 g6 13. Bh6
+Re8 14. Rad1 $6 { The e5 outpost defence with Rae1 is typical in these
+positions}  ( 14. Rae1)14... Bb7 15. Qg4 dxe5 16. dxe5 Qc7 17. Rde1 Rad8 18. h4
+Ndb4 19. Be4 Nd3 20. Bxd3 Rxd3 21. h5 Red8 22. Nc2 Rxf3 23. gxf3 Nxe5 24. Bf4
+Bd6 25. Bxe5 Bxe5 26. Rd1 Rxd1 27. Rxd1 Qxc2 28. Rd8+ Kg7 29. Qg5 Bh2+ 30. Kg2
+h6 31. Qe7 )10... dxe5 11. dxe5 Nxc3 12. bxc3 b6 ( 12... Qc7 13. Bd3 Bd7 14.
+Qe4 g6 15. Re1 Rfd8 )13. Qe4 $1 { A typical maneuver which provokes weakening
+of kingside}  13... Bb7 14. Bd3 g6 15. Bh6 Re8 16. Rad1 Qc7 17. Qf4 Rad8 18. h4
+Na5 $6 ( 18... Rd5)( 18... f5 $2 19. Bxf5 $3 exf5 $4 20. Qc4+ Kh8 21. Qf7 Rg8
+22. Ng5 Bxg5 23. Qxc7 )19. Ng5 f5 20. Bb5 Rxd1 21. Bxe8 Rxf1+ 22. Kxf1 Qxc3 23.
+Bf7+ Kh8 24. Kg1 Bd5 25. h5 Qc4 26. Qg3 Qg4 27. Qxg4 fxg4 28. Nxe6 Bxe6 29.
+Bxe6 Nc6 30. hxg6 hxg6 31. Bf4  *
+
