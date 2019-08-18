@@ -1,0 +1,193 @@
+[Event "4NCL 2012-13"]
+[Site "Sunningdale ENG"]
+[Date "2012.11.03"]
+[Round "1.131"]
+[White "Turner, Ma"]
+[Black "Moskovic, D."]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2504"]
+[BlackElo "2342"]
+[PlyCount "31"]
+[EventDate "2012.11.03"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[Source "Mark Crowther"]
+[SourceDate "2012.11.06"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. g3 Nc6 5. Bg2 e6 6. Nf3 d6 7. exd6 Bxd6 8. O-O
+O-O 9. d4 cxd4 10. Nxd4 Nxd4 11. Qxd4 Bd7 12. c4 Qb6 13. Qxb6 Nxb6 14. Rd1 Nxc4
+15. Bf1 Rac8 16. Nc3 1-0
+
+[Event "Nezhmetdinov Memorial 29th"]
+[Site "Kazan"]
+[Date "2007.06.07"]
+[Round "7"]
+[White "Voitsekhovsky, Stanislav"]
+[Black "Demianjuk, Alexander"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2503"]
+[BlackElo "2316"]
+[PlyCount "55"]
+[EventDate "2007.06.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2007.09.04"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. g3 d6 5. exd6 Qxd6 6. Bg2 Nc6 7. Na3 e6 8. Ne2
+Be7 9. O-O O-O 10. d4 cxd4 11. Nb5 Qc5 12. Nbxd4 Nxd4 13. Nxd4 Rd8 14. Qe2 a6
+15. Rd1 Qc7 16. c4 Nb6 17. b3 Bf6 18. Be3 Bd7 19. Rac1 Be8 20. Qe1 Nd7 21. Qb4
+Rab8 22. f4 g6 23. Nb5 Qc8 24. Nd6 Qc7 25. c5 Be7 26. Nxb7 Rbc8 27. Qe1 Nxc5
+28. Nxd8 1-0
+
+[Event "Bar Sozina op"]
+[Site "Bar"]
+[Date "2005.03.08"]
+[Round "5"]
+[White "Peptan, Corina"]
+[Black "Djukic, Nikola"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2434"]
+[BlackElo "2504"]
+[PlyCount "55"]
+[EventDate "2005.03.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[Source "ChessBase"]
+[SourceDate "2005.05.01"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. g3 Nc6 5. Bg2 Qc7 6. Qe2 e6 7. Nf3 Be7 8. d3
+O-O 9. O-O b6 10. c4 Ndb4 11. a3 Na6 12. Nc3 Bb7 13. Bf4 Rad8 14. Ne4 Qc8 15.
+Nfg5 h6 16. Qh5 Nd4 17. Nf6+ gxf6 18. exf6 Bxf6 19. Qxh6 Bxg5 20. Qxg5+ Kh7 21.
+Qh5+ Kg8 22. Be5 f6 23. Qg6+ Kh8 24. Bxf6+ Rxf6 25. Qxf6+ Kh7 26. Qf7+ Kh6 27.
+f4 Bxg2 28. g4 1-0
+
+[Event "Continental Zonal"]
+[Site "Mar del Plata"]
+[Date "2012.10.18"]
+[Round "8"]
+[White "Kaidanov"]
+[Black "Perez Pons"]
+[Result "1-0"]
+[ECO "B22"]
+[Annotator "Kaidanov,Gregory"]
+[PlyCount "47"]
+[EventDate "2012.03.04"]
+[EventCountry "ARG"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. O-O Nc6 8. h3
+Bh5 9. Be3 cxd4 10. cxd4 Be7 11. Nc3 Qd6 12. Qb3 O-O 13. Rfd1 (13. a3 Bxf3 14.
+Bxf3 Nxd4 15. Bxd4 Qxd4 $11) 13... Rfd8 (13... Nb4 14. Bg5 {1-0 Jenni,F (2544)
+-Gerber,R (2389)/Samnaun 2008/CBM 125 Extra (40)} Nbd5 15. g4 Bg6 16. Ne5 Qb4
+17. Bf3 Qxb3 18. axb3 Bc2 (18... Rfd8 19. Rdc1 Kf8 20. Nxd5 Nxd5 21. Bxe7+ Kxe7
+22. Bxd5 Rxd5 23. Rc7+) 19. Nxd5 exd5 20. Rdc1 Bxb3 (20... Rfc8 21. Bxf6 gxf6
+22. Nc4) 21. Rc3 Bc4 22. Nxc4 dxc4 23. Bxb7 Rab8 24. Rxa7) 14. a3 a6 15. Rac1
+Na5 16. Qa2 b5 17. g4 Bg6 18. Ne5 Rac8 19. b4 Nc6 (19... Nc4 20. Nxc4 (20. Bxc4
+bxc4 21. Nxc4 Qb8 22. Ne5) 20... bxc4 21. Bxc4 Ne4 22. Nxe4 Bxe4 23. Qe2 Bb7
+24. Bb3 (24. d5 {my original intention} exd5 25. Bc5 Qc6 $1 {didn\'t see this
+move until about to play d5} 26. Qxe7 Rd7 $11) 24... h6 $2 (24... Bf6) (24...
+Rxc1 25. Rxc1 Bf6) 25. Rxc8 Rxc8 26. d5 Qe5 27. dxe6 fxe6 28. Qd3 Rc3 29. Qd4 (
+29. Bxe6+ Qxe6 30. Qxc3 Qe4 31. Qb3+ Kh8 32. Kf1 $16) 29... Qxd4 30. Bxe6+ Kf8
+31. Rxd4 Rxa3 32. Kf1 Bg5 33. Ke2 Bxe3 34. fxe3 Bc6 35. Bc4 Ra4 36. Rf4+ Ke8
+37. Kd2 Ra3 38. Rf5 Ra4 39. Kc3 Ra3+ 40. Kd4 Ra4 41. Kc5 Bd7 42. Rf7 Ra3 43.
+Rxg7 Rxe3 44. Kd6) 20. Nxg6 hxg6 21. g5 Nd5 22. Nxd5 exd5 23. Bg4 Rc7 24. Qd2
+1-0
+
+[Event "1st Grand Europe Open"]
+[Site "Golden Sands BUL"]
+[Date "2012.06.10"]
+[Round "7.3"]
+[White "Vajda, Le"]
+[Black "Tunik, G."]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2600"]
+[BlackElo "2429"]
+[PlyCount "60"]
+[EventDate "2012.06.04"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "BUL"]
+[Source "Mark Crowther"]
+[SourceDate "2012.06.11"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Bd3 Be7 7. O-O O-O 8. Be3
+cxd4 9. cxd4 Nc6 10. Nc3 Qd6 11. a3 b6 12. Qe2 Bb7 13. Rad1 Rad8 14. Rfe1 Qb8
+15. Bb1 Rfe8 16. Qc2 g6 17. Ba2 Nd5 18. Bc1 Nxc3 19. bxc3 Bf6 20. Ng5 Qc7 21.
+Qd3 Na5 22. Qh3 Bxg5 23. Bxg5 Rc8 24. Bf6 Qf4 25. Be5 Qf5 26. Qh4 Nc4 27. Bf6
+e5 28. Bxc4 Rxc4 29. Rxe5 Rxe5 30. dxe5 Rc8 1-0
+
+[Event "European Rapid 2011"]
+[Site "Warsaw POL"]
+[Date "2011.12.17"]
+[Round "2"]
+[White "Kryvoruchko, Y."]
+[Black "Gutmans, M."]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2666"]
+[BlackElo "2137"]
+[PlyCount "51"]
+[EventDate "2011.12.17"]
+[EventType "swiss (rapid)"]
+[EventRounds "13"]
+[EventCountry "POL"]
+[Source "Mark Crowther"]
+[SourceDate "2011.12.19"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 Qxd5 5. d4 Nf6 6. Bd3 cxd4 7. cxd4 Nc6 8.
+Nc3 Qd6 9. Be3 Be7 10. a3 O-O 11. Qc2 Rd8 12. O-O a6 13. Rad1 h6 14. Qc1 Nd5
+15. Bb1 f5 16. Nxd5 exd5 17. Bf4 Qf6 18. Rfe1 Be6 19. Qe3 Bf7 20. Ne5 Bd6 21.
+Qf3 Nxd4 22. Rxd4 Re8 23. Rxd5 Bxd5 24. Qxd5+ Kh7 25. g4 Bxe5 26. Bxf5+ 1-0
+
+[Event "HUN-chT 0405"]
+[Site "Hungary"]
+[Date "2005.02.06"]
+[Round "7"]
+[White "Vajda, Levente"]
+[Black "Berkes, Ferenc"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2539"]
+[BlackElo "2614"]
+[PlyCount "49"]
+[EventDate "2004.09.26"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "HUN"]
+[Source "ChessBase"]
+[SourceDate "2011.11.26"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nc6 6. Be3 c4 7. b3 cxb3 8. axb3
+Bd6 9. g3 Nf6 10. Bg2 O-O 11. O-O Re8 12. c4 b6 13. Nc3 Bb7 14. Bg5 dxc4 15.
+Nd5 cxb3 16. Bxf6 gxf6 17. Nh4 Nb4 18. Nf5 Kh8 19. Qxb3 Bxd5 20. Bxd5 Nxd5 21.
+Qxd5 Re6 22. Nh6 Kg7 23. Nxf7 Kxf7 24. Rfe1 Be5 25. Rxa7+ 1-0
+
+[Event "Calvia ol (Men)"]
+[Site "Mallorca"]
+[Date "2004.10.15"]
+[Round "1"]
+[White "Gareev, Timur"]
+[Black "Martinez, Carlos2"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "2525"]
+[BlackElo "2208"]
+[PlyCount "51"]
+[EventDate "2004.10.15"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2005.01.27"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nc6 5. e4 dxe4 6. d5 Ne5 7. Qa4+ Bd7 8.
+Qxe4 Ng6 9. Bc4 Nf6 10. Qe2 a6 11. Nf3 b5 12. Bb3 b4 13. Ne4 Bb5 14. Nxf6+ gxf6
+15. Bc4 Bxc4 16. Qxc4 Qd6 17. Bd2 e5 18. O-O Rd8 19. Rac1 Qxd5 20. Qxa6 Bd6 21.
+Rfd1 Ra8 22. Qe2 Qb7 23. Bh6 Be7 24. Rc4 Qb6 25. Qd3 Rd8 26. Rc8 1-0

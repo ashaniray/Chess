@@ -1,0 +1,299 @@
+[Event "Game 01"]
+[Site "Wolvega NED"]
+[Date "2014.11.14"]
+[Round "1.2"]
+[White "Jones, Gawain C B"]
+[Black "L'Ami, Erwin"]
+[Result "0-1"]
+[BlackElo "2618"]
+[ECO "C55"]
+[WhiteElo "2661"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8.
+Bxc6 bxc6 9. O-O Bc5 10. f3 Ng5 11. Be3 Bb6 12. f4 Ne4 13. Nd2 Nxd2 14. Qxd2 c5
+15. Nf3 d4 16. Bf2 Bc6 17. a4 a5 18. f5 Qd5 19. Qg5 h6 20. Qxg7 O-O-O 21. Qf6
+Rhg8 22. Bg3 c4 23. Kh1 h5 24. b3 cxb3 25. cxb3 d3 26. Qh6 Kb7 27. Qd2 Rg4 28.
+b4 Rxb4 29. Qg5 Rh8 30. Qg7 Qd8 31. e6 h4 32. Be5 Rg8 33. Qxf7 h3 34. Bg3 Rb2
+35. gxh3 Qd5 36. Qh5 Rg5 37. Qxg5 Qxf3+ 38. Rxf3 Bxf3#  0-1
+
+[Event "Game 04"]
+[Site "URS"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Vladimir Yakovlevich Gurevich"]
+[Black "Igor A Polovodin"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[PlyCount "85"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8.
+Bxc6 bxc6 9. O-O Bc5 10. f3 Ng5 11. f4 Ne4 12. Be3 Bb6 13. Nd2 Nxd2 14. Qxd2 c5
+15. Nf3 Bf5 16. c3 O-O 17. b4 Qe7 18. bxc5 Bxc5 19. Rae1 Rad8 20. Bxc5 Qxc5+
+21. Kh1 f6 22. Nd4 fxe5 23. fxe5 Bc8 24. e6 Rxf1+ 25. Rxf1 Re8 26. Qg5 Qe7 27.
+Qe5 Qd6 28. Qxd6 cxd6 29. Re1 g5 30. Kg1 Kg7 31. Re3 Kf6 32. Rf3+ Kg6 33. Rf7
+a5 34. Ra7 Bxe6 35. Rxa5 Kf6 36. Ra6 Bf7 37. Rxd6+ Ke5 38. Rd7 Bg6 39. Nf3+ Ke6
+40. Rb7 Ra8 41. Rb2 Kd6 42. Kf2 Ra3 43. Nxg5  1/2-1/2
+
+[Event "Game 03"]
+[Site "Richardson"]
+[Date "2007.12.07"]
+[Round "2"]
+[White "Jacek Stopa"]
+[Black "Dmitry Schneider"]
+[Result "1/2-1/2"]
+[BlackElo "2502"]
+[ECO "C55"]
+[PlyCount "94"]
+[WhiteElo "2410"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8.
+Bxc6 bxc6 9. O-O Bc5 10. f3 Ng5 11. f4 Ne4 12. Be3 Bb6 13. Nd2 Nxd2 14. Qxd2 c5
+15. Nf3 d4 16. Bf2 Bc6 17. f5 Bxf3 18. gxf3 Qd5 19. Qg5 Kd7 20. Bg3 Rhg8 21. a4
+a5 22. Rae1 Kc6 23. e6 fxe6 24. Re5 Qc4 25. fxe6 Kb7 26. Qf5 Qxa4 27. b3 Qc6
+28. e7 g6 29. Qf7 Rge8 30. Kg2 a4 31. bxa4 Qxa4 32. Rf2 c4 33. Rfe2 c3 34. Bf2
+Qc6 35. Re6 Qd7 36. Qf4 Ra5 37. Qe4+ Qd5 38. Qd3 Qb5 39. Qe4+ Qd5 40. Qd3 Qg5+
+41. Bg3 Qf5 42. R6e4 Qb5 43. Qd1 Qd7 44. Qd3 Qb5 45. Qd1 Qd7 46. Qd3 Qb5 47.
+Qd1 Qd7  1/2-1/2
+
+[Event "Game 05"]
+[Site "Gauteng RSA"]
+[Date "2011.06.27"]
+[Round "4"]
+[White "David Smerdon"]
+[Black "Musatwe Simutowe"]
+[Result "1-0"]
+[ECO "C55"]
+[EventDate "2011.06.25"]
+[PlyCount "103"]
+[WhiteElo "2520"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 Nc6 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8.
+Bxc6 bxc6 9. O-O Bc5 10. Be3 O-O 11. f3 Ng5 12. f4 Ne4 13. Nd2 Nxd2 14. Qxd2 f6
+15. Nb3 Bxe3+ 16. Qxe3 fxe5 17. fxe5 Rxf1+ 18. Rxf1 Qe7 19. Nc5 Be6 20. c3 a5
+21. a4 Re8 22. b4 axb4 23. cxb4 h6 24. a5 Rb8 25. a6 Ra8 26. Ra1 Bf5 27. Qf4
+Be6 28. h3 Kh8 29. Ra3 Kh7 30. Rg3 Rd8 31. Qd4 Ra8 32. Qd3+ Kh8 33. Qg6 Bg8 34.
+e6 Rf8 35. Rf3 Rxf3 36. gxf3 Qh4 37. a7 Qe1+ 38. Kh2 Qe2+ 39. Kg3 Qe1+ 40. Kg2
+Qe2+ 41. Kg3 Qe1+ 42. Kg4 Qg1+ 43. Kh5 Qh2 44. Qf5 Qg3 45. h4 g6+ 46. Qxg6
+Qxf3+ 47. Kxh6 Qf4+ 48. Kh5 Qf3+ 49. Qg4 Bf7+ 50. Kg5 Qe3+ 51. Kf6 Qf2+ 52. Ke7
+ 1-0
+
+[Event "Game 09 Deviations from Main Line"]
+[Site "?"]
+[Date "2008"]
+[Round "?"]
+[White "Savchanko"]
+[Black "Malaniuk"]
+[Result "1-0"]
+[ECO "C44"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 d6 5. Nxd4 Be7 6. Nc3 Nf6 7. O-O O-O 8.
+Re1 Nxd4 9. Qxd4 Ng4 10. Bf4 Bf6 11. Qd2 Be6 12. Bb3 Be5 13. Bg5 Bf6 14. Bxf6
+Nxf6 15. Bxe6 fxe6 16. e5 Ng4 17. exd6 cxd6 18. h3 Ne5 19. Rad1 Qb6 20. Na4 Qc6
+21. Qxd6 Nf3+ 22. gxf3 Qxa4 23. Qxe6+ Kh8 24. Rd7 Qxc2 25. Re2 Qb1+ 26. Kg2
+Rac8 27. Rf7 Rg8 28. Rxb7 h6 29. Re1 Qd3 30. Qd7 Qg6+ 31. Qg4 Qa6 32. Ree7 Rc1
+33. Kh2 Qd6+ 34. f4 Qd4 35. Qf3 a5 36. a3 Rf1 37. Kg2 Rb1 38. Qe4 Qd1 39. Kg3
+Qg1+ 40. Qg2 Qc1 41. Re3 Rxb2 42. Rxb2 Qxb2 43. Qd5 Qb1 44. Qxa5 Qg1+ 45. Kf3
+Qf1 46. Qf5 Qh1+ 47. Ke2 Rd8 48. Qc2 Qa1 49. a4 Qh1 50. a5 Qa1 51. Re5 Qh1 52.
+Qa4 Qxh3 53. Re8+ Rxe8+ 54. Qxe8+ Kh7 55. Qe4+ Kh8 56. a6 Qh5+ 57. Qf3 Qb5+ 58.
+Qd3 Qb6 59. Kf3 Qc6+ 60. Kg3 Qb6 61. f5 h5 62. Qe2 Qd6+ 63. f4 h4+ 64. Kg4 Qa3
+65. Kxh4 Qa1 66. Kg5 Qg1+ 67. Qg4  1-0
+
+[Event "Game 02"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pap"]
+[Black "Abrahamovic"]
+[Result "*"]
+[ECO "C55"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8.
+Bxc6 bxc6 9. O-O Bc5 10. Be3 Bb6 11. f3 Ng5 12. f4 Ne4 13. Nd2 c5 14. N4f3 Nxd2
+15. Qxd2 d4 16. Bf2 Bc6 17. Bh4 { Not precise move order. Black can play
+17...Qd7 contesting the f5 square.}  ( 17. f5 Qd5 18. Bh4 )17... Qd5 18. f5 Kd7
+( 18... O-O 19. f6 Qe4 20. Rae1 Qg6 21. fxg7 Rfe8 22. Bf6 )( 18... h6 19. Qf4
+O-O 20. Qg3 Kh7 )( 18... c4 19. Kh1 d3 20. cxd3 Qxd3 21. Qb4 { Illustrates
+danger of king staying in the centre}  )19. b3 ( 19. c4 Qxc4 20. e6+ Kc8 21.
+Ne5 Qd5 22. Nxc6 Qxc6 23. exf7 Qd5 24. Qe2 Qxf7 25. Qa6+ Kd7 26. f6 Rhg8 27.
+Qa4+ c6 28. Qa6 )19... Rae8 20. c4 dxc3 21. Qxc3 Kc8 22. Bf2 Rd8 23. Rac1 ( {
+Instead of trying to simplify, White should play against the black dark square
+bisop. } 23. a4 c4 ( 23... a5)24. a5 Bxf2+ 25. Rxf2 cxb3 $2 ( 25... Rhe8 26.
+Re1 Qd3 27. Qxc4 Qxc4 28. bxc4 )26. Rc1 )23... Rhe8 24. Bxc5 Qxc5+ 25. Qxc5
+Bxc5+ $2 ( 25... Bxf3 26. Rxf3 Rxe5 27. Qxb6 axb6 )26. Rxc5 Bb7 27. Rfc1 Re7
+28. Kf2 Kb8 29. Ke3 h6 30. R1c4 g5 31. Rb4 a6 32. Nd4 Kc8 33. Rxb7 Kxb7 34. Nc6
+Ree8 35. Nxd8+ Rxd8 36. Rc2 Rd1 37. e6 fxe6 38. f6 Kc8 39. Rf2  *
+
+[Event "Modern Line"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "-"]
+[Black "-"]
+[Result "*"]
+[ECO "C55"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8.
+Bxc6 bxc6 9. O-O Bc5 10. Be3 Bb6 11. f3 Ng5 12. f4 Ne4 13. Nd2 Nxd2 14. Qxd2 c5
+15. Nf3 d4 16. Bf2 O-O 17. b3 Qc8 18. a4 a5 19. Nh4 Re8 20. Rae1  *
+
+[Event "Game 29 Max Lange Attack"]
+[Site "Amsterdam NED"]
+[Date "1927.11.13"]
+[Round "?"]
+[White "Max Euwe"]
+[Black "Petrus Franciscus van Hoorn"]
+[Result "1-0"]
+[ECO "C55"]
+[PlyCount "83"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8.
+fxg7 Rg8 9. Bg5 Be7 10. Bxe7 Kxe7 11. Re1+ Be6 12. Re4 f5 13. Rh4 Rxg7 14. Nxd4
+Qd5 15. g3 Rd8 16. Nc3 Qe5 17. Nxc6+ bxc6 18. Qf1 Kf8 19. Re1 Qf6 20. Qh3 Bg8
+21. Rf4 Be6 22. Qg2 Bd5 23. Nxd5 cxd5 24. Qf3 Rf7 25. g4 Qxb2 26. Rxf5 Qg7 27.
+Ree5 Qxe5 28. Rxf7+ Kg8 29. h4 d4 30. Rf5 Qe1+ 31. Kg2 Qe7 32. Qc6 c3 33. h5
+Kh8 34. Rf4 Qd6 35. Qf3 Qd5 36. Re4 Qg5 37. Qf7 Qd5 38. Qf6+ Kg8 39. f3 Qd6 40.
+Qg5+ Kh8 41. h6 Rg8 42. Re8  1-0
+
+[Event "Game 28 Max Lange Attack"]
+[Site "New York, NY USA"]
+[Date "1910.10.17"]
+[Round "5"]
+[White "Frank James Marshall"]
+[Black "Jose Raul Capablanca"]
+[Result "1-0"]
+[ECO "C55"]
+[PlyCount "75"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 Nc6 4. Bc4 Bc5 5. O-O Nf6 6. e5 d5 7. exf6 dxc4 8.
+Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nce4 O-O-O 12. Nxe6 fxe6 13. g4 Qe5 14.
+fxg7 Rhg8 15. Bh6 d3 16. c3 Be7 17. Qf3 Qd5 18. Rad1 b5 19. g5 Ne5 20. Qf4 Rd7
+21. Re3 a5 22. Rde1 b4 23. Nd2 Bxg5 24. Qxg5 Nf7 25. Qh4 Nd6 26. Qf6 Nf5 27.
+Re5 Qb7 28. Rxf5 exf5 29. Qxf5 Qd5 30. Re5 Qf7 31. Qxf7 Rxf7 32. Rxa5 Kb7 33.
+cxb4 Rf6 34. Rb5+ Ka7 35. Rh5 Rg6+ 36. Kf1 Rb8 37. a3 Rg8 38. Be3+  1-0
+
+[Event "Game 14 7....Bc5 Variation"]
+[Site "Amsterdam NED"]
+[Date "1861.??.??"]
+[Round "?"]
+[White "Joost Pinedo"]
+[Black "Adolf Anderssen"]
+[Result "0-1"]
+[ECO "C55"]
+[PlyCount "44"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5 8.
+Nxc6 Bxf2+ 9. Kf1 bxc6 10. Bxc6+ Kf8 11. c4 Ba6 12. b3 dxc4 13. Ba3+ Kg8 14.
+Qxd8+ Rxd8 15. Bxe4 Bd4 16. Nc3 cxb3+ 17. Ne2 Bxa1 18. Kf2 Rd2 19. Bf3 Bd4+ 20.
+Kg3 Bxe2 21. Bxe2 bxa2 22. e6 Rxe2  0-1
+
+[Event "Game 18 7....Bc5 Variation"]
+[Site "St Louis, MO USA"]
+[Date "2015.04.12"]
+[Round "11"]
+[White "Hikaru Nakamura"]
+[Black "Alexander Onischuk"]
+[Result "1-0"]
+[ECO "C55"]
+[EventDate "2015.03.31"]
+[PlyCount "61"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5 8. Be3
+O-O 9. Nxc6 bxc6 10. Bxc5 Nxc5 11. Bxc6 Rb8 12. O-O Rxb2 13. Qxd5 Qxd5 14. Bxd5
+Rxc2 15. Na3 Re2 16. Rac1 Nd3 17. Rxc7 Be6 18. Bb3 a5 19. Ra7 Bxb3 20. axb3
+Rxe5 21. Nc4 Rb5 22. Rb1 Nc5 23. Nxa5 Re8 24. g3 g6 25. b4 Nd3 26. Nc6 Re2 27.
+Rd7 Nxf2 28. Nd4 Nh3+ 29. Kh1 Nf2+ 30. Kg2 Nd1+ 31. Nxe2  1-0
+
+[Event "Game 19 7....Bc5 Variation"]
+[Site "Shanghai CHN"]
+[Date "2001.09.12"]
+[Round "6"]
+[White "Ye Jiangchuan"]
+[Black "Peter Svidler"]
+[Result "1-0"]
+[BlackElo "2695"]
+[ECO "C55"]
+[EventDate "2001.09.07"]
+[PlyCount "53"]
+[WhiteElo "2677"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5 8. Be3
+O-O 9. Nxc6 bxc6 10. Bxc5 Nxc5 11. Bxc6 Rb8 12. Qxd5 Qe7 13. O-O Rxb2 14. Nc3
+Ba6 15. Rfc1 Rd8 16. Qf3 Qxe5 17. Bd5 Qf6 18. Qe3 Ne6 19. Bb3 Nd4 20. Re1 h6
+21. Nd5 Qh4 22. Rad1 c5 23. Ne7+ Kh7 24. Bxf7 Rd6 25. Nf5 Ne2+ 26. Kh1 Rxd1 27.
+Bg6+  1-0
+
+[Event "Game 22 7....Ne4 Variation"]
+[Site "Wijk aan Zee NED"]
+[Date "2004.01.25"]
+[Round "13"]
+[White "Hikaru Nakamura"]
+[Black "Laurent Fressinet"]
+[Result "1-0"]
+[BlackElo "2636"]
+[ECO "C55"]
+[EventDate "2004.01.10"]
+[PlyCount "69"]
+[WhiteElo "2571"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 Ne4 6. Qe2 Nc5 7. c3 dxc3 8.
+Nxc3 Be7 9. Be3 O-O 10. O-O-O Ne6 11. Ne4 Qe8 12. h4 d6 13. exd6 cxd6 14. Nxd6
+Bxd6 15. Rxd6 Na5 16. Bd3 Qa4 17. Kb1 Nf4 18. Qc2 Qxc2+ 19. Bxc2 Ne6 20. b3 b6
+21. Ng5 h6 22. Nxe6 Bxe6 23. Be4 Rac8 24. f3 Rfe8 25. Bf4 Re7 26. Rc1 Rce8 27.
+b4 Nb7 28. Rdc6 f5 29. Bd3 Kf7 30. Rc7 a5 31. Bb5 Rd8 32. Rxe7+ Kxe7 33. Rc7+
+Kf6 34. Rxb7 Rd4 35. Bc1  1-0
+
+[Event "Game 10 Deviations from main line"]
+[Site "London ENG"]
+[Date "1842.??.??"]
+[Round "?"]
+[White "Howard Staunton"]
+[Black "Wolf Meyer Popert"]
+[Result "1-0"]
+[ECO "C44"]
+[PlyCount "71"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ 5. c3 dxc3 6. O-O c2 7. Qxc2 d6 8. a3
+Ba5 9. b4 Bb6 10. Bb2 Nf6 11. e5 dxe5 12. Nxe5 Nxe5 13. Bxe5 O-O 14. Nc3 Ng4
+15. Bg3 Qg5 16. Rae1 Bf5 17. Qb3 Nf6 18. Re7 Bg6 19. Bxc7 Ng4 20. Nd5 Bxc7 21.
+Rxc7 Rae8 22. Qg3 h6 23. f4 Qf5 24. Ne7+ Rxe7 25. Rxe7 Qf6 26. Qxg4 Qxe7 27.
+Qxg6 Qe3+ 28. Kh1 Qxa3 29. Qe4 Qc3 30. h3 Rc8 31. Bd3 Rd8 32. Rf3 g6 33. Bc4
+Rd1+ 34. Kh2 Qe1 35. Qxg6+ Kh8 36. Qxh6+  1-0
+
+[Event "Game 12 Deviations from main line"]
+[Site "Baku AZE"]
+[Date "2016.09.12"]
+[Round "10.4"]
+[White "Gawain Jones"]
+[Black "Arkadij Naiditsch"]
+[Result "1-0"]
+[BlackElo "2696"]
+[ECO "C55"]
+[EventDate "2016.09.02"]
+[PlyCount "97"]
+[WhiteElo "2635"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8.
+Bxc6 bxc6 9. O-O Be7 10. f3 Nc5 11. f4 Ne4 12. f5 c5 13. Ne2 Bb5 14. a4 Ba6 15.
+Nbc3 Nxc3 16. bxc3 Qd7 17. Rf2 O-O-O 18. Nf4 g5 19. Nh5 Rhg8 20. Qg4 Kb8 21.
+Bd2 Ka8 22. Re1 Bc4 23. a5 Rb8 24. h3 h6 25. Qf3 Qc8 26. Ng3 Re8 27. Qh5 f6 28.
+Qxh6 Rh8 29. Qg7 Qd8 30. Qf7 fxe5 31. f6 Bd6 32. Bxg5 Qg8 33. Qxg8 Rbxg8 34. h4
+e4 35. Nf5 Be5 36. g4 Bxc3 37. Re3 Be5 38. Ne7 Rb8 39. Ng6 d4 40. Nxe5 dxe3 41.
+Bxe3 Rxh4 42. Nxc4 Rb1+ 43. Kg2 Rxg4+ 44. Kh3 Rg8 45. Kh2 Kb7 46. f7 Rf8 47.
+Bxc5 Rh8+ 48. Kg2 Rbh1 49. f8=Q  1-0
+
+[Event "Game 13 Deviations from Main Line"]
+[Site "?"]
+[Date "1979"]
+[Round "?"]
+[White "Tseitlin, Mark D "]
+[Black "Yuneev, Alexey"]
+[Result "1-0"]
+[ECO "C55"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Nd7 7. O-O Be7 8. Bxc6
+bxc6 9. Nxd4 Nb8 10. Nc3 O-O 11. Qf3 Qd7 12. h3 Rd8 13. Re1 Na6 14. e6 fxe6 15.
+Nxe6 Re8 16. Nxg7 Rf8 17. Qh5 Kxg7 18. Bg5 Bd6 19. Bh6+ Kh8 20. Bxf8 Bxf8 21.
+Re8 Bb7 22. Rxa8 Bxa8 23. Re1 Bb7 24. Re8 Kg8 25. Ne2 Qf7 26. Qg5+ Qg6 27. Qd8
+Qd6 28. Qg5+ Kf7 29. Rd8 Qe7 30. Qf5+ Kg8 31. Rd7 Bc8 32. Qg4+ Bg7 33. Rxe7
+Bxg4 34. hxg4 Bxb2 35. Re8+ Kf7 36. Ra8 Nb4 37. Rxa7 Nxc2 38. Rxc7+ Kg8  1-0
+
